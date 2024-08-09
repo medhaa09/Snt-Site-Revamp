@@ -1,5 +1,5 @@
 baseURL: ''
-title: TailBliss
+title: Science And Technology Council
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -49,19 +49,19 @@ params:
   author: Nusser Studios
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  moto: "Innovate, Collaborate, Lead"
+  description: ""
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
   p1:
-    heading: "Our mission"
+    heading: "A Little About Us"
     image: "images/pages/our-mission.png"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-      - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
-      - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
-  p2:
+      - text: "The Science and Technology Council of IIT Kanpur is a hub of innovation and creativity, empowering students to explore and excel in cutting-edge technologies. "
+      - text: "The council encourages innovation and learning and caters to the need of all in the campus community through 20 clubs, hobby groups and teams. Arranging an array of workshops, lectures and competitions, the council is the best place to work and show of your skills. "
+      - text: "Join us in pioneering the future of technology, where your ideas have the power to ignite innovation, break new ground, and create lasting change in the world. Together, let's turn bold visions into reality."
+  p2:   
     heading: "Just in time for Hacktoberfest with JIT Tailwind."
     image: "images/pages/hacktoberfest.jpg"
     content:
@@ -101,10 +101,10 @@ params:
       url: 'https://github.com/nusserstudios'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://www.facebook.com/sntiitk'
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://www.instagram.com/sntiitk'
     twitter:
       enabled: true
       url: 'https://twitter.com/nusserstudios'
