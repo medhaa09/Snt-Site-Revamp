@@ -46,7 +46,7 @@ markup:
       xhtml: false
 
 params:
-  author: Nusser Studios
+  author: Web Team
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Innovate, Collaborate, Lead"
@@ -62,10 +62,10 @@ params:
       - text: "The council encourages innovation and learning and caters to the need of all in the campus community through 20 clubs, hobby groups and teams. Arranging an array of workshops, lectures and competitions, the council is the best place to work and show of your skills. "
       - text: "Join us in pioneering the future of technology, where your ideas have the power to ignite innovation, break new ground, and create lasting change in the world. Together, let's turn bold visions into reality."
   p2:   
-    heading: "Just in time for Hacktoberfest with JIT Tailwind."
+    heading: "Takneek: IIT Kanpur's Premier Inter-Hall Competition Showcasing Innovative Problem Solving"
     image: "images/pages/hacktoberfest.jpg"
     content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
+      - text: "Takneek is an engaging inter-hall competition organized by the SNT Council at IIT Kanpur, where halls compete against each other by solving problem statements set by the clubs within those halls. Each club formulates its own set of challenges, which are then addressed by the competing halls, fostering a spirit of innovation and intellectual rivalry. This format not only highlights the diverse problem-solving approaches of different halls but also strengthens the sense of community and collaboration across the IIT Kanpur campus. Through Takneek, students showcase their creativity and teamwork in a vibrant and dynamic competition."
   p3:
     heading: "Backed by world-renowned investors"
     content:
@@ -82,10 +82,11 @@ params:
       - identifier: d
       - identifier: e
       - identifier: f
-  p4:
-    heading: "From the blog"
-    content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+  # p4:
+  #   heading: "From the blog"
+  #   content:
+  #     - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+  # 
   p5:
     heading: "Stay Up to Date"
     content:
@@ -112,6 +113,10 @@ params:
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
     - identifier: prose
       name: Prose
       url: /prose/
@@ -165,14 +170,18 @@ menu:
       url: "#"
       weight: 30
   footer:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
     - identifier: about
       name: About
       url: /about/
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /categories/blog/
-      weight: 20
+    # - identifier: blog
+    #   name: Blog
+    #   url: /categories/blog/
+    #   weight: 20
     - identifier: news
       name: News
       url: /categories/news/
