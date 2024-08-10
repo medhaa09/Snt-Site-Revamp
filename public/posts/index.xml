@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-    <title>Posts on TailBliss</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on TailBliss</description>
-=======
     <title>Posts on Science And Technology Council</title>
     <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Science And Technology Council</description>
->>>>>>> yashaswiCommit
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Aug 2024 15:13:42 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 00:56:37 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-<<<<<<< HEAD
       <title>Finance &amp; Analytics Club</title>
       <link>//localhost:1313/posts/blog-post-1/</link>
       <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
       <guid>//localhost:1313/posts/blog-post-1/</guid>
       <description>Our club aims to spread financial literacy amongst the campus community &amp;amp; aspires to make everyone adept in handling Personal Finances. We work at the merger of finance and analytics applying analytical understandings and tools in the areas of finance and economics. In the era of digitalization, rapid growth opportunities in fintech industries have sprung.</description>
-=======
-      <title>Blog Post 1</title>
-      <link>//localhost:1313/posts/blog-post-1/</link>
-      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog-post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, co</description>
->>>>>>> yashaswiCommit
     </item>
     <item>
       <title>News Post 1</title>
@@ -65,7 +51,6 @@
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
     </item>
     <item>
-<<<<<<< HEAD
       <title>Aeromodelling Club</title>
       <link>//localhost:1313/posts/blog-post-2/</link>
       <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
@@ -85,41 +70,6 @@
       <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
       <guid>//localhost:1313/posts/blog-post-4/</guid>
       <description>Electronics Club, earlier started as a hobby group has now expanded into a students’ organisation with the objective of inculcating a spirit of developing innovative, cutting edge technology solutions to real life problems. We provide a platform to the students’ body where any individual with an idea can approach the club freely to grasp the necessary technical skills required to turn that idea into a reality.</description>
-=======
-      <title>Blog Post 2</title>
-      <link>//localhost:1313/posts/blog-post-2/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog-post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>Blog Post 3</title>
-      <link>//localhost:1313/posts/blog-post-3/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog-post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>Blog Post 4</title>
-      <link>//localhost:1313/posts/blog-post-4/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog-post-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>Blog Post 5</title>
-      <link>//localhost:1313/posts/blog-post-5/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog-post-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
-    </item>
-    <item>
-      <title>Blog Post 6</title>
-      <link>//localhost:1313/posts/blog-post-6/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog-post-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
->>>>>>> yashaswiCommit
     </item>
     <item>
       <title>News Post 3</title>
@@ -128,7 +78,6 @@
       <guid>//localhost:1313/posts/news-post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
     </item>
-<<<<<<< HEAD
     <item>
       <title>Programming Club</title>
       <link>//localhost:1313/posts/blog-post-5/</link>
@@ -150,7 +99,5 @@
       <guid>//localhost:1313/posts/blog-post-7/</guid>
       <description>We popularize speedcubing as a sport on campus by introducing other puzzles like Pyraminx, megaminx, skewb, square1, etc. Here, learning the 3x3x3 cube is just the beginning and a plethora of puzzles awaits you. You will get aware about various workshops being organised throughout the year about learning more and more about cubing. So if you ever wanted to learn about cubing or are really good at it, do come to our workshops.</description>
     </item>
-=======
->>>>>>> yashaswiCommit
   </channel>
 </rss>
