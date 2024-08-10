@@ -6,14 +6,56 @@
     <description>Recent content in News on TailBliss</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Aug 2024 15:13:42 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 20:46:13 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aerial Robotics </title>
+      <link>//localhost:1313/posts/teams-post-1/</link>
+      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+      <guid>//localhost:1313/posts/teams-post-1/</guid>
+      <description>Currently, we are developing a fleet of autonomous aerial vehicles which can which can perform various tasks with state-of-the-art controls and algorithms at its core. Our current focus is on navigation, localization &amp;amp; mapping . Since navigating in indoor areas with accuracy can’t only be relied on GPS, So robot is getting its odometry data by multi-sensor-fusion using GPS, IMU and Visual methods.</description>
+    </item>
+    <item>
+      <title>AUV </title>
+      <link>//localhost:1313/posts/teams-post-6/</link>
+      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+      <guid>//localhost:1313/posts/teams-post-6/</guid>
+      <description>Concern for man and his fate must always form the chief interest of all technical endeavors. Never forget this in the midst of your diagrams and equations. - Einstein One of the most eminent teams of IITK, Team AUV aims at developing an autonomous underwater vehicle capable of performing a set of tasks underwater from marker dropping, buoy detection to torpedo firing to surveillance.</description>
+    </item>
     <item>
       <title>Brain &amp; Cognitive Scoiety</title>
       <link>//localhost:1313/posts/news-post-1/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
       <guid>//localhost:1313/posts/news-post-1/</guid>
       <description>The Brain &amp;amp; Cognitive Society (BCS@IITK) is a student society at IIT Kanpur. We aim at studying Brain Science to reverse engineer human intelligence to create more general and intelligent AI&amp;rsquo;s for the future world. To achieve this we try to probe it from both ways developing better computational models of human cognition and relating the individual functionality of artificial computational models with that of humans.</description>
+    </item>
+    <item>
+      <title>Equipe de Robotique Autonome</title>
+      <link>//localhost:1313/posts/teams-post-5/</link>
+      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+      <guid>//localhost:1313/posts/teams-post-5/</guid>
+      <description>We are a team of undergraduates actively working with faculty and are dedicated to developing solutions to challenges in autonomous robotics and related domains. We develop cutting-edge robots aided by research and represent our university and nation in international competitions that see participants from prestigious colleges worldwide.</description>
+    </item>
+    <item>
+      <title>IITK Motorsports </title>
+      <link>//localhost:1313/posts/teams-post-3/</link>
+      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+      <guid>//localhost:1313/posts/teams-post-3/</guid>
+      <description>IITK Motorsports has a vision - “Design &amp;amp; Build a Race Car”. We have four divisions, formula style racing car, all terrain vehicles, electric vehicles, efficient vehicles, with the last two being formed for the very first time this year. The first formula racing car we built, participated and performed decently in Formula Student Italy in September 2013.</description>
+    </item>
+    <item>
+      <title>Team Humanoid </title>
+      <link>//localhost:1313/posts/teams-post-4/</link>
+      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+      <guid>//localhost:1313/posts/teams-post-4/</guid>
+      <description>When we think of robots, the first thing that we imagine is a picture of “C3PO” or “Chitti”, both exemplar symbols of the pop culture and more importantly, astonishingly awesome Humanoids! We at Team Humanoid are a group of enthusiastic students who are working towards developing a fully functional Humanoid robot of our own.</description>
+    </item>
+    <item>
+      <title>Team Vision </title>
+      <link>//localhost:1313/posts/teams-post-2/</link>
+      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+      <guid>//localhost:1313/posts/teams-post-2/</guid>
+      <description>IGVC is one of the biggest international competition of Intelligent Ground Vehicles. In our very first participation, we secured the 5th position in Design Category of IGVC 2018. Each year, some of the most brilliant, hard working, and sincere people of any institute interested in Autonomy, team up to build vehicles to participate in the competition.</description>
     </item>
     <item>
       <title>DesCon Society</title>
