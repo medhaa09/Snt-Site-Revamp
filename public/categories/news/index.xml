@@ -9,25 +9,11 @@
     <lastBuildDate>Sat, 10 Aug 2024 21:05:56 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/categories/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aerial Robotics </title>
-      <link>//localhost:1313/posts/teams-post-1/</link>
-      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/posts/teams-post-1/</guid>
-      <description>Currently, we are developing a fleet of autonomous aerial vehicles which can which can perform various tasks with state-of-the-art controls and algorithms at its core. Our current focus is on navigation, localization &amp;amp; mapping . Since navigating in indoor areas with accuracy can’t only be relied on GPS, So robot is getting its odometry data by multi-sensor-fusion using GPS, IMU and Visual methods.</description>
-    </item>
-    <item>
       <title>AUV </title>
       <link>//localhost:1313/posts/teams-post-6/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
       <guid>//localhost:1313/posts/teams-post-6/</guid>
       <description>Concern for man and his fate must always form the chief interest of all technical endeavors. Never forget this in the midst of your diagrams and equations. - Einstein One of the most eminent teams of IITK, Team AUV aims at developing an autonomous underwater vehicle capable of performing a set of tasks underwater from marker dropping, buoy detection to torpedo firing to surveillance.</description>
-    </item>
-    <item>
-      <title>Brain &amp; Cognitive Scoiety</title>
-      <link>//localhost:1313/posts/news-post-1/</link>
-      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>//localhost:1313/posts/news-post-1/</guid>
-      <description>The Brain &amp;amp; Cognitive Society (BCS@IITK) is a student society at IIT Kanpur. We aim at studying Brain Science to reverse engineer human intelligence to create more general and intelligent AI&amp;rsquo;s for the future world. To achieve this we try to probe it from both ways developing better computational models of human cognition and relating the individual functionality of artificial computational models with that of humans.</description>
     </item>
     <item>
       <title>Equipe de Robotique Autonome</title>

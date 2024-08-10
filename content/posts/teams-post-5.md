@@ -9,7 +9,7 @@ description: We are a team of undergraduates actively working with faculty and a
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
 # tags: News
-categories: news
+categories: teams
 ---
 ## About Us
 We are a team of undergraduates actively working with faculty and are dedicated to developing solutions to challenges in autonomous robotics and related domains. We develop cutting-edge robots aided by research and represent our university and nation in international competitions that see participants from prestigious colleges worldwide. In the past, we excelled in the RoboMaster AI Challenge in 2022 (2nd place) and DJI RoboMaster Challenge 2019 (3rd place). Currently, we are working towards our first participation in the upcoming (2024) edition of the RoboCup MSL.

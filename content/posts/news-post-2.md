@@ -9,7 +9,7 @@ description: The Design and Construction group organizes different activities in
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
 # tags: News
-categories: News
+categories: societies
 ---
 ## About Us
 The Design and Construction group organizes different activities including designing of popsicle bridge, Spaghetti Bridge and other types of bridges. Along with that different structural analysis are performed practically. Students are encouraged to perform activities on their own ideas and use of different softwares for structural analysis. Basics of designing and softwares are taught through lectures and workshops throughout the year.

@@ -8,7 +8,7 @@ summary: The Brain & Cognitive Society (BCS@IITK) is a student society at IIT Ka
 description: The Brain & Cognitive Society (BCS@IITK) is a student society at IIT Kanpur. We aim at studying Brain Science to reverse engineer human intelligence to create more general and intelligent AI's for the future world. To achieve this we try to probe it from both ways developing better computational models of human cognition and relating the individual functionality of artificial computational models with that of humans.
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
-categories: News
+categories: societies
 # tags: News
 ---
 ## About Us

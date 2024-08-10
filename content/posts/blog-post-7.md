@@ -8,7 +8,7 @@ summary: We popularize speedcubing as a sport on campus by introducing other puz
 description: We popularize speedcubing as a sport on campus by introducing other puzzles like Pyraminx, megaminx, skewb, square1, etc. Here, learning the 3x3x3 cube is just the beginning and a plethora of puzzles awaits you. You will get aware about various workshops being organised throughout the year about learning more and more about cubing. So if you ever wanted to learn about cubing or are really good at it, do come to our workshops. 
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
-categories: blog
+categories: clubs
 # tags: blog
 ---
 ## About us

@@ -8,7 +8,7 @@ summary: Aeromodelling Club, IIT Kanpur has been innovating new concept planes s
 description: Aeromodelling Club, IIT Kanpur has been innovating new concept planes since 2006 and ever since then there was no turning back, with time the projects have improved, new conceptual airplanes have been made here and it has set its own benchmark at the world level (especially at SAE Aero). Summer project provides the first step to students to convert their innovations, their new ideas and their imaginations into reality, a working model. Similar work has been done this year, many new planes have been made and tested effectively.
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
-categories: blog
+categories: clubs
 # tags: club
 ---
 ## About us

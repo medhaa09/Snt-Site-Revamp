@@ -9,7 +9,7 @@ description: The Game Development Society aims to bring together people interest
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
 # tags: News
-categories: News
+categories: societies
 ---
 ## About Us
 

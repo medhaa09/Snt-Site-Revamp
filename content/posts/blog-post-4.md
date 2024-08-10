@@ -8,7 +8,7 @@ summary: Electronics Club, earlier started as a hobby group has now expanded int
 description: Electronics Club, earlier started as a hobby group has now expanded into a students’ organisation with the objective of inculcating a spirit of developing innovative, cutting edge technology solutions to real life problems. We provide a platform to the students’ body where any individual with an idea can approach the club freely to grasp the necessary technical skills required to turn that idea into a reality. lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
-categories: blog
+categories: clubs
 # tags: blog
 ---
 ## About Us

@@ -8,7 +8,7 @@ summary: If you have ever even secretly aspired to build your own robot, then th
 description: If you have ever even secretly aspired to build your own robot, then the Robotics Club, IITK is the place for you! We are a diverse group of over-enthused robotics nerds who find roots across all academic departments of the institute as well as ‘seniority’. The club is a student body which finds its place under the Science and Technology Council, Student Gymkhana, IIT Kanpur. 
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
-categories: blog
+categories: clubs
 # tags: blog
 ---
 ## About us

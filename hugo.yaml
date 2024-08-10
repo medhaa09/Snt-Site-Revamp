@@ -116,10 +116,6 @@ menu:
     - identifier: home
       name: Home
       url: /
-      weight: 5
-    - identifier: prose
-      name: Prose
-      url: /prose/
       weight: 10
     - identifier: about
       name: About
@@ -127,67 +123,67 @@ menu:
       weight: 20
     - identifier: categories
       pre: dropdown
-      name: Categories
+      name: Entities
       weight: 30
     - identifier: dropdown
-      pre: complexdropdown
-      name: Dropdown
+      pre: dropdown
+      name: Resources
       weight: 40
+    - identifier: prose
+      name: Gallery
+      url: /prose/
+      weight: 50
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 50
+      weight: 60
   categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: clubs
+      name: Clubs
+      url: /categories/clubs/
       weight: 10
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: societies
+      name: Societies
+      url: /categories/societies/
       weight: 20
-    - identifier: blog
-      name: Blogs
-      url: /categories/blog/
+    - identifier: teams
+      name: Teams
+      url: /categories/teams/
       weight: 30
   dropdown:
-    - identifier: appearance
-      pre: stars # can be stars, comments or piechart
-      name: Appearance
+    - identifier: takneek
+      # pre: stars # can be stars, comments or piechart
+      name: Takneek
       post: "Easy customization"
       url: "#"
-      weight: 10
-    - identifier: comments
-      pre: comments # can be stars, comments or piechart
-      name: Comments
+      weight: 20
+    - identifier: meet-the-team
+      # pre: comments # can be stars, comments or piechart
+      name: Meet the Team
       post: "Check your latest comments"
       url: "#"
-      weight: 20
-    - identifier: analytics
-      pre: piechart # can be stars, comments or piechart
-      name: Analytics
+      weight: 30
+    - identifier: resources
+      # pre: piechart # can be stars, comments or piechart
+      name: Resourses
       post: "Take a look at your statistics"
       url: "#"
-      weight: 30
+      weight: 10
   footer:
-    - identifier: home
-      name: Home
-      url: /
-      weight: 5
     - identifier: about
       name: About
       url: /about/
       weight: 10
-    # - identifier: blog
-    #   name: Blog
-    #   url: /categories/blog/
-    #   weight: 20
+    - identifier: blog
+      name: Team
+      url: /categories/blog/
+      weight: 20
     - identifier: news
-      name: News
+      name: Takneek
       url: /categories/news/
       weight: 30
     - identifier: prose
-      name: Prose
+      name: Gallery
       url: /prose/
       weight: 40
     - identifier: contact
