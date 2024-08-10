@@ -23,7 +23,7 @@
                             {{ .Params.summary }}
                         </p>
                     </div>
-                    <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
+                    <!-- <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
                         <span class="pr-2 font-black">Tags:</span>
                         <span>
                         {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
@@ -31,8 +31,8 @@
                         <a href="{{ .Permalink }}"
                            class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">{{ .LinkTitle }}</a>
                         {{- end -}}
-                        </span>
-                    </div>
+                        </span> 
+                    </div> -->
                     <div class="flex items-center mt-6">
                         <div class="flex-shrink-0">
                             <span class="sr-only">{{ .Params.author }}</span>
@@ -48,9 +48,9 @@
                                 {{ .Params.author }}
                             </p>
                             <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
-                                <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-02" }}</time>
-                                <span aria-hidden="true">&middot;</span>
-                                <span>{{ math.Round (div (countwords .Content) 220.0) }} min read</span>
+                                <!-- <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-02" }}</time> -->
+                                <!-- <span aria-hidden="true">&middot;</span> -->
+                                <!-- <span>{{ math.Round (div (countwords .Content) 220.0) }} min read</span> -->
                             </div>
                         </div>
                     </div>

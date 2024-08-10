@@ -1,15 +1,15 @@
 ---
-title: "Blog Post 5"
+title: "Programming Club"
 date: 2021-12-18T11:10:36+08:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/featured-img-placeholder.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
-author: TailBliss
-authorimage: ../assets/images/global/author.webp
+featured_image: ../assets/images/featured/pclub.jpg
+summary: Programming is an art required in almost all spheres of life, and we inculcate that talent in the people who want to learn it. Introductory lectures and workshops cater to the people who are willing to learn coding. On the other hand, highly motivated and knowledgeable people are provided with necessary equipment/resources for their project. We organize activities ranging from App Development, Hacking to Algorithm development and Gaming.
+description: Programming is an art required in almost all spheres of life, and we inculcate that talent in the people who want to learn it. Introductory lectures and workshops cater to the people who are willing to learn coding. On the other hand, highly motivated and knowledgeable people are provided with necessary equipment/resources for their project. We organize activities ranging from App Development, Hacking to Algorithm development and Gaming.
+# author: TailBliss
+# authorimage: ../assets/images/global/author.webp
 categories: blog
-tags: blog
+# tags: blog
 ---
 __Advertisement :smile:__
 
