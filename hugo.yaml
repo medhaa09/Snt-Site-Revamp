@@ -151,40 +151,34 @@ menu:
       url: /categories/teams/
       weight: 30
   dropdown:
-    - identifier: takneek
-      # pre: stars # can be stars, comments or piechart
-      name: Takneek
-      post: "Easy customization"
-      url: "#"
-      weight: 20
-    - identifier: meet-the-team
-      # pre: comments # can be stars, comments or piechart
-      name: Meet the Team
-      post: "Check your latest comments"
-      url: "#"
-      weight: 30
-    - identifier: resources
-      # pre: piechart # can be stars, comments or piechart
-      name: Resourses
-      post: "Take a look at your statistics"
+    - identifier: summer-project
+      name: Summer Projects
       url: "#"
       weight: 10
+    - identifier: takneek
+      name: Takneek
+      url: "#"
+      weight: 20
+    - identifier: interiit
+      name: InterIIT
+      url: "#"
+      weight: 30
   footer:
     - identifier: about
       name: About
       url: /about/
       weight: 10
-    - identifier: blog
-      name: Team
-      url: /categories/blog/
+    - identifier: clubs
+      name: Clubs
+      url: /categories/clubs/
       weight: 20
-    - identifier: news
-      name: Takneek
-      url: /categories/news/
+    - identifier: societies
+      name: Societies
+      url: /categories/societies/
       weight: 30
-    - identifier: prose
-      name: Gallery
-      url: /prose/
+    - identifier: teams
+      name: Teams
+      url: /categories/teams/
       weight: 40
     - identifier: contact
       name: Contact
