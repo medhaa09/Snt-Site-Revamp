@@ -99,7 +99,7 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/Web-Division-IITK'
     facebook:
       enabled: true
       url: 'https://www.facebook.com/sntiitk'
@@ -107,7 +107,7 @@ params:
       enabled: true
       url: 'https://www.instagram.com/sntiitk'
     twitter:
-      enabled: true
+      enabled: false
       url: 'https://twitter.com/nusserstudios'
     
 
@@ -151,17 +151,17 @@ menu:
       url: /categories/teams/
       weight: 30
   dropdown:
-    - identifier: summer-project
+    - identifier: summer projects
       name: Summer Projects
-      url: "#"
+      url: "/categories/summer projects/"
       weight: 10
     - identifier: takneek
       name: Takneek
-      url: "#"
+      url: "/categories/takneek/"
       weight: 20
-    - identifier: interiit
-      name: InterIIT
-      url: "#"
+    - identifier: inter-IIT
+      name: Inter-IIT
+      url: "/categories/inter-IIT/"
       weight: 30
   footer:
     - identifier: about
