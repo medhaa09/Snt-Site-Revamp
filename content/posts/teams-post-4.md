@@ -11,6 +11,7 @@ description: When we think of robots, the first thing that we imagine is a pictu
 # authorimage: ../assets/images/global/author.webp
 # tags: News
 categories: teams
+layout: "clubs_page"
 ---
 ## About Us
 When we think of robots, the first thing that we imagine is a picture of “C3PO” or “Chitti”, both exemplar symbols of the pop culture and more importantly, astonishingly awesome Humanoids! We at Team Humanoid are a group of enthusiastic students who are working towards developing a fully functional Humanoid robot of our own. Our Design subteam is working on different prototypes and our Software subteam is developing various algorithms that would enable our bot to perform wide-ranging tasks. We primarily aim at participating in the coveted FIRA HuroCup which is due to be held in Taiwan in 2019.

@@ -11,6 +11,7 @@ description: IGVC is one of the biggest international competition of Intelligent
 # authorimage: ../assets/images/global/author.webp
 # tags: News
 categories: teams
+layout: "clubs_page"
 ---
 ## About Us
 IGVC is one of the biggest international competition of Intelligent Ground Vehicles. In our very first participation, we secured the 5th position in Design Category of IGVC 2018. Each year, some of the most brilliant, hard working, and sincere people of any institute interested in Autonomy, team up to build vehicles to participate in the competition.    

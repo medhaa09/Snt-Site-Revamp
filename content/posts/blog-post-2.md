@@ -9,6 +9,7 @@ description: Aeromodelling Club, IIT Kanpur has been innovating new concept plan
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
 categories: clubs
+layout: "clubs_page"
 # tags: club
 ---
 ## About us

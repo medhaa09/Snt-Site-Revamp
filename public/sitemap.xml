@@ -8,14 +8,41 @@
     <loc>//localhost:1313/categories/clubs/</loc>
     <lastmod>2024-08-11T12:04:34+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/inter-iit/inter-iit-post-1/</loc>
+    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/blog-post-1/</loc>
     <lastmod>2024-08-10T23:46:14+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/summer-projects-post-1/</loc>
+    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/takneek/takneek-post-1/</loc>
+    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/inter-iit/</loc>
+    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/inter-iit/</loc>
+    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-08-11T12:04:34+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2024-08-11T12:04:34+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/</loc>
+    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/summer-projects/</loc>
+    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/takneek/</loc>
+    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/takneek/</loc>
+    <lastmod>2022-06-18T11:10:36+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/teams-post-1/</loc>
     <lastmod>2024-08-10T23:46:14+05:30</lastmod>
@@ -56,8 +83,17 @@
     <loc>//localhost:1313/about/</loc>
     <lastmod>2024-08-09T23:59:45+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/inter-iit/inter-iit-post-2/</loc>
+    <lastmod>2021-12-18T11:10:36+08:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/blog-post-2/</loc>
     <lastmod>2024-08-10T23:46:14+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/summer-projects-post-2/</loc>
+    <lastmod>2021-12-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/takneek/takneek-post-2/</loc>
+    <lastmod>2021-12-18T11:10:36+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/blog-post-3/</loc>
     <lastmod>2024-08-10T23:46:14+05:30</lastmod>
@@ -74,15 +110,18 @@
     <loc>//localhost:1313/posts/blog-post-5/</loc>
     <lastmod>2024-08-11T12:04:34+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/prose/</loc>
-    <lastmod>2024-08-08T15:13:42+05:30</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/blog-post-6/</loc>
     <lastmod>2024-08-10T23:46:14+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/blog-post-7/</loc>
     <lastmod>2024-08-10T23:46:14+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/gallery/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/web_division/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/web-division/</loc>
   </url>
 </urlset>

@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<article>
+    <header class="mb-4 bg-primary-600">
+      <span class="py-96">
+        <h1 class="py-16 text-5xl font-black text-center text-white capitalize">
+          {{ .Title }}
+        </h1>
+      </span>
+    </header>
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        {{ if .Content }}<div class="prose dark:prose-invert max-w-none mb-12">{{ .Content }}</div>{{ end }}
+        <div class="p-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            {{ range .Params.gallery }}
+                <div class="bg-gray-100 dark:bg-gray-800 overflow-hidden rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 cursor-pointer">
+                    <img src="{{ .image }}" alt="{{ .caption }}" class="w-full h-64 object-cover transition-transform duration-300 hover:scale-110" onclick="openLightbox(this.src, '{{ .caption }}')">
+                </div>
+            {{ end }}
+        </div>
+    </div>
+    
+    <!-- Lightbox -->
+    <div id="lightbox" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center hidden z-50">
+        <div class="max-w-4xl w-full px-4">
+            <img id="lightbox-img" src="" alt="" class="max-h-[80vh] w-auto mx-auto rounded-xl">
+            <p id="lightbox-caption" class="text-white text-center mt-4"></p>
+        </div>
+        <button onclick="closeLightbox()" class="absolute top-4 right-4 text-white text-4xl">&times;</button>
+    </div>
+    
+  </article>
+
+
+<script>
+function openLightbox(src, caption) {
+    document.getElementById('lightbox-img').src = src;
+    document.getElementById('lightbox-caption').textContent = caption;
+    document.getElementById('lightbox').classList.remove('hidden');
+}
+
+function closeLightbox() {
+    document.getElementById('lightbox').classList.add('hidden');
+}
+
+// Close lightbox when clicking outside the image
+document.getElementById('lightbox').addEventListener('click', function(e) {
+    if (e.target === this) {
+        closeLightbox();
+    }
+});
+</script>
+{{ end }}

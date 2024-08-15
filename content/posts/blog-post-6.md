@@ -9,6 +9,7 @@ description: If you have ever even secretly aspired to build your own robot, the
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
 categories: clubs
+layout: "clubs_page"
 # tags: blog
 ---
 ## About us

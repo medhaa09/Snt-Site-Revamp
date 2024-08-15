@@ -1,64 +1,60 @@
 <div class="mx-auto text-gray-900 max-w-7xl dark:text-gray-50">
     <div class="px-4 not-prose">
         <div class="flex justify-center">
-        <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
-            {{ range .Paginator.Pages }}
-            <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                <a href="{{.Permalink}}">
-                    {{ with .Params.featured_image }}
-                    {{ with resources.Get . }}
-                    {{ $postimage := (.Resize "500x webp q90").RelPermalink }}
-                    <img src="{{ $postimage }}" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
-                         loading="lazy" alt="{{ .Title }}" />
-
-                    {{ end }}
-                    {{ end }}
-                </a>
-                <div class="p-6">
-                    <div class="flex-1">
-                        <a href="{{.Permalink}}"
-                           class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                            {{.Title}}
-                        </a>
-                        <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                            {{ .Params.summary }}
-                        </p>
-                    </div>
-                    <!-- <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-                        <span class="pr-2 font-black">Tags:</span>
-                        <span>
-                        {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
-                        {{- if gt $elem_index 0 }}, {{ end -}}
-                        <a href="{{ .Permalink }}"
-                           class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">{{ .LinkTitle }}</a>
-                        {{- end -}}
-                        </span> 
-                    </div> -->
-                    <div class="flex items-center mt-6">
-                        <div class="flex-shrink-0">
-                            <span class="sr-only">{{ .Params.author }}</span>
-                            {{ with .Params.authorimage }}
-                            {{ with resources.Get . }}
-                            {{ $authorimage := (.Resize "40x webp").RelPermalink }}
-                            <img class="w-10 h-10 rounded-full" src="{{ $authorimage }}" alt="">
-                            {{ end }}
-                            {{ end }}
-                        </div>
-                        <div class="pt-1 ml-3">
-                            <p class="text-sm font-medium text-gray-900 dark:text-white">
-                                {{ .Params.author }}
-                            </p>
-                            <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
-                                <!-- <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-02" }}</time> -->
-                                <!-- <span aria-hidden="true">&middot;</span> -->
-                                <!-- <span>{{ math.Round (div (countwords .Content) 220.0) }} min read</span> -->
+            <div class="w-full">
+                {{ $isSummerProjectsPage := or (eq .Title "Summer-Projects") (eq .Title "Takneek") (eq .Title "Inter-IIT") }}
+                {{ $isWebDivision := (eq .Title "Web-Division")}}
+                <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none {{if $isWebDivision}} md:grid-cols-5 {{ else}}  md:grid-cols-3{{ end }}">
+                {{ range .Paginator.Pages }}
+                    {{ if $isWebDivision}} 
+                    {{ range .Params.headsList}}
+                    <div class="bg-white rounded-xl overflow-hidden transition-transform duration-300 hover:scale-105 w-[220px]">
+                        <img class="w-full h-48 object-cover transition-transform duration-300 hover:scale-110" src="{{ .photo }}" alt="{{.name}}">
+                        <div class="p-4 text-center">
+                            <h5 class="block mt-2 text-xl font-bold text-gray-900">{{.name}}</h5>
+                            <div class="font-bold text-gray-500 mb-2">Web Head</div>
+                            <div class="flex justify-center space-x-4">
+                                <a class="text-blue-700 hover:text-blue-900 transition-transform duration-300 hover:scale-110" href="{{.linkedin}}" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin fa-lg"></i></a>
+                                <a class="text-blue-400 hover:text-blue-600 transition-transform duration-300 hover:scale-110" href="{{.insta}}" target="_blank" aria-label="Instagram"><i class="fab fa-instagram fa-lg"></i></a>
+                                <a class="text-blue-600 hover:text-blue-800 transition-transform duration-300 hover:scale-110" href="{{.facebook}}" target="_blank" aria-label="Facebook"><i class="fab fa-facebook fa-lg"></i></a>
                             </div>
                         </div>
                     </div>
+                    {{ end }}
+                    {{else}} 
+                    <a href="{{ if $isSummerProjectsPage }}{{ .Params.link }} {{ else }}{{ .Permalink }}{{ end }}" 
+                       class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900 hover:shadow-xl transition-shadow duration-300">
+                        {{ with .Params.featured_image }} 
+                        {{ with resources.Get . }} 
+                        {{ $postimage := (.Resize "500x webp q90").RelPermalink }}
+                        <img src="{{ $postimage }}" class="object-cover overflow-hidden" loading="lazy" alt="{{ $.Title }}" />
+                        {{ end }}
+                        {{ end }}
+                        <div class="p-6 flex-grow {{ if $isSummerProjectsPage }}w-3/5{{ else }}w-full{{ end }}">
+                            <div class="flex-1">
+                                <h2 class="block mt-2 text-xl font-bold text-gray-900 dark:text-gray-200">{{.Title}}</h2>
+                                <p class="mt-3 text-sm text-gray-900 dark:text-gray-300 line-clamp-3">{{ .Params.summary }}</p>
+                            </div>
+                            <div class="flex items-center mt-4">
+                                <div class="flex-shrink-0">
+                                    <span class="sr-only">{{ .Params.author }}</span>
+                                    {{ with .Params.authorimage }}
+                                    {{ with resources.Get . }}
+                                    {{ $authorimage := (.Resize "40x webp").RelPermalink }}
+                                    <img class="w-8 h-8 rounded-full" src="{{ $authorimage }}" alt="">
+                                    {{ end }}
+                                    {{ end }}
+                                </div>
+                                <div class="ml-3">
+                                    <p class="text-sm font-medium text-gray-900 dark:text-white">{{ .Params.author }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    {{end}}
+                {{ end }}
                 </div>
             </div>
-            {{ end }}
         </div>
     </div>
-</div>
 </div>

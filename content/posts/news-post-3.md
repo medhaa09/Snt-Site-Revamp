@@ -10,6 +10,7 @@ description: The Game Development Society aims to bring together people interest
 # authorimage: ../assets/images/global/author.webp
 # tags: News
 categories: societies
+layout: "clubs_page"
 ---
 ## About Us
 

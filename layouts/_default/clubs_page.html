@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<article>
+    <!-- Header Section -->
+    <header class="mb-4 bg-primary-600">
+        <h1 class="py-16 text-5xl font-black text-center text-white capitalize">{{ .Title }}</h1>
+    </header>
+
+    <!-- Main Content Section -->
+    <div class="flex flex-col items-center">
+        <!-- Cover Image -->
+        <div class="relative flex items-center justify-center mb-8 w-full max-w-4xl">
+            {{ $img := resources.Get .Params.featured_image }}
+            {{ with $img }}
+            <img src="{{ .Permalink }}" alt="Featured Image" class="max-w-3xl rounded-xl">
+            {{ else }}
+            <p>No image found.</p>
+            {{ end }}
+        </div>
+
+        <!-- Content Section -->
+        <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 py-12">
+            {{ if .Content }}
+            <div class="prose dark:prose-invert max-w-none text-xl justify-text">{{ .Content }}</div>
+            {{ end }}
+        </div>
+    </div>
+</article>
+
+{{ end }}

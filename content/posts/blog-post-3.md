@@ -9,6 +9,7 @@ description: The astronomy club attempts to bring about an interest and awarenes
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
 categories: clubs
+layout: "clubs_page"
 # tags: blog
 ---
 ## About Us

@@ -10,6 +10,7 @@ description: Science Coffee House is a warmly knit society of science enthusiast
 # authorimage: ../assets/images/global/author.webp
 # tags: news
 categories: societies
+layout: "clubs_page"
 ---
 ## About Us
 Science Coffee House is a warmly knit society of science enthusiasts. Taking roots from discussing anything and everything over a cup of coffee, the group has diversified into more activities. We organize the most interesting talks on all branches of science from Physics to Philosophy, host reading groups where you can explore novel and niche topics with your friends, and offer projects with definite goals in mind. To ease the regular hustle, we also organize fun activities such as stream sessions, integration bees, and much more!

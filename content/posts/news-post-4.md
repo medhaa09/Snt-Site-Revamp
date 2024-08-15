@@ -10,6 +10,7 @@ description: We engage in projects of giving expert advice to organisations work
 # authorimage: ../assets/images/global/author.webp
 # tags: news
 categories: societies
+layout: "clubs_page"
 ---
 ## About us 
 We engage in projects of giving expert advice to organisations working in a professional or technical field based on some data or information about the problem given to us by them. We have done several projects for various organisations and have been successful at them.

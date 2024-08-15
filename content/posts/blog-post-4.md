@@ -9,6 +9,7 @@ description: Electronics Club, earlier started as a hobby group has now expanded
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
 categories: clubs
+layout: "clubs_page"
 # tags: blog
 ---
 ## About Us

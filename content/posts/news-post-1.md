@@ -9,6 +9,7 @@ description: The Brain & Cognitive Society (BCS@IITK) is a student society at II
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
 categories: societies
+layout: "clubs_page"
 # tags: News
 ---
 ## About Us

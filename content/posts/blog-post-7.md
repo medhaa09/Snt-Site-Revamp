@@ -9,6 +9,7 @@ description: We popularize speedcubing as a sport on campus by introducing other
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
 categories: clubs
+layout: "clubs_page"
 # tags: blog
 ---
 ## About us

@@ -9,6 +9,7 @@ description: Programming is an art required in almost all spheres of life, and w
 # author: TailBliss
 # authorimage: ../assets/images/global/author.webp
 categories: clubs
+layout: "clubs_page"
 # tags: blog
 ---
 

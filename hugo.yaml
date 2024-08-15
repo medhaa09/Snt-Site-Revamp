@@ -121,23 +121,23 @@ menu:
       name: About
       url: /about/
       weight: 20
-    - identifier: categories
+    - identifier: entities
       pre: dropdown
       name: Entities
       weight: 30
-    - identifier: dropdown
+    - identifier: resources
       pre: dropdown
       name: Resources
       weight: 40
-    - identifier: prose
+    - identifier: gallery
       name: Gallery
-      url: /prose/
+      url: /gallery/
       weight: 50
-    - identifier: contact
-      name: Contact
-      url: /contact/
+    - identifier: calendar
+      name: Calendar
+      url: https://calendar.sntiitk.com/
       weight: 60
-  categories:
+  entities:
     - identifier: clubs
       name: Clubs
       url: /categories/clubs/
@@ -150,10 +150,18 @@ menu:
       name: Teams
       url: /categories/teams/
       weight: 30
-  dropdown:
-    - identifier: summer projects
+    - identifier: outreach
+      name: Outreach
+      url: /categories/outreach/
+      weight: 40
+    - identifier: web-division
+      name: Web Division
+      url: /categories/web-division/
+      weight: 50
+  resources:
+    - identifier: summer-projects
       name: Summer Projects
-      url: "/categories/summer projects/"
+      url: /categories/summer-projects/
       weight: 10
     - identifier: takneek
       name: Takneek
