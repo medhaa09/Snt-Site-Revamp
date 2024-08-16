@@ -10,7 +10,27 @@ description: Aeromodelling Club, IIT Kanpur has been innovating new concept plan
 # authorimage: ../assets/images/global/author.webp
 categories: clubs
 layout: "clubs_page"
-# tags: club
+cordies:
+  - name: "Ridin Datta"
+    photo: "/teams/ridin.jpg"
+    linkedin: "https://www.linkedin.com/in/ridin-datta-932697226/"
+    facebook: ""
+    insta: "https://www.instagram.com/rhydburgerr/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
 ---
 ## About us
 October 17, 1903 — Ever since the day when man was first able to fulfill his dream to fly in the sky (Credits to Wright brothers who finally took a successful flight of their biplane), there has been an urge among people to how to design better planes, micro-aerial planes, huge UAVs, supersonic planes, rotor planes etc. these are countless and will never end until-and-unless the people do not stop innovating new concept planes — and yes, still the dream is same, to fly in the sky but in a modern way, more fashionable way and more efficient way.

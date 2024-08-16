@@ -6,11 +6,29 @@ language: en
 featured_image: ../assets/images/featured/bcs.jpeg
 summary: The Brain & Cognitive Society (BCS@IITK) is a student society at IIT Kanpur. We aim at studying Brain Science to reverse engineer human intelligence to create more general and intelligent AI's for the future world. To achieve this we try to probe it from both ways developing better computational models of human cognition and relating the individual functionality of artificial computational models with that of humans.
 description: The Brain & Cognitive Society (BCS@IITK) is a student society at IIT Kanpur. We aim at studying Brain Science to reverse engineer human intelligence to create more general and intelligent AI's for the future world. To achieve this we try to probe it from both ways developing better computational models of human cognition and relating the individual functionality of artificial computational models with that of humans.
-# author: TailBliss
-# authorimage: ../assets/images/global/author.webp
 categories: societies
 layout: "clubs_page"
-# tags: News
+cordies:
+  - name: "Ridin Datta"
+    photo: "/teams/ridin.jpg"
+    linkedin: "https://www.linkedin.com/in/ridin-datta-932697226/"
+    facebook: ""
+    insta: "https://www.instagram.com/rhydburgerr/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
 ---
 ## About Us
 

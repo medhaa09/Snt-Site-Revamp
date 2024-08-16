@@ -6,11 +6,29 @@ language: en
 featured_image: ../assets/images/featured/speedcub.jpg
 summary: We popularize speedcubing as a sport on campus by introducing other puzzles like Pyraminx, megaminx, skewb, square1, etc. Here, learning the 3x3x3 cube is just the beginning and a plethora of puzzles awaits you. You will get aware about various workshops being organised throughout the year about learning more and more about cubing. So if you ever wanted to learn about cubing or are really good at it, do come to our workshops.
 description: We popularize speedcubing as a sport on campus by introducing other puzzles like Pyraminx, megaminx, skewb, square1, etc. Here, learning the 3x3x3 cube is just the beginning and a plethora of puzzles awaits you. You will get aware about various workshops being organised throughout the year about learning more and more about cubing. So if you ever wanted to learn about cubing or are really good at it, do come to our workshops. 
-# author: TailBliss
-# authorimage: ../assets/images/global/author.webp
 categories: clubs
 layout: "clubs_page"
-# tags: blog
+cordies:
+  - name: "Ridin Datta"
+    photo: "/teams/ridin.jpg"
+    linkedin: "https://www.linkedin.com/in/ridin-datta-932697226/"
+    facebook: ""
+    insta: "https://www.instagram.com/rhydburgerr/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
 ---
 ## About us
 We popularize speedcubing as a sport on campus by introducing other puzzles like Pyraminx, megaminx, skewb, square1, etc. Here, learning the 3x3x3 cube is just the beginning and a plethora of puzzles awaits you. You will get aware about various workshops being organised throughout the year about learning more and more about cubing. So if you ever wanted to learn about cubing or are really good at it, do come to our workshops

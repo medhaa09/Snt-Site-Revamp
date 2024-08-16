@@ -6,11 +6,29 @@ language: en
 featured_image: ../assets/images/featured/electronic.jpg
 summary: Electronics Club, earlier started as a hobby group has now expanded into a students’ organisation with the objective of inculcating a spirit of developing innovative, cutting edge technology solutions to real life problems. We provide a platform to the students’ body where any individual with an idea can approach the club freely to grasp the necessary technical skills required to turn that idea into a reality.
 description: Electronics Club, earlier started as a hobby group has now expanded into a students’ organisation with the objective of inculcating a spirit of developing innovative, cutting edge technology solutions to real life problems. We provide a platform to the students’ body where any individual with an idea can approach the club freely to grasp the necessary technical skills required to turn that idea into a reality. lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
-# author: TailBliss
-# authorimage: ../assets/images/global/author.webp
 categories: clubs
 layout: "clubs_page"
-# tags: blog
+cordies:
+  - name: "Ridin Datta"
+    photo: "/teams/ridin.jpg"
+    linkedin: "https://www.linkedin.com/in/ridin-datta-932697226/"
+    facebook: ""
+    insta: "https://www.instagram.com/rhydburgerr/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
+  - name: "Shubh Jain"
+    photo: "/teams/shubh.png"
+    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    facebook: ""
+    insta: "https://www.instagram.com/shubhjain__007/"
 ---
 ## About Us
 Electronics Club, earlier started as a hobby group has now expanded into a students’ organisation with the objective of inculcating a spirit of developing innovative, cutting edge technology solutions to real life problems. We provide a platform to the students’ body where any individual with an idea can approach the club freely to grasp the necessary technical skills required to turn that idea into a reality. This is a place where students get an opportunity to think outside the academic curriculum and get practical experience by implementing and applying concepts learnt in various theoretical courses. We conduct a plethora of lectures, workshops, projects as well as competitions throughout the year concerning both analog as well as digital electronics keep the calendar busy and the participants, learning. Our summer projects are indeed a stepping stone for many freshers to develop interest in a particular field which help them in their future projects/internships/startups.
