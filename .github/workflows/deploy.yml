@@ -34,6 +34,6 @@ jobs:
       with:
         personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         publish_dir: ./public
-        external_repository: Web-Division-IITK/SNT-site
+        external_repository: Web-Division-IITK/Snt-Site-Revamp
         publish_branch: gh-pages
 
