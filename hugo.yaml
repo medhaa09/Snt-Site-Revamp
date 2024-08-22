@@ -1,4 +1,4 @@
-baseURL: 'https://web-division-iitk.github.io/Snt-Site-Revamp'
+baseURL: ''
 title: Science And Technology Council
 languageCode: en-us
 DefaultContentLanguage: en
@@ -115,11 +115,11 @@ menu:
   main:
     - identifier: home
       name: Home
-      url: /
+      url: /Snt-Site-Revamp/
       weight: 10
     - identifier: about
       name: About
-      url: /about/
+      url: /Snt-Site-Revamp/about/
       weight: 20
     - identifier: entities
       pre: dropdown
