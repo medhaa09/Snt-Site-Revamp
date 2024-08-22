@@ -3,15 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/clubs/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/inter-iit/inter-iit-post-1/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/blog-post-1/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/summer-projects/summer-projects-post-1/</loc>
@@ -26,11 +20,8 @@
     <loc>//localhost:1313/inter-iit/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
-  </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/summer-projects/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
@@ -45,40 +36,43 @@
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/teams-post-1/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/teams-post-6/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/news-post-1/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/teams-post-5/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/teams-post-3/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/societies/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/teams-post-4/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/teams-post-2/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/teams/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/news-post-2/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/news-post-4/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/news-post-5/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/about/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
@@ -86,8 +80,20 @@
     <loc>//localhost:1313/inter-iit/inter-iit-post-2/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/blog-post-2/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <loc>//localhost:1313/summer-projects/summer-projects-post-2-copy-2/</loc>
+    <lastmod>2021-12-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/summer-projects-post-2-copy-3/</loc>
+    <lastmod>2021-12-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/summer-projects-post-2-copy-4/</loc>
+    <lastmod>2021-12-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/summer-projects-post-2-copy-5/</loc>
+    <lastmod>2021-12-18T11:10:36+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/summer-projects-post-2-copy/</loc>
+    <lastmod>2021-12-18T11:10:36+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/summer-projects/summer-projects-post-2/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
@@ -95,31 +101,43 @@
     <loc>//localhost:1313/takneek/takneek-post-2/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/blog-post-3/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <loc>//localhost:1313/categories/clubs/</loc>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/contact/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/blog-post-4/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/news-post-3/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/blog-post-5/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/blog-post-6/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/blog-post-7/</loc>
-    <lastmod>2024-08-15T15:26:18+05:30</lastmod>
+    <lastmod>2024-08-16T23:20:38+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/electronicsclub/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/aeromodellingclub/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/clubs_page_template/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/bcs/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/financeandanalytics/</loc>
   </url><url>
     <loc>//localhost:1313/gallery/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/posts/gamedev/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/icg/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/programmingclub/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/roboticsclub/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/tag1/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/tag2/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/summer_projects_template/</loc>
   </url><url>
     <loc>//localhost:1313/web_division/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>

@@ -69,17 +69,21 @@
              class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row">
             
             
-            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
-                href="//localhost:1313/" title="Home">
-                Home
-            </a>
+                
+                <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
+                    href="//localhost:1313/" title="Home">
+                    Home
+                </a>
+                
             
             
             
-            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
-                href="//localhost:1313/about/" title="About">
-                About
-            </a>
+                
+                <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
+                    href="//localhost:1313/about/" title="About">
+                    About
+                </a>
+                
             
             
             
@@ -159,17 +163,21 @@
             
             
             
-            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
-                href="//localhost:1313/gallery/" title="Gallery">
-                Gallery
-            </a>
+                
+                <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
+                    href="//localhost:1313/gallery/" title="Gallery">
+                    Gallery
+                </a>
+                
             
             
             
-            <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
-                href="https://calendar.sntiitk.com/" title="Calendar">
-                Calendar
-            </a>
+                
+                <a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline"
+                    href="https://calendar.sntiitk.com/" title="Calendar"  target="_blank" rel="noopener noreferrer">
+                    Calendar
+                </a>
+                
             
             
             
@@ -206,7 +214,7 @@
             <div class="w-full">
                 
                 
-                <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none   md:grid-cols-3">
+                <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none  md:grid-cols-3 ">
                 
                      
                     <a href="//localhost:1313/posts/teams-post-1/" 
@@ -374,7 +382,34 @@
             </div>
         </div>
     </div>
+    <div id="lightbox" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center hidden z-50 p-4">
+        
+        <div class="max-w-xl p-4 flex flex-col items-center bg-gray-100 dark:bg-gray-900 overflow-hidden rounded-[16px] shadow-md hover:shadow-xl">
+            <img id="lightbox-img" src="" alt="" class="w-3xl rounded-xl">
+            <p id="lightbox-caption" class="text-white text-center mt-4"></p>
+        </div>
+        <button onclick="closeLightbox()" class="absolute top-4 right-4 text-white text-4xl">&times;</button>
+    </div>
+    <script>
+        function openLightbox(src, caption) {
+            document.getElementById('lightbox-img').src = src;
+            document.getElementById('lightbox-caption').textContent = caption;
+            document.getElementById('lightbox').classList.remove('hidden');
+        }
+        
+        function closeLightbox() {
+            document.getElementById('lightbox').classList.add('hidden');
+        }
+        
+        
+        document.getElementById('lightbox').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeLightbox();
+            }
+        });
+        </script>
 </div>
+
     </article>
     <div class="max-w-xl mx-auto my-16">
         

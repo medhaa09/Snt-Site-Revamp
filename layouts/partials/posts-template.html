@@ -4,7 +4,7 @@
             <div class="w-full">
                 {{ $isSummerProjectsPage := or (eq .Title "Summer-Projects") (eq .Title "Takneek") (eq .Title "Inter-IIT") }}
                 {{ $isWebDivision := (eq .Title "Web-Division")}}
-                <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none {{if $isWebDivision}} md:grid-cols-5 {{ else}}  md:grid-cols-3{{ end }}">
+                <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none {{if $isWebDivision}} md:grid-cols-5 {{ else if $isSummerProjectsPage}}  md:grid-cols-5 {{else}} md:grid-cols-3 {{ end }}">
                 {{ range .Paginator.Pages }}
                     {{ if $isWebDivision}} 
                     {{ range .Params.headsList}}
@@ -21,6 +21,34 @@
                         </div>
                     </div>
                     {{ end }}
+                    {{else if $isSummerProjectsPage}}
+                    <!-- <a href="{{ .Params.link }}"> -->
+                        <div class="bg-gray-100 dark:bg-gray-900 overflow-hidden rounded-[16px] shadow-md hover:shadow-xl">
+                            <div class="bg-green-500 overflow-hidden roundedt-[16px] shadow-md hover:shadow-xl h-[8px]">
+                            </div>
+                            {{ $parent := . }}
+                            {{ with .Params.featured_image }} 
+                            {{ with resources.Get . }} 
+                            {{ $postimage := (.Resize "500x webp q90").RelPermalink }}
+                            <div class="relative">
+                                <!-- <div class="bg-gray-100 dark:bg-gray-900 h-8 overflow-hidden rounded-[20px] shadow-md hover:shadow-xl relative"> -->
+                                <!-- <img src="{{ $postimage }}" alt="icon" class="absolute top-2 left-2 w-9 h-9 z-10 rounded-[10px]"> -->
+                                <!-- </div> -->
+                                <img src="{{ $postimage }}" alt="" class="w-full h-64 object-cover p-3 rounded-[22px] cursor-pointer" onclick="openLightbox(this.src, '{{ $parent.Params.summary | safeJS }}')">
+                            </div>
+                            {{ end }}
+                            {{ end }}
+                            <div class="px-3 pb-3">
+                                <h5 class="block mt-2 text-[15px] font-bold text-gray-100">{{.Title}}</h5>
+                                <p class="mt-3 text-sm text-gray-900 dark:text-gray-300 line-clamp-3">{{ .Params.summary }}</p>
+                                <div class="mt-2">
+                                    <i class="fab fa-github fa-lg transition-transform duration-300 cursor-pointer hover:scale-110" onclick="window.open('{{ .Params.link }}', '_blank');"></i>
+                                    <i class="fas fa-file-alt fa-lg transition-transform duration-300 cursor-pointer hover:scale-110" onclick="window.open('{{ .Params.link }}', '_blank');" style="color: #4b8be5;"></i>
+                                </div>
+                            </div>
+                        </div>
+                    <!-- </a> -->
+                    
                     {{else}} 
                     <a href="{{ if $isSummerProjectsPage }}{{ .Params.link }} {{ else }}{{ .Permalink }}{{ end }}" 
                        class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900 hover:shadow-xl transition-shadow duration-300">
@@ -57,4 +85,30 @@
             </div>
         </div>
     </div>
+    <div id="lightbox" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center hidden z-50 p-4">
+        
+        <div class="max-w-xl p-4 flex flex-col items-center bg-gray-100 dark:bg-gray-900 overflow-hidden rounded-[16px] shadow-md hover:shadow-xl">
+            <img id="lightbox-img" src="" alt="" class="w-3xl rounded-xl">
+            <p id="lightbox-caption" class="text-white text-center mt-4"></p>
+        </div>
+        <button onclick="closeLightbox()" class="absolute top-4 right-4 text-white text-4xl">&times;</button>
+    </div>
+    <script>
+        function openLightbox(src, caption) {
+            document.getElementById('lightbox-img').src = src;
+            document.getElementById('lightbox-caption').textContent = caption;
+            document.getElementById('lightbox').classList.remove('hidden');
+        }
+        
+        function closeLightbox() {
+            document.getElementById('lightbox').classList.add('hidden');
+        }
+        
+        // Close lightbox when clicking outside the image
+        document.getElementById('lightbox').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeLightbox();
+            }
+        });
+        </script>
 </div>
