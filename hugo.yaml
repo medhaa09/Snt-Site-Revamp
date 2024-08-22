@@ -188,10 +188,6 @@ menu:
       name: Teams
       url: /categories/teams/
       weight: 40
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 50
 
 markup:
   goldmark:

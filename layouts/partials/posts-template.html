@@ -9,7 +9,10 @@
                     {{ if $isWebDivision}} 
                     {{ range .Params.headsList}}
                     <div class="bg-white rounded-xl overflow-hidden transition-transform duration-300 hover:scale-105 w-[220px]">
-                        <img class="w-full h-48 object-cover transition-transform duration-300 hover:scale-110" src="{{ .photo }}" alt="{{.name}}">
+
+                        <!-- <img class="w-full h-48 object-cover transition-transform duration-300 hover:scale-110" src="{{ .photo }}" alt="{{.name}}"> -->
+                        <img class="w-full h-48 object-cover transition-transform duration-300 hover:scale-110" src="https://drive.google.com/thumbnail?id={{ .photo }}&sz=w1000" alt="{{.name}}">
+
                         <div class="p-4 text-center">
                             <h5 class="block mt-2 text-xl font-bold text-gray-900">{{.name}}</h5>
                             <div class="font-bold text-gray-500 mb-2">Web Head</div>

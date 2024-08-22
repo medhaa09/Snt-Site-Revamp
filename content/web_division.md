@@ -3,24 +3,24 @@ title: "Web_heads"
 categories: web-division
 headsList: 
   - name: "Devansh Verma"
-    photo: /web_heads/profile.png
+    photo: 1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS
     linkedin: "https://www.linkedin.com/in/ridin-datta-932697226/"
     facebook: ""
     insta: "https://www.instagram.com/rhydburgerr/"
   - name: "Jenil Dobariya"
-    photo: /web_heads/profile.png
+    photo: 1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS
     linkedin: "https://www.linkedin.com/in/ridin-datta-932697226/"
     facebook: ""
     insta: "https://www.instagram.com/rhydburgerr/"
   - name: "Priyanshu Maurya"
-    photo: /web_heads/priyanshu.jpg
+    photo: 15WZvbnfNzSZ0MLR6V2E9QySYTAMVxCSa
     linkedin: "https://www.linkedin.com/in/ridin-datta-932697226/"
     facebook: ""
     insta: "https://www.instagram.com/rhydburgerr/"
   - name: "Sameer Yadav"
-    photo: /web_heads/profile.png
+    photo: 1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS
   - name: "Shreya Shree"
-    photo: /web_heads/profile.png
+    photo: 1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS
     linkedin: "https://www.linkedin.com/in/ridin-datta-932697226/"
     facebook: ""
     insta: "https://www.instagram.com/rhydburgerr/"
