@@ -33,6 +33,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v4
       with:
         personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        external_repository: Web-Division-IITK/Snt-Site-Revamp
         publish_dir: ./public
         publish_branch: gh-pages
 
