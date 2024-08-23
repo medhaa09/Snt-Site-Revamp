@@ -188,6 +188,10 @@ menu:
       name: Teams
       url: /categories/teams/
       weight: 40
+    - identifier: web-division
+      name: Web Division
+      url: /categories/web-division/
+      weight: 50
 
 markup:
   goldmark:

@@ -1,52 +1,77 @@
 {{ define "main" }}
 
 <article>
-    <header class="mb-4 bg-primary-600"><h1 class="py-16 text-5xl font-black text-center text-white capitalize">{{ .Title }}</h1></header>
+    <!-- Header Section -->
+    <header class="mb-4 bg-primary-600">
+        <h1 class="py-16 text-3xl md:text-5xl font-black text-center text-white capitalize">{{ .Title }}</h1>
+    </header>
+
     <!-- Cover Image -->
-    <div class="flex justify-center"><img src="{{ .Params.featured_image}}" class="w-2/4 rounded-xl"></div>
+    <div class="flex justify-center p-4">
+        <img src="{{ .Params.featured_image}}" class="w-full md:w-2/4 rounded-xl">
+    </div>
+
     <!-- Content Section -->
-    <div class="mx-auto max-w-3xl py-10">{{ if .Content }}<div class="prose dark:prose-invert max-w-none">{{ .Content }}</div>{{ end }}</div>
-    <!-- Meet the team -->
-    <div class="flex justify-center rounded-xl pb-10">
-    <div class="flex flex-col justify-center items-center w-[760px] rounded-[20px] border border-gray-500 border-2 bg-gray-300 dark:bg-gray-900">
-        <div class="font-bold text-gray-900 dark:text-gray-100 mb-4 text-4xl p-4">
-            Meet The Team
-        </div>
-        <div class="bg-white shadow-lg rounded-xl overflow-hidden transition-transform duration-300 hover:scale-105 w-[220px]">
-            <img class="w-full h-48 object-cover transition-transform duration-300 hover:scale-110" src="{{ .Params.gensecPhoto }}" alt="Utkarsh Gupta">
-            <div class="p-4 text-center">
-                <h5 class="text-xl font-bold">{{ .Params.gensec }}</h5>
-                <div class="font-bold text-gray-500 mb-2">General Secretary</div>
-                <div class="flex justify-center space-x-4">
-                    <a class="text-blue-700 hover:text-blue-900 transition-transform duration-300 hover:scale-110" href="{{.Params.linkedin}}" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin fa-lg"></i></a>
-                    <a class="text-blue-400 hover:text-blue-600 transition-transform duration-300 hover:scale-110" href="{{.Params.insta}}" target="_blank" aria-label="Instagram"><i class="fab fa-instagram fa-lg"></i></a>
-                    <a class="text-blue-600 hover:text-blue-800 transition-transform duration-300 hover:scale-110" href="" target="_blank" aria-label="Facebook"><i class="fab fa-facebook fa-lg"></i></a>
-                </div>
+    <div class="mx-auto max-w-3xl py-10 px-4">
+        {{ if .Content }}
+            <div class="prose dark:prose-invert max-w-none">{{ .Content }}</div>
+        {{ end }}
+    </div>
+
+    <!-- Meet the Team Section -->
+    <div class="flex justify-center rounded-xl pb-8 px-6">
+        <div class="flex flex-col justify-center items-center w-[850px] max-w-7xl rounded-[20px] border border-gray-500 bg-gray-300 dark:bg-gray-900">
+            <div class="font-bold text-gray-900 dark:text-gray-100 mb-4 text-3xl md:text-4xl p-4 text-center">
+                Meet The Team
             </div>
-        </div>
-    
-        <div class="flex justify-center items-center pt-10 pb-4">
-            <div class="flex justify-center items-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-                {{ range .Params.isec }}
-                <div class="bg-white rounded-xl overflow-hidden transition-transform duration-300 hover:scale-105 w-[220px]">
-                    <img class="w-full h-48 object-cover transition-transform duration-300 hover:scale-110" src="{{ .photo }}" alt="{{.name}}">
-                    <div class="p-4 text-center">
-                        <h5 class="text-xl font-bold">{{.name}}</h5>
-                        <div class="font-bold text-gray-500 mb-2">Institute Secretary</div>
-                        <div class="flex justify-center space-x-4">
-                            <a class="text-blue-700 hover:text-blue-900 transition-transform duration-300 hover:scale-110" href="{{.linkedin}}" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin fa-lg"></i></a>
-                            <a class="text-blue-400 hover:text-blue-600 transition-transform duration-300 hover:scale-110" href="{{.insta}}" target="_blank" aria-label="Instagram"><i class="fab fa-instagram fa-lg"></i></a>
-                            <a class="text-blue-600 hover:text-blue-800 transition-transform duration-300 hover:scale-110" href="{{.facebook}}" target="_blank" aria-label="Facebook"><i class="fab fa-facebook fa-lg"></i></a>
-                        </div>
+
+            <!-- General Secretary Card -->
+            <div class="bg-white shadow-lg rounded-xl overflow-hidden transition-transform duration-300 hover:scale-105 w-[250px] max-w-xs mx-auto mb-8">
+                <img class="w-full object-cover transition-transform duration-300 hover:scale-110" src="{{ .Params.gensecPhoto }}" alt="Utkarsh Gupta">
+                <div class="p-4 text-center">
+                    <h5 class="text-xl font-bold">{{ .Params.gensec }}</h5>
+                    <div class="font-bold text-gray-500 mb-2">General Secretary</div>
+                    <div class="flex justify-center space-x-4">
+                        <a class="text-blue-700 hover:text-blue-900 transition-transform duration-300 hover:scale-110" href="{{.Params.linkedin}}" target="_blank" aria-label="LinkedIn">
+                            <i class="fab fa-linkedin fa-lg"></i>
+                        </a>
+                        <a class="text-blue-400 hover:text-blue-600 transition-transform duration-300 hover:scale-110" href="{{.Params.insta}}" target="_blank" aria-label="Instagram">
+                            <i class="fab fa-instagram fa-lg"></i>
+                        </a>
+                        <a class="text-blue-600 hover:text-blue-800 transition-transform duration-300 hover:scale-110" href="" target="_blank" aria-label="Facebook">
+                            <i class="fab fa-facebook fa-lg"></i>
+                        </a>
                     </div>
                 </div>
-                {{ end }}
+            </div>
+
+            <!-- Grid Layout for Institute Secretaries -->
+            <div class="w-full pt-4 pb-4">
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-2 justify-items-center">
+                    {{ range .Params.isec }}
+                    <div class="bg-white rounded-xl overflow-hidden transition-transform duration-300 hover:scale-105 w-[250px] max-w-xs">
+                        <img class="w-full object-cover transition-transform duration-300 hover:scale-110" src="{{ .photo }}" alt="{{.name}}">
+                        <div class="p-4 text-center">
+                            <h5 class="text-xl font-bold">{{.name}}</h5>
+                            <div class="font-bold text-gray-500 mb-2">Institute Secretary</div>
+                            <div class="flex justify-center space-x-4">
+                                <a class="text-blue-700 hover:text-blue-900 transition-transform duration-300 hover:scale-110" href="{{.linkedin}}" target="_blank" aria-label="LinkedIn">
+                                    <i class="fab fa-linkedin fa-lg"></i>
+                                </a>
+                                <a class="text-blue-400 hover:text-blue-600 transition-transform duration-300 hover:scale-110" href="{{.insta}}" target="_blank" aria-label="Instagram">
+                                    <i class="fab fa-instagram fa-lg"></i>
+                                </a>
+                                <a class="text-blue-600 hover:text-blue-800 transition-transform duration-300 hover:scale-110" href="{{.facebook}}" target="_blank" aria-label="Facebook">
+                                    <i class="fab fa-facebook fa-lg"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
             </div>
         </div>
     </div>
-    </div>
-    
-    
 </article>
 
 {{ end }}
