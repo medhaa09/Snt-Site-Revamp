@@ -47,8 +47,8 @@ markup:
 
 params:
   author: Web Team
-  authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
+  authorimage: https://drive.google.com/thumbnail?id=1nUMfW3gmCEljTetiQT_cAV_Dmqdy2OLn&sz=w1000
+  og_image: https://drive.google.com/thumbnail?id=1nUMfW3gmCEljTetiQT_cAV_Dmqdy2OLn&sz=w1000
   moto: "Innovate, Collaborate, Lead"
   description: ""
   disable_theme_toggle: false
