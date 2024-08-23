@@ -214,7 +214,9 @@
             <div class="w-full">
                 
                 
-                <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none  md:grid-cols-3 ">
+                <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none 
+                     grid-cols-2 sm:grid-cols-2 md:grid-cols-3
+                    ">
                 
                      
                     <a href="//localhost:1313/clubs/aeromodellingclub/" 
@@ -222,7 +224,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/aeromodeling_hu8671723222284688920.webp" class="object-cover overflow-hidden" loading="lazy" alt="Clubs" />
+                        <img src="//localhost:1313/../assets/images/featured/aeromodeling_hu8671723222284688920.webp" class="object-cover overflow-hidden h-48 sm:h-64" loading="lazy" alt="Clubs" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -249,7 +251,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/astronomy_hu14280428015001713120.webp" class="object-cover overflow-hidden" loading="lazy" alt="Clubs" />
+                        <img src="//localhost:1313/../assets/images/featured/astronomy_hu14280428015001713120.webp" class="object-cover overflow-hidden h-48 sm:h-64" loading="lazy" alt="Clubs" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -276,7 +278,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/bcs_hu287560972862746475.webp" class="object-cover overflow-hidden" loading="lazy" alt="Clubs" />
+                        <img src="//localhost:1313/../assets/images/featured/bcs_hu287560972862746475.webp" class="object-cover overflow-hidden h-48 sm:h-64" loading="lazy" alt="Clubs" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -303,7 +305,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/electronic_hu752585378828711596.webp" class="object-cover overflow-hidden" loading="lazy" alt="Clubs" />
+                        <img src="//localhost:1313/../assets/images/featured/electronic_hu752585378828711596.webp" class="object-cover overflow-hidden h-48 sm:h-64" loading="lazy" alt="Clubs" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -330,7 +332,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/finance_hu4018436316079077512.webp" class="object-cover overflow-hidden" loading="lazy" alt="Clubs" />
+                        <img src="//localhost:1313/../assets/images/featured/finance_hu4018436316079077512.webp" class="object-cover overflow-hidden h-48 sm:h-64" loading="lazy" alt="Clubs" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -357,7 +359,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/gamedev_hu18406967130484285934.webp" class="object-cover overflow-hidden" loading="lazy" alt="Clubs" />
+                        <img src="//localhost:1313/../assets/images/featured/gamedev_hu18406967130484285934.webp" class="object-cover overflow-hidden h-48 sm:h-64" loading="lazy" alt="Clubs" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -384,7 +386,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/pclub_hu14073641621632559329.webp" class="object-cover overflow-hidden" loading="lazy" alt="Clubs" />
+                        <img src="//localhost:1313/../assets/images/featured/pclub_hu14073641621632559329.webp" class="object-cover overflow-hidden h-48 sm:h-64" loading="lazy" alt="Clubs" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -411,7 +413,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/robotics_hu741811334300487264.webp" class="object-cover overflow-hidden" loading="lazy" alt="Clubs" />
+                        <img src="//localhost:1313/../assets/images/featured/robotics_hu741811334300487264.webp" class="object-cover overflow-hidden h-48 sm:h-64" loading="lazy" alt="Clubs" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -437,9 +439,8 @@
         </div>
     </div>
     <div id="lightbox" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center hidden z-50 p-4">
-        
-        <div class="max-w-xl p-4 flex flex-col items-center bg-gray-100 dark:bg-gray-900 overflow-hidden rounded-[16px] shadow-md hover:shadow-xl">
-            <img id="lightbox-img" src="" alt="" class="w-3xl rounded-xl">
+        <div class="max-w-xl w-full p-4 flex flex-col items-center bg-gray-100 dark:bg-gray-900 overflow-hidden rounded-[16px] shadow-md hover:shadow-xl">
+            <img id="lightbox-img" src="" alt="" class="w-full rounded-xl">
             <p id="lightbox-caption" class="text-white text-center mt-4"></p>
         </div>
         <button onclick="closeLightbox()" class="absolute top-4 right-4 text-white text-4xl">&times;</button>
@@ -461,9 +462,8 @@
                 closeLightbox();
             }
         });
-        </script>
+    </script>
 </div>
-
     </article>
     <div class="max-w-xl mx-auto my-16">
         

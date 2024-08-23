@@ -214,7 +214,9 @@
             <div class="w-full">
                 
                 
-                <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none  md:grid-cols-3 ">
+                <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none 
+                     grid-cols-1 sm:grid-cols-2 md:grid-cols-3
+                    ">
                 
                      
                     <a href="//localhost:1313/societies/news-post-2/" 
@@ -222,7 +224,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/descon_hu5293273753494016018.webp" class="object-cover overflow-hidden" loading="lazy" alt="Societies" />
+                        <img src="//localhost:1313/../assets/images/featured/descon_hu5293273753494016018.webp" class="object-cover overflow-hidden w-full sm:h-64" loading="lazy" alt="Societies" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -249,7 +251,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/sch_hu16872040893436402852.webp" class="object-cover overflow-hidden" loading="lazy" alt="Societies" />
+                        <img src="//localhost:1313/../assets/images/featured/sch_hu16872040893436402852.webp" class="object-cover overflow-hidden w-full sm:h-64" loading="lazy" alt="Societies" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -276,7 +278,7 @@
                          
                          
                         
-                        <img src="//localhost:1313/../assets/images/featured/icg_hu10649807076079054111.webp" class="object-cover overflow-hidden" loading="lazy" alt="Societies" />
+                        <img src="//localhost:1313/../assets/images/featured/icg_hu10649807076079054111.webp" class="object-cover overflow-hidden w-full sm:h-64" loading="lazy" alt="Societies" />
                         
                         
                         <div class="p-6 flex-grow w-full">
@@ -302,9 +304,8 @@
         </div>
     </div>
     <div id="lightbox" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center hidden z-50 p-4">
-        
-        <div class="max-w-xl p-4 flex flex-col items-center bg-gray-100 dark:bg-gray-900 overflow-hidden rounded-[16px] shadow-md hover:shadow-xl">
-            <img id="lightbox-img" src="" alt="" class="w-3xl rounded-xl">
+        <div class="max-w-xl w-full p-4 flex flex-col items-center bg-gray-100 dark:bg-gray-900 overflow-hidden rounded-[16px] shadow-md hover:shadow-xl">
+            <img id="lightbox-img" src="" alt="" class="w-full rounded-xl">
             <p id="lightbox-caption" class="text-white text-center mt-4"></p>
         </div>
         <button onclick="closeLightbox()" class="absolute top-4 right-4 text-white text-4xl">&times;</button>
@@ -326,9 +327,8 @@
                 closeLightbox();
             }
         });
-        </script>
+    </script>
 </div>
-
     </article>
     <div class="max-w-xl mx-auto my-16">
         
