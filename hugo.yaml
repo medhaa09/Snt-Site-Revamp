@@ -125,14 +125,14 @@ menu:
       pre: dropdown
       name: Entities
       weight: 30
-    - identifier: resources
-      pre: dropdown
-      name: Resources
-      weight: 40
-    - identifier: gallery
-      name: Gallery
-      url: /gallery/
-      weight: 50
+    # - identifier: resources
+    #   pre: dropdown
+    #   name: Resources
+    #   weight: 40
+    # - identifier: gallery
+    #   name: Gallery
+    #   url: /gallery/
+    #   weight: 50
     - identifier: calendar
       name: Calendar
       url: https://calendar.sntiitk.com/
