@@ -7,5 +7,33 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PClub</title>
+      <link>//localhost:1313/tags/pclub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pclub/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project</title>
+      <link>//localhost:1313/tags/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Summer23</title>
+      <link>//localhost:1313/tags/summer23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/summer23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web3.0</title>
+      <link>//localhost:1313/tags/web3.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/web3.0/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

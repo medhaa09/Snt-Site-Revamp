@@ -125,14 +125,18 @@ menu:
       pre: dropdown
       name: Entities
       weight: 30
-    # - identifier: resources
-    #   pre: dropdown
-    #   name: Resources
-    #   weight: 40
-    # - identifier: gallery
-    #   name: Gallery
-    #   url: /gallery/
-    #   weight: 50
+    - identifier: competitions
+      pre: dropdown
+      name: Competitions
+      weight: 35
+    - identifier: resources
+      pre: dropdown
+      name: Resources
+      weight: 40
+    - identifier: gallery
+      name: Gallery
+      url: /gallery/
+      weight: 50
     - identifier: calendar
       name: Calendar
       url: https://calendar.sntiitk.com/
@@ -158,15 +162,20 @@ menu:
       name: Web Division
       url: /categories/web-division/
       weight: 50
+  competitions:
+    - identifier: takneek
+      name: Takneek
+      url: "/categories/takneek/"
+      weight: 20
+    - identifier: inter-IIT
+      name: Inter-IIT
+      url: "/categories/inter-IIT/"
+      weight: 30
   resources:
     - identifier: summer-projects
       name: Summer Projects
       url: /categories/summer-projects/
       weight: 10
-    - identifier: takneek
-      name: Takneek
-      url: "/categories/takneek/"
-      weight: 20
     - identifier: inter-IIT
       name: Inter-IIT
       url: "/categories/inter-IIT/"
