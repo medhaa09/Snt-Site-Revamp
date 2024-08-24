@@ -4,6 +4,7 @@
             <div class="w-full">
                 {{ $isSummerProjectsPage := or (eq .Title "Summer-Projects") (eq .Title "Takneek") (eq .Title "Inter-IIT") }}
                 {{ $isTakneek := (eq .Title "Takneek")}}
+                {{ $isInterIIT := (eq .Title "Inter-IIT")}}
                 {{ $isWebDivision := (eq .Title "Web-Division")}}
                 <div class="grid gap-6 mx-auto mt-12 mb-4 lg:max-w-none 
                     {{if $isWebDivision}} grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5
@@ -31,8 +32,13 @@
                         <div class="text-[30px] text-gray-500 font-bold inline-block">
                           Coming Soon...
                         </div>
-                      </div>
-                      
+                    </div>
+                    {{else if $isInterIIT}}
+                    <div class="w-full text-center">
+                        <div class="text-[30px] text-gray-500 font-bold inline-block">
+                          Coming Soon...
+                        </div>
+                    </div>
                     {{else if $isSummerProjectsPage}}
                     <div class="bg-gray-100 dark:bg-gray-900 overflow-hidden rounded-[16px] shadow-md hover:shadow-xl">
                         <div class="bg-green-500 overflow-hidden roundedt-[16px] shadow-md hover:shadow-xl h-[8px]">
