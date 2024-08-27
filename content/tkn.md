@@ -3,9 +3,9 @@ title: "Content Overview"
 layout: "tkn"
 date: 2024-08-24T00:00:00Z
 high_prep:
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "OptiParse"
+    link: "https://drive.google.com/file/d/1JVvqVDPE-qW-q0VpEIIS_huJ0uz3Dl7X/view?usp=drive_link"
+    image: "/images/phn.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
