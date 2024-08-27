@@ -8,21 +8,21 @@ high_prep:
     image: "/assets/images/featured/pclub_hu14073641621632559329.webp"
     description: "Programming Club is a community of IITK students who are highly enthusiastic about development, algorithms, security, ML, and all other aspects of programming."
     scores:
-      Aryans: 10
-      Nawabs: 8
-      Kshatriyas: 9
-      Peshwas: 7
-      Shauryas: 6
-  - title: "Robotics Club"
-    link: "/clubs/roboticsclub/"
-    image: "/assets/images/featured/pclub_hu14073641621632559329.webp"
-    description: "The Robotics Club encourages students to learn and apply robotics, providing them with hands-on experience and opportunities to participate in competitions."
-    scores:
-      Aryans: 9
-      Nawabs: 7
-      Kshatriyas: 8
-      Peshwas: 6
-      Shauryas: 5
+      Aryans: 0
+      Nawabs: 0
+      Kshatriyas: 0
+      Peshwas: 0
+      Shauryas: 0
+  # - title: "Robotics Club"
+  #   link: "/clubs/roboticsclub/"
+  #   image: "/assets/images/featured/pclub_hu14073641621632559329.webp"
+  #   description: "The Robotics Club encourages students to learn and apply robotics, providing them with hands-on experience and opportunities to participate in competitions."
+  #   scores:
+  #     Aryans: 9
+  #     Nawabs: 7
+  #     Kshatriyas: 8
+  #     Peshwas: 6
+  #     Shauryas: 5
 #   - title: "Aero Club"
 #     link: "/clubs/aeroclub/"
 #     image: "/assets/images/featured/aeroclub_hu8963746191294761397.webp"
