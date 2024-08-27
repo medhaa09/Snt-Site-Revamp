@@ -165,7 +165,7 @@ menu:
   competitions:
     - identifier: takneek
       name: Takneek
-      url: "/categories/takneek/"
+      url: "/tkn/"
       weight: 20
     - identifier: inter-IIT
       name: Inter-IIT
