@@ -21,9 +21,9 @@ high_prep:
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "FinVision"
+    link: "https://drive.google.com/file/d/1X6kPTjaFEOaHIMIAMCJODZMvprshnZHz/view?usp=sharing"
+    image: "/images/product.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
