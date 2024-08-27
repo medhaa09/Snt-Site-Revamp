@@ -12,9 +12,9 @@ high_prep:
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "ATOM"
+    link: "https://drive.google.com/file/d/130lEO0SaJeewypUCJPdYXOcfFB7Hzimv/view?usp=sharing"
+    image: "/images/tkn.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
