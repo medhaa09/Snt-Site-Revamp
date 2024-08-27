@@ -92,28 +92,24 @@
     </div>
                         <!-- High-Prep Section -->
                         {{ if .Params.high_prep }}
-    <h2 class="text-2xl font-bold text-gray-900 dark:text-gray-200 mb-4">High-Prep</h2>
-    <div class="flex space-x-4 overflow-x-auto pb-4">
-        {{ range .Params.high_prep }}
-            <a href="{{ .link }}" 
-               class="flex-none w-64 rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900 hover:shadow-xl transition-shadow duration-300">
-                <img src="{{ .image }}" 
-                     class="object-cover h-48 w-full" loading="lazy" alt="{{ .title }}" />
-                <div class="p-6">
-                    <h2 class="block text-xl font-bold text-gray-900 dark:text-gray-200">
-                        {{ .title }}
-                    </h2>
-                    <p class="mt-3 text-sm text-gray-900 dark:text-gray-300 overflow-hidden" 
-                       style="max-height: 3.6em; line-clamp: 3; display: -webkit-box; -webkit-box-orient: vertical;">
-                        {{ .description }}
-                    </p>
-                </div>
-            </a>
-        {{ end }}
-    </div>
-{{ else }}
-    <p>No High-Prep content available.</p>
-{{ end }}
+                            <h2 class="text-2xl font-bold text-gray-900 dark:text-gray-200 mb-4">High-Prep</h2>
+                            {{ range .Params.high_prep }}
+                            <div class="flex flex-wrap space-x-4 pb-4 bg-gray-100 dark:bg-gray-900 overflow-hidden rounded-[16px] shadow-md hover:shadow-xl">    
+                                    <a href="{{ .link }}" class="flex-none">
+                                        <div class="bg-green-500 roundedt-[16px] shadow-md hover:shadow-xl h-[8px]">
+                                        </div>
+                                        <img src="{{ .image }}" alt="" class="w-64 h-64 object-cover p-3 rounded-[22px] cursor-pointer">
+                                        <div class="w-32 px-3 pb-3">
+                                            <h5 class="block mt-2 text-[15px] font-bold text-gray-100">{{.title}}</h5>
+                                        </div>
+                                    </a>
+                            </div>
+                            {{ end }}
+                            
+                            
+                        {{ else }}
+                            <p>No High-Prep content available.</p>
+                        {{ end }}
 
 <!-- Mid-Prep Section -->
 {{ if .Params.mid_prep }}

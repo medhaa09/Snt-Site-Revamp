@@ -6,8 +6,15 @@
     <description>Recent content on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2024 14:27:11 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 14:30:40 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Overview</title>
+      <link>//localhost:1313/takneek/takneek-post-1/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/takneek/takneek-post-1/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Finance &amp; Analytics Club</title>
       <link>//localhost:1313/inter-iit/inter-iit-post-1/</link>
@@ -77,13 +84,6 @@
       <pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate>
       <guid>//localhost:1313/contact/</guid>
       <description> Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.&#xA;Your Email: Subject: Your message: Send Message </description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/takneek/takneek-post-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/takneek/takneek-post-1/</guid>
-      <description> </description>
     </item>
     <item>
       <title>Aeromodelling Club</title>
