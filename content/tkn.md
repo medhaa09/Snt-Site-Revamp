@@ -30,9 +30,9 @@ high_prep:
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "AutoNormie"
+    link: "https://drive.google.com/file/d/1SoDFVc3e4SKpdQDwFWPtibaD1zUP2Nf2/view?usp=sharing"
+    image: "/images/car.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
