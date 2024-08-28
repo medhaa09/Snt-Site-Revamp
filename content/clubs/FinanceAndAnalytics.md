@@ -23,29 +23,36 @@ layout: "clubs_page"    #NO NEED TO CHANGE
 roadmaps :
     #Write title of the document
     #Paste google drive link (link should be accessible to all)
-  - title: 9-Week Roadmap to Finance
-    url: https://docs.google.com/document/d/1FoLgXTv0Fmnc35IRGY1O46qz3QLcxTkcWyenSwA11Ao/edit#heading=h.b02jptc2qsvc
+  - title: Quant
+    url: https://docs.google.com/document/d/1auS8Fk2F2KUskXXezSEoM0W6nAjN7wX1-2K4Vb6dEIg/edit?usp=sharing
+  - title: Data Analytics
+    url: https://docs.google.com/document/d/1fs4czAtOfawtrRYtupmFKo1GP8ZMcnHUPfwZXqFYHfo/edit?addon_store
+  - title: Investment Banking
+    url: https://docs.google.com/document/d/10pOAIt-Ee-O2YhR3jlCYoqGwMiPr6cXyk5DNPXjzrJ4/edit?usp=sharing
+  - title: Fundamental Analysis
+    url: https://docs.google.com/document/d/1AHLdVAUK4B_PsbHyL0OUDEth--vCYcoNdLTxphahKvc/edit?usp=sharing
+    #To add more doucuments, copy/paste title and url in same format as above.
 
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Tanush Goel"
-    photo: ""   #NO NEED TO CHANGE
+    photo: "https://drive.google.com/file/d/1JYQJWUD3DT-kc35hf3R7E18u6IrrdJYP/view?usp=sharing"   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/tanush-goel-a622a5289/"
     facebook:
     insta: "https://www.instagram.com/tanush.goel247/"
   - name: "Moni Dutt"
-    photo: ""   #NO NEED TO CHANGE
+    photo: "https://drive.google.com/file/d/1tdiJWaBOK0WVbcLctN_JAP07fkyZfqqK/view?usp=sharing"   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/moni-dutt-993325250/"
     facebook: ""
     insta: "https://www.instagram.com/moni_dutt/"
   - name: "Rachit Choudhary"
-    photo: ""   #NO NEED TO CHANGE
+    photo: "https://drive.google.com/file/d/1dsGO24dW9i5z18Vbomim4FzpWM1-yGwu/view?usp=sharing"   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/rachit-choudhary-754248253/"
     facebook: ""
     insta: "https://www.instagram.com/rachitchoudhary_04/"
   - name: "Naman Sethi"
-    photo: ""   #NO NEED TO CHANGE
+    photo: "https://drive.google.com/file/d/1_vpxH7bUUgrTqYSAJ6vzONMr19LyQzOo/view?usp=sharing"   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/naman-sethi-15aa6524b/"
     facebook: ""
     insta: "https://www.instagram.com/_naman._.sethi/"

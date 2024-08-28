@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/tkn/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-08-28T13:31:03+05:30</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-08-24T15:26:37+05:30</lastmod>
+    <lastmod>2024-08-28T13:31:03+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/inter-iit/inter-iit-post-1/</loc>
     <lastmod>2024-08-24T15:26:37+05:30</lastmod>
@@ -13,18 +19,6 @@
   </url><url>
     <loc>//localhost:1313/inter-iit/</loc>
     <lastmod>2024-08-24T15:26:37+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/takneek/takneek-post-1/</loc>
-    <lastmod>2024-08-24T15:15:22+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-08-24T15:26:37+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/takneek/</loc>
-    <lastmod>2024-08-24T15:15:22+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/takneek/</loc>
-    <lastmod>2024-08-24T15:15:22+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/teams/teams-post-6/</loc>
     <lastmod>2022-05-18T11:10:36+08:00</lastmod>
@@ -62,45 +56,194 @@
     <loc>//localhost:1313/about/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/takneek/takneek-post-1/</loc>
+    <lastmod>2024-08-24T15:15:22+05:30</lastmod>
+  </url><url>
     <loc>//localhost:1313/contact/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/takneek/</loc>
+    <lastmod>2024-08-24T15:15:22+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/roboclub_autonomousnavofmarsrover---garima/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/summer_projects_template5---mantavya-upadhyay/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/3d/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/3rotor/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/aero_acrobaticplane/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/acrobaticplane/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/acrobatics/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/aeromodelling-club/</loc>
+  </url><url>
     <loc>//localhost:1313/clubs/aeromodellingclub/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/aeromodellingclub/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/aeronautics/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/animation/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/astronomy/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/astronomy-club/</loc>
   </url><url>
     <loc>//localhost:1313/clubs/astronomyclub/</loc>
     <lastmod>2024-08-22T23:25:24+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/augmented-reality/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/blended-wing-design/</loc>
+  </url><url>
     <loc>//localhost:1313/clubs/bcs/</loc>
   </url><url>
+    <loc>//localhost:1313/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/cipher/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/classification-algorithms/</loc>
+  </url><url>
     <loc>//localhost:1313/clubs/</loc>
-    <lastmod>2024-08-22T23:25:24+05:30</lastmod>
+    <lastmod>2024-08-28T13:31:03+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/clubs/</loc>
-    <lastmod>2024-08-22T23:25:24+05:30</lastmod>
+    <lastmod>2024-08-28T13:31:03+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/computer-vision/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/constellations/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/cryptography/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/ctf/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/descon/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/development/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/drone/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/electronics/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/electronics-club/</loc>
   </url><url>
     <loc>//localhost:1313/clubs/electronicsclub/</loc>
   </url><url>
+    <loc>//localhost:1313/tags/electronics_club/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/elevons/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/embedded_systems/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/emg-control/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/encryption/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/encryption-and-decryption/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/astronomy-club_exo-stellar-nexus/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/exoplanets/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/fac/</loc>
+  </url><url>
     <loc>//localhost:1313/clubs/financeandanalytics/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/flying/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/flying-wings/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/flying_wing---harshita-chaudhary/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/fpga/</loc>
   </url><url>
     <loc>//localhost:1313/gallery/</loc>
     <lastmod>2024-08-24T15:15:22+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/clubs/gamedev/</loc>
   </url><url>
+    <loc>//localhost:1313/tags/git/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/golang/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/hacking/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/hardware/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/descon-society_hotwheels3dgamewithfusion360/</loc>
+  </url><url>
     <loc>//localhost:1313/societies/icg/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/image-processing/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/infosec/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/iot-communication/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/machine-learning/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/magnus_plane---harshita-chaudhary/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/magnuseffect/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/magnusplane/</loc>
   </url><url>
     <loc>//localhost:1313/summer-projects/mastering_web3.0/</loc>
     <lastmod>2024-08-24T15:15:22+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/matlab/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/microcontrollers/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/pcb_designing/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/pclub/</loc>
     <lastmod>2024-08-24T15:15:22+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/programming-club/</loc>
+  </url><url>
     <loc>//localhost:1313/clubs/programmingclub/</loc>
+    <lastmod>2024-08-28T13:31:03+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/project/</loc>
     <lastmod>2024-08-24T15:15:22+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/quant/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/quantweb/</loc>
+  </url><url>
     <loc>//localhost:1313/clubs/roboticsclub/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/rotatingcylinders/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/shooting-game/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/signal-processing/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/signalprocessing/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/stratolaunch/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/stratolaunch---harshita-chaudhary/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/stuntplane/</loc>
   </url><url>
     <loc>//localhost:1313/summer-projects/</loc>
     <lastmod>2024-08-24T15:15:22+05:30</lastmod>
@@ -111,8 +254,40 @@
     <loc>//localhost:1313/tags/summer23/</loc>
     <lastmod>2024-08-24T15:15:22+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/systemintegrator/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-08-24T15:15:22+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/thrust_vectoring---harshita-chaudhary/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/thrustcontrol/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/thrustvectoring/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/tiltrotor/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/tricopter/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/tricpoter---harshita-chaudhary/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/twinfuselage/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/uav_integrator---harshita-chaudhary/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/uavintegrator/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/unity/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/unmannedaerialvehicle/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/vectorthrust/</loc>
+  </url><url>
+    <loc>//localhost:1313/summer-projects/pclub_vcs---yash-pratap-singh/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/vr/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/web-dev/</loc>
   </url><url>
     <loc>//localhost:1313/web_division/</loc>
     <lastmod>2024-08-15T15:26:18+05:30</lastmod>

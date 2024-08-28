@@ -1,0 +1,149 @@
+{{ define "main" }}
+<main>
+    <article>
+        <header class="mb-4 bg-primary-600">
+            <span class="py-96">
+                <h1 class="py-16 text-5xl font-black text-center text-white capitalize">
+                    Takneek
+                </h1>
+            </span>
+        </header>
+
+        <div class="mx-auto w-full px-4 not-prose flex justify-center text-gray-900 max-w-7xl dark:text-gray-50">
+            <div class="container mx-auto px-4">
+                <!-- Leaderboard Heading with Toggle Button -->
+                <div class="flex items-center justify-between mb-6">
+                    <h2 class="text-3xl font-bold text-gray-900 dark:text-gray-200">Leaderboard</h2>
+                    <button onclick="toggleLeaderboard()" class="bg-primary-600 text-white px-4 py-2 rounded-lg hover:bg-primary-700 transition">
+                        Toggle Leaderboard
+                    </button>
+                </div>
+                
+                <!-- Leaderboard Table -->
+                <div id="leaderboard" class="overflow-x-auto" style="display: none;">
+                    <table class="min-w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg">
+                        <thead>
+                            <tr>
+                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Problem Statement</th>
+                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Aryans</th>
+                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Nawabs</th>
+                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Kshatriyas</th>
+                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Peshwas</th>
+                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Shauryas</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {{ range .Params.high_prep }}
+                            <tr>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
+                            </tr>
+                            {{ end }}
+
+                            {{ range .Params.mid_prep }}
+                            <tr>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
+                            </tr>
+                            {{ end }}
+
+                            {{ range .Params.low_prep }}
+                            <tr>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
+                            </tr>
+                            {{ end }}
+
+                            {{ range .Params.on_spot }}
+                            <tr>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
+                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
+                            </tr>
+                            {{ end }}
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- High-Prep Section -->
+                <h2 class="text-2xl font-bold mt-8">INNOVATE</h2>
+                <div class="grid gap-4 mt-4 mb-4 lg:max-w-none grid-cols-1 sm:grid-cols-2 md:grid-cols-5 lg:grid-cols-5">
+                    {{ with .Params.high_prep }}
+                        {{ range . }}
+                            <a href="{{ .link }}" class="flex flex-col sm:w-64 lg:w-48 overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900 hover:shadow-xl transition-shadow duration-300">
+                                <img src="{{ .image }}" class="object-cover overflow-hidden w-32 sm:w-64" loading="lazy" alt="{{ .title }}" />
+                                <div class="p-6 flex-grow w-full">
+                                    <h2 class="block mt-2 text-lg font-bold text-gray-900 dark:text-gray-200">{{ .title }}</h2>
+                                </div>
+                            </a>
+                        {{ end }}
+                    {{ else }}
+                        <p>No High-Prep content available.</p>
+                    {{ end }}
+                </div>
+                
+                <!-- Mid-Prep Section -->
+                <h2 class="text-2xl font-bold mt-8">QUEST</h2>
+                <div class="grid gap-4 mt-4 mb-4 lg:max-w-none grid-cols-1 sm:grid-cols-2 md:grid-cols-5 lg:grid-cols-5">
+                    {{ with .Params.mid_prep }}
+                        {{ range . }}
+                            <a href="{{ .link }}" class="flex flex-col sm:w-64 lg:w-48 overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900 hover:shadow-xl transition-shadow duration-300">
+                                <img src="{{ .image }}" class="object-cover overflow-hidden w-32 sm:w-64" loading="lazy" alt="{{ .title }}" />
+                                <div class="p-6 flex-grow w-full">
+                                    <h2 class="block mt-2 text-lg font-bold text-gray-900 dark:text-gray-200">{{ .title }}</h2>
+                                </div>
+                            </a>
+                        {{ end }}
+                    {{ else }}
+                        <p>No Mid-Prep content available.</p>
+                    {{ end }}
+                </div>
+                
+                <!-- Low-Prep Section -->
+                <h2 class="text-2xl font-bold mt-8">INSIGHT</h2>
+                <div class="grid gap-4 mt-4 mb-4 lg:max-w-none grid-cols-1 sm:grid-cols-2 md:grid-cols-5 lg:grid-cols-5">
+                    {{ with .Params.low_prep }}
+                        {{ range . }}
+                            <a href="{{ .link }}" class="flex flex-col sm:w-64 lg:w-48 overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900 hover:shadow-xl transition-shadow duration-300">
+                                <img src="{{ .image }}" class="object-cover overflow-hidden w-32 sm:w-64" loading="lazy" alt="{{ .title }}" />
+                                <div class="p-6 flex-grow w-full">
+                                    <h2 class="block mt-2 text-lg font-bold text-gray-900 dark:text-gray-200">{{ .title }}</h2>
+                                </div>
+                            </a>
+                        {{ end }}
+                    {{ else }}
+                        <p>No Low-Prep content available.</p>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </article>
+</main>
+
+<script>
+    function toggleLeaderboard() {
+        var leaderboard = document.getElementById("leaderboard");
+        if (leaderboard.style.display === "none") {
+            leaderboard.style.display = "block";
+        } else {
+            leaderboard.style.display = "none";
+        }
+    }
+</script>
+
+{{ end }}
