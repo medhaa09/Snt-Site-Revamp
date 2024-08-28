@@ -6,7 +6,7 @@
     <description>Recent content on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Aug 2024 03:21:45 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 03:40:19 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Overview</title>
@@ -93,11 +93,46 @@
       <description> Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.&#xA;Your Email: Subject: Your message: Send Message </description>
     </item>
     <item>
+      <title></title>
+      <link>//localhost:1313/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/eclub_airdrums---vaneesha-sathya-kumar/</guid>
+      <description>title: &amp;ldquo;Air Drums&amp;rdquo; # Write title of the project draft: false #NO NEED TO CHANGE language: en #NO NEED TO CHANGE featured_image: &amp;quot;&amp;quot; #NO NEED TO CHANGE categories: summer-projects #NO NEED TO CHANGE status: &amp;ldquo;completed&amp;rdquo; #NO NEED TO CHANGE tenure: 2024-25 #NO NEED TO CHANGE&#xA;poster: &amp;ldquo;https://drive.google.com/file/d/1vnLO-0yks6wMo6TB0aAP-4SNjywNERjr/view?usp=sharing&amp;quot; documentation: &amp;ldquo;https://drive.google.com/file/d/1rM2oKnJE6yTAKbH5cLYzoPUPXJowq-f_/view?usp=sharing&amp;quot; githubLink: &amp;ldquo;https://github.com/ElectronicsClub-IITK/Airdrums&amp;quot; club: &amp;ldquo;Electronics Club&amp;rdquo; # Write name of the club mentors: # Add name of cordies or heads and paste their social media links.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/summer-projects/pclub_vcs---yash-pratap-singh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/pclub_vcs---yash-pratap-singh/</guid>
+      <description>title: &amp;ldquo;Version Control System&amp;rdquo; # Write title of the project draft: false #NO NEED TO CHANGE language: en #NO NEED TO CHANGE featured_image: &amp;quot;&amp;quot; #NO NEED TO CHANGE categories: summer-projects #NO NEED TO CHANGE status: &amp;ldquo;completed&amp;rdquo; #NO NEED TO CHANGE tenure: 2024-25 #NO NEED TO CHANGE&#xA;poster: &amp;ldquo;https://drive.google.com/file/d/1IgIf2Aw2bDj_apXk_9oGZ2r4OZB96aaW/view?usp=sharing&amp;quot; documentation: &amp;ldquo;https://www.overleaf.com/read/gphjhqpzfzwv#987240&amp;quot; githubLink: &amp;ldquo;link_of_github_if_available&amp;rdquo; club: &amp;ldquo;Programming Club&amp;rdquo; # Write name of the club mentors: # Add name of cordies or heads and paste their social media links.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/summer-projects/roboclub_autonomousnavofmarsrover---garima/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/roboclub_autonomousnavofmarsrover---garima/</guid>
+      <description>https://drive.google.com/file/d/145A531PdhDQfIjbYZZktU4HjHnaevW-X/view?usp=sharing</description>
+    </item>
+    <item>
+      <title>Acrobatic Plane</title>
+      <link>//localhost:1313/summer-projects/aero_acrobaticplane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/aero_acrobaticplane/</guid>
+      <description>The acrobatic plane, constructed from lightweight balsa wood, offers the capability for complex maneuvers such as loops, inverted flight, and vertical stands. It features a symmetric airfoil with S8035 profile wings, while the elevator and rudder utilize the NACA0012 profile. Laser cutting creates precise shapes for the components. The wings span 1.5 meters with a chord length of 31 cm, divided into two symmetrical sections, each fabricated separately. Ailerons, each 6 cm wide, are cut from the wings. The propulsion system comprises a 580kV Propdrive brushless DC motor, four servos, a 14.8 V 4S 4200 mAh LiPo battery, a 100 Amp electronic speed controller (ESC), and a six-channel receiver.</description>
+    </item>
+    <item>
       <title>Aeromodelling Club</title>
       <link>//localhost:1313/clubs/aeromodellingclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/clubs/aeromodellingclub/</guid>
       <description>Aeromodelling Club, IIT Kanpur has been innovating new concept planes since 2003 and ever since then there was no turning back, with time the projects have improved, new conceptual airplanes have been made here and it has set its own benchmark at the world level (especially at SAE Aero). Summer project provides the first step to students to convert their innovations, their new ideas and their imaginations into reality, a working model. Similar work has been done this year, many new planes have been made and tested effectively..</description>
+    </item>
+    <item>
+      <title>AR Gesture Controlled Car</title>
+      <link>//localhost:1313/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/electronicsclub_argesturecontrolledcar---devansh-bansal/</guid>
+      <description>The integration of gesture control with IoT and augmented reality (AR) offers exciting prospects in the field of robotics and smart vehicles. Our project focuses on developing a gesture-controlled car that leverages camera modules and IoT to provide real-time video feed and overlay AR objects, transforming any regular floor into a dynamic race track.</description>
     </item>
     <item>
       <title>Astronomy Club</title>
@@ -114,6 +149,20 @@
       <description>Throughout the semester, the Brain and Cognitive Science Club  hosts various activities to engage members in the latest developments in the field. These include monthly Journal Club meetings, where students present and discuss recent research, fostering curiosity and knowledge sharing. The club also promotes three types of semester projects mainly replication of previous studies to verify their reproducibility, exploration of new research ideas, and projects aimed at learning for beginners. Additionally, BCS organizes talks and lectures by experts, along with workshops to provide foundational knowledge to newcomers.</description>
     </item>
     <item>
+      <title>Capture The Flag</title>
+      <link>//localhost:1313/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/programmingclub_capturetheflag---ritvik-goyal/</guid>
+      <description>In this project, we participated in various Capture The Flag (CTF) competitions, focusing primarily on binary exploitation challenges. Through hands-on experience in these contests, we developed skills in identifying and exploiting vulnerabilities in binaries. These challenges ranged from buffer overflows to format string attacks, requiring a deep understanding of system internals, memory management, and reverse engineering techniques. By solving numerous challenges, we gained valuable knowledge in binary exploitation, enhancing our proficiency in security analysis and vulnerability research.</description>
+    </item>
+    <item>
+      <title>CREATING VIRTUAL REALITY  WORLD  USING  BLENDER</title>
+      <link>//localhost:1313/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</guid>
+      <description>The primary objective of this project is to create a 3D virtual environment using an open source software Blender. The main motive is to make one comfortable in using the blender to create various projects and get known to its various applications.</description>
+    </item>
+    <item>
       <title>Electronics Club</title>
       <link>//localhost:1313/clubs/electronicsclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -121,11 +170,39 @@
       <description>Electronics Club, is a students’ organisation passionate about electronics and technology, coming together to explore, learn, and innovate. Our club provides a collaborative environment where members can work on exciting projects, enhance their skills, and connect with like-minded individuals. Whether you&amp;rsquo;re a beginner or an experienced enthusiast, you&amp;rsquo;ll find opportunities to engage in hands-on activities, attend workshops, and participate in competitions.</description>
     </item>
     <item>
+      <title>EMG Controlled Shooting Game</title>
+      <link>//localhost:1313/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/electronicsclub_emgcontrolledshootinggame---shivang-agarwal/</guid>
+      <description>The Electromyography (EMG) controlled shooting game is an exciting blend of neurophysiology, gaming technology, and human-computer interaction. By utilizing the electrical signals produced by muscle activity, EMG technology allows players to control game actions through their muscle movements. This innovative approach not only offers a unique and immersive gaming experience but also holds great potential for applications in rehabilitation and assistive technologies.**In our game, EMG sensors detect the subtle electrical signals produced during muscle contractions. These signals are then translated into precise and responsive in-game actions, offering players an unparalleled level of control. The game is developed using Unity, a popular and user-friendly game development platform.**The final outcome of our project is a real-time system that allows users to control a Unity-based shooting game using their muscle activity. The EMG sensors capture muscle signals, which are processed and transmitted by a Python script and TCP server. Unity then retrieves this processed data to control game elements, creating an interactive and immersive gaming experience.</description>
+    </item>
+    <item>
+      <title>Encryption and Decryption using MATLAB</title>
+      <link>//localhost:1313/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/descon_encryptionanddecryptionusingmatlab---ankit-kumar/</guid>
+      <description>In this project, our main aim was to implement and create ciphers in MATLAB using both classical and modern techniques. We started with MATLAB basics, progressed through various ciphers and advanced to image and audio encryption.At the end everyone created a unique cipher, blending programming with cryptographic principles</description>
+    </item>
+    <item>
+      <title>Exo-Stellar Nexus</title>
+      <link>//localhost:1313/summer-projects/astronomy-club_exo-stellar-nexus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/astronomy-club_exo-stellar-nexus/</guid>
+      <description>The project aims to cover a wide domain of astronomy and its real world application of ML. Project started from very basic and touched advanced tech aspect for detection of constellations in night sky and detection of habitable exoplanets for future human endeavors through ESI.*Project covered theoretical astronomy, observational astronomy, and application of ML modelling to achieve final goal. Mapping the cosmos for constellation detection and learning contribution to the journey of Interstellar quest for survival by detecting habitable exoplanets served our two main objectives of the project which consecutively acted as path to reach the final goal.&lt;em&gt;Constellation detector model&lt;/em&gt;The first objective of project focused on learning about Constellations and developing ML model telling names of constellation present in any image by blending astronomy with fundamentals of image processing and ML. We worked with northen sky constellations.&lt;em&gt;Earth similarity detector model&lt;/em&gt;Once we have mapped cosmos, we moved on to find our potential homes in fine corners of this cosmos. We learnt about exoplanets, astrophysics and generated ML algorithm to find Earth similarity index of these exoplanets based on transit data and classifying habitable ones from them.</description>
+    </item>
+    <item>
       <title>Finance and Analytics Club</title>
       <link>//localhost:1313/clubs/financeandanalytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/clubs/financeandanalytics/</guid>
       <description>Finace and Analytics Club , IIT Kanpur ever since its formation in 2020 ,has been aiming to prepare IITK for corporate &amp;amp; research-based financial problems grounded in quantitative &amp;amp; visualization methods..</description>
+    </item>
+    <item>
+      <title>Flying Wings</title>
+      <link>//localhost:1313/summer-projects/flying_wing---harshita-chaudhary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/flying_wing---harshita-chaudhary/</guid>
+      <description>The Flying Wing project focuses on an aircraft design that eliminates the fuselage and tail, integrating all components into the main wing to reduce drag and enhance aerodynamic efficiency. Key specifications include a 120 cm wingspan with an MH60 airfoil, a 2600kV motor, a 2200mAh LiPo battery, and 40Amp ESC. The model is built using biofoam and features a propeller and T-spar for structural support. This design aims to explore innovative aerodynamics for improved flight performance.</description>
     </item>
     <item>
       <title>Gallery</title>
@@ -142,11 +219,25 @@
       <description>The Game Development Club at IIT Kanpur is a vibrant community of game development enthusiasts. The club actively participates in national and international game jams, encouraging creativity and innovation. It organizes summer and winter projects, along with bootcamps tailored to introduce freshers to the world of game development. Additionally, the club represents IIT Kanpur in the prestigious Inter-IIT Tech Meet, showcasing its members&amp;rsquo; skills and passion for game development. Whether seasoned developers or beginners, members find a supportive environment to learn, create, and collaborate on exciting game development projects.</description>
     </item>
     <item>
+      <title>HOT WHEELS &amp; 3D GAME WITH FUSION 360 </title>
+      <link>//localhost:1313/summer-projects/descon-society_hotwheels3dgamewithfusion360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/descon-society_hotwheels3dgamewithfusion360/</guid>
+      <description>This project invites participants to explore the world of 3-D car modeling by using Autodesk Fusion 360. The experience begins with hands-on design work in Fusion 360, where creativity meets technical skill in crafting sleek car models. These digital designs are then brought to life through 3D printing. The initiative aims to build proficiency in Fusion 360 by guiding participants through structured design projects, culminating in the tangible creation of their car models.</description>
+    </item>
+    <item>
       <title>IITK Consulting Group</title>
       <link>//localhost:1313/societies/icg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/societies/icg/</guid>
       <description>We are a group of consulting and data science enthusiasts at the IIT Kanpur Consulting Group, established in 2018. Our vision is to harness data science and strategy consulting skills to help organizations extract valuable insights from their data and devise growth strategies for them, ultimately driving positive social impact. By bringing together a talented pool of individuals, we ensure that we provide outstanding solutions to address the pressing societal challenges at hand.</description>
+    </item>
+    <item>
+      <title>Magnus Plane</title>
+      <link>//localhost:1313/summer-projects/magnus_plane---harshita-chaudhary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/magnus_plane---harshita-chaudhary/</guid>
+      <description>The Magnus Plane uses rotating cylinders to generate lift through the Magnus effect instead of traditional wings. The plane features four cylinders, each 45 cm in length, driven by 1400kv thrusters. It has a total weight of 1.8 kg and a dimension of 100 cm x 100 cm. The design enables short takeoffs, landings, and efficient low-speed flight. Theoretical calculations predict a lift force of 2.97 kg under optimal conditions.</description>
     </item>
     <item>
       <title>Mastering Web3.0</title>
@@ -163,11 +254,60 @@
       <description>Programming Club is a community of IITK students who are highly enthusiastic about development, algorithms, security, ML, and all other aspects of programming.</description>
     </item>
     <item>
+      <title>QuantWeb</title>
+      <link>//localhost:1313/summer-projects/summer_projects_template5---tanush-goel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/summer_projects_template5---tanush-goel/</guid>
+      <description>The project aimed to develop a full fledged backtesting engine with multiple risk management measures to ease out the process of backtesting. The QuantWeb backtesting engine also allowed the user to create his/her own strategy using the create your own strategy method. This was achieved with the help of Django.</description>
+    </item>
+    <item>
       <title>Robotics Club</title>
       <link>//localhost:1313/clubs/roboticsclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/clubs/roboticsclub/</guid>
       <description>The Robotics Club at IIT Kanpur, part of the Science and Technology Council, is a diverse group of students passionate about robotics. They work on projects that involve designing, building, and programming robots for academic research, competitions, and personal interest. The club covers various technical aspects of robotics, including mechanical design, electronics, and coding. They provide workshops, tutorials, and one-on-one mentorship, offering access to tools, components, and a workspace. Whether you&amp;rsquo;re a beginner or experienced, the club supports your journey into the technical world of robotics, helping you create robots like R2D2, Transformers, or WALL-E.</description>
+    </item>
+    <item>
+      <title>Securing FPGA with Ethernet based Encryption</title>
+      <link>//localhost:1313/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/eclub_fpga_bases_encryption---rohit-verma/</guid>
+      <description>The ever-growing demand for secure data transmission necessitates robust encryption protocols across various communication channels. Ethernet, being the backbone of modern networks, is no exception. This project proposes an implementation of an Ethernet encryption system using the Advanced Encryption Standard (AES) protocol on a Cora Z7 Field-Programmable Gate Array(FPGA).*By implementing AES on the Cora Z7 FPGA, this project aims to achieve significant performance improvements compared to software-based encryption solutions. The inherent parallelism of the FPGA architecture allows for efficientexecution of the AES algorithm, resulting in faster encryption/decryption times and improved overall network throughput.</description>
+    </item>
+    <item>
+      <title>Stratoluanch</title>
+      <link>//localhost:1313/summer-projects/stratolaunch---harshita-chaudhary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/stratolaunch---harshita-chaudhary/</guid>
+      <description>This project recreates a downscale working model of Stratolaunch, the one and only operational twin fuselage aircraft in the world which is mainly used for launching rockets into space from high altitudes. The model boasts a total wingspan of 2 meters and basically features two of everything, ranging from fuselage to elevator to landing gears. The fuselages were symmetrically placed, and the Center of gravity was balanced accordingly. A single elevator connects both tails of the model, and each fuselage has a vertical stabilizer, which are controlled in sync.</description>
+    </item>
+    <item>
+      <title>Thrust Vectoring Jet</title>
+      <link>//localhost:1313/summer-projects/thrust_vectoring---harshita-chaudhary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/thrust_vectoring---harshita-chaudhary/</guid>
+      <description>The Thrust Vectoring project involves creating a scale model inspired by the F-22 jet, focusing on enhancing flight maneuverability through thrust vectoring. Key specifications include a 100 cm wingspan, 145 cm fuselage length, and electronics featuring dual 40-amp ESCs, a Lipo 4S 2200mAh battery, and 4 micro servos. The model is designed to explore innovative aircraft design and improve agility in flight.</description>
+    </item>
+    <item>
+      <title>Title of the project</title>
+      <link>//localhost:1313/summer-projects/summer_projects_template5---mantavya-upadhyay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/summer_projects_template5---mantavya-upadhyay/</guid>
+      <description>Our project aims to equip the mentees with the necessary tools required for efficiently forecasting and analyzing time series data.</description>
+    </item>
+    <item>
+      <title>Tricopter</title>
+      <link>//localhost:1313/summer-projects/tricpoter---harshita-chaudhary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/tricpoter---harshita-chaudhary/</guid>
+      <description>A tricopter is a three-rotor unmanned aerial vehicle. It consists of a lightweight frame, brushless motors, ESCs, a flight controller, a battery, and servos. Used primarily for educational purposes, such as learning aerodynamics and electronics, it also serves in surveillance and recreational flying. Key components include a frame, propeller, tail rotor, and power distribution board. The ground control is managed by Mission Planner, with Ardupilot as the firmware.</description>
+    </item>
+    <item>
+      <title>UAV Integrator</title>
+      <link>//localhost:1313/summer-projects/uav_integrator---harshita-chaudhary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/summer-projects/uav_integrator---harshita-chaudhary/</guid>
+      <description>The UAV(Unmanned Aerial Vehicle) Integrator is a versatile and efficient aerial platform, featuring a fuselage of 50x33 cm made from lightweight dapron and a 1.5 m wingspan crafted from polystyrene foam for optimal lift. The 40.5x19 cm elevator and 8.5x22.5x12.5 cm rudder, both made from dapron, ensure precise control and stability. Carbon tubes, 650 mm long and 10 mm thick, connect the wings and elevator, providing robust support. This design balances durability and maneuverability providing a robust and reliable platform suitable for a range of UAV applications</description>
     </item>
     <item>
       <title>Web_heads</title>
