@@ -51,9 +51,9 @@ mid_prep:
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "GeoMatrix"
+    link: "https://drive.google.com/file/d/1RYoXSsQflTyeIS_Up4OpEy9PEY0VegQv/view?usp=sharing"
+    image: "/images/gamedev.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
