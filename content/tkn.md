@@ -42,9 +42,9 @@ high_prep:
 
 
 mid_prep:
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "Do I Know You?"
+    link: "https://drive.google.com/file/d/1l3t1S5wo2yvOEyzMBMtHX1ttnGKQSheR/view?usp=sharing"
+    image: "/images/brain.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
