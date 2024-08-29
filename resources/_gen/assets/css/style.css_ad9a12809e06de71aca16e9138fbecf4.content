@@ -1387,6 +1387,10 @@ video {
   width: 2.25rem;
 }
 
+.w-\[240px\] {
+  width: 240px;
+}
+
 .w-\[250px\] {
   width: 250px;
 }
