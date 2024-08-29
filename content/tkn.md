@@ -61,7 +61,7 @@ mid_prep:
       Peshwas: 0
       Shauryas: 0
   - title: "BitWiz"
-    link: "https://drive.google.com/file/d/19ZZsWotit_MkrMrGP6y1EwJnRZnbJRBg/view?usp=sharing"
+    link: "https://drive.google.com/file/d/1a4yxVtyh_bukHpS85bLPm1MRBvpDyq42/view?usp=sharing"
     image: "/images/bitwiz.jpeg"
     scores:
       Aryans: 0
