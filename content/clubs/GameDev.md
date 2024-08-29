@@ -34,7 +34,7 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: Abhishek Meena
-    photo: ""   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=16gTaDVMJkVm2AkKY_7lCDukVhXVY15ld&sz=w1000
     linkedin: "https://www.linkedin.com/in/abhishekmeena33/"
     facebook: ""
     insta: "https://www.instagram.com/_abhi.mn/"
@@ -44,12 +44,12 @@ cordies:
     facebook: ""
     insta: "https://www.instagram.com/sunburnt_horizon/"
   - name: "Harshit Sharma"
-    photo: ""   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1FqTbWloVymaLvQga3yuwZhTKA40E9rz6&sz=w1000
     linkedin: "https://www.linkedin.com/in/harshit-sharma-bb202227b/"
     facebook: ""
     insta: "https://www.instagram.com/harshit.sharma1105/"
   - name: "Kunal Shikhar"
-    photo: ""   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1o8ifJwP2kq38uj63uXVg1GiIkU3ql8sz&sz=w1000
     linkedin: "https://www.linkedin.com/in/kunal-shikhar-047164255/"
     facebook: ""
     insta: "https://www.instagram.com/immortal100100/"
