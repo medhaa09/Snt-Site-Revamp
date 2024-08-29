@@ -37,22 +37,22 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Tanush Goel"
-    photo: https://drive.google.com/thumbnail?id=1JYQJWUD3DT-kc35hf3R7E18u6IrrdJYP=w1000  #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1JYQJWUD3DT-kc35hf3R7E18u6IrrdJYP&sz=w1000  #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/tanush-goel-a622a5289/"
     facebook:
     insta: "https://www.instagram.com/tanush.goel247/"
   - name: "Moni Dutt"
-    photo: https://drive.google.com/thumbnail?id=1tdiJWaBOK0WVbcLctN_JAP07fkyZfqqK=w1000"   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1tdiJWaBOK0WVbcLctN_JAP07fkyZfqqK&sz=w1000"   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/moni-dutt-993325250/"
     facebook: ""
     insta: "https://www.instagram.com/moni_dutt/"
   - name: "Rachit Choudhary"
-    photo: https://drive.google.com/thumbnail?id=1dsGO24dW9i5z18Vbomim4FzpWM1-yGwu=w1000"   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1dsGO24dW9i5z18Vbomim4FzpWM1-yGwu&sz=w1000"   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/rachit-choudhary-754248253/"
     facebook: ""
     insta: "https://www.instagram.com/rachitchoudhary_04/"
   - name: "Naman Sethi"
-    photo: https://drive.google.com/thumbnail?id=1_vpxH7bUUgrTqYSAJ6vzONMr19LyQzOo=w1000"   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1_vpxH7bUUgrTqYSAJ6vzONMr19LyQzOo&sz=w1000"   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/naman-sethi-15aa6524b/"
     facebook: ""
     insta: "https://www.instagram.com/_naman._.sethi/"
