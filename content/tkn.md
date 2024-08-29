@@ -42,27 +42,27 @@ high_prep:
 
 
 mid_prep:
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "Do I Know You?"
+    link: "https://drive.google.com/file/d/1l3t1S5wo2yvOEyzMBMtHX1ttnGKQSheR/view?usp=sharing"
+    image: "/images/brain.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "GeoMatrix"
+    link: "https://drive.google.com/file/d/1RYoXSsQflTyeIS_Up4OpEy9PEY0VegQv/view?usp=sharing"
+    image: "/images/gamedev.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "BitWiz"
+    link: "https://drive.google.com/file/d/1a4yxVtyh_bukHpS85bLPm1MRBvpDyq42/view?usp=sharing"
+    image: "/images/bitwiz.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0

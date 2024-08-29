@@ -7,7 +7,8 @@ categories: summer-projects     #NO NEED TO CHANGE
 status: "completed"     #NO NEED TO CHANGE
 tenure: 2024-25   #NO NEED TO CHANGE
 
-poster: "https://drive.google.com/file/d/16VEw4At5PSpNH2cKDBEyEm9jJAHGyrgc/view?usp=drivesdk"     
+cover_image: https://drive.google.com/thumbnail?id=1dO_ckDqw-eYHJ26_rsrxRoNv13qiK8Ob&sz=w1000
+poster: https://drive.google.com/thumbnail?id=16VEw4At5PSpNH2cKDBEyEm9jJAHGyrgc&sz=w1000
 documentation: "https://drive.google.com/file/d/16zcrjJ7nyT-42Oh74I9N4F3qoIlKFLhN/view?usp=drive_link"
 githubLink: ""
 club: "Aeromodelling Club"   # Write name of the club

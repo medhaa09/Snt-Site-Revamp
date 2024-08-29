@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Title of the project"   # Write title of the project
 draft: false    #NO NEED TO CHANGE
 language: en    #NO NEED TO CHANGE
@@ -32,4 +32,4 @@ tags:
 # Write a brief summary of the project
 summary: Our project aims to equip the mentees with the necessary tools required for efficiently forecasting and analyzing time series data.
 
----
+--- -->

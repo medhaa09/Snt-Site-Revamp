@@ -7,7 +7,8 @@ categories: summer-projects     #NO NEED TO CHANGE
 status: "completed"     #NO NEED TO CHANGE
 tenure: 2024-25   #NO NEED TO CHANGE
 
-poster: "https://drive.google.com/file/d/1iisIH7AuBMowR73bZigOH6OwkesLc8fp/view?usp=sharing"     
+cover_image: https://drive.google.com/thumbnail?id=18eYxbTZ468-7pvszBOVqqCDSK-GphQQf&sz=w1000
+poster: https://drive.google.com/thumbnail?id=1iisIH7AuBMowR73bZigOH6OwkesLc8fp&sz=w1000    
 documentation: "https://drive.google.com/file/d/1auLcttm_ntzETInW0V5vmTmcibLl5B_Q/view?usp=sharing"
 githubLink: "link_of_github_if_available"
 club: "Electronics Club"   # Write name of the club

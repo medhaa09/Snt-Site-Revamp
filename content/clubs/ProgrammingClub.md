@@ -44,7 +44,7 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Burhanuddin Merchant"
-    photo: ""   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1pA2kjUEw3Czwh9u6dZuCVcJtUT4v1mB6&sz=w1000
     linkedin: "https://www.linkedin.com/in/burhanuddin-merchant-23622a254/"
     facebook: 
     insta: "https://www.instagram.com/merchant_burhanuddin53/"

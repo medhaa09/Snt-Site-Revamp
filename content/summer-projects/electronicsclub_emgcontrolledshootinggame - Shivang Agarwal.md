@@ -7,7 +7,8 @@ categories: summer-projects     #NO NEED TO CHANGE
 status: "completed"     #NO NEED TO CHANGE
 tenure: 2024-25   #NO NEED TO CHANGE
 
-poster: "https://drive.google.com/file/d/1T2OIwhCUGh4q1QaKyPMt2FKltXWzD5oc/view?usp=sharing"     
+cover_image: https://drive.google.com/thumbnail?id=18eYxbTZ468-7pvszBOVqqCDSK-GphQQf&sz=w1000
+poster: https://drive.google.com/thumbnail?id=1T2OIwhCUGh4q1QaKyPMt2FKltXWzD5oc&sz=w1000   
 documentation: "https://drive.google.com/file/d/1gU7IJ0PY9L31-D2sbnfREzhQT7kPW51h/view?usp=sharing"
 githubLink: "https://github.com/ElectronicsClub-IITK/EMG-Controlled-Shooting-Game"
 club: "Electronics Club"   # Write name of the club
