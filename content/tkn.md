@@ -69,9 +69,9 @@ mid_prep:
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "Overtime"
+    link: "https://drive.google.com/file/d/1KGRjhrsHUuYoFnHpGSSi87JhqQtinC8B/view?usp=sharing"
+    image: "/images/overtime.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
