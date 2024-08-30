@@ -78,9 +78,9 @@ mid_prep:
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "AstroExplorer"
+    link: "https://drive.google.com/file/d/1mL_lznrc3gm1Rclw5pSbRdOfpTUdsxLa/view?usp=sharing"
+    image: "/images/astro.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
