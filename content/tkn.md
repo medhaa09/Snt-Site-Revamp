@@ -88,9 +88,9 @@ mid_prep:
       Peshwas: 0
       Shauryas: 0
 low_prep:
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "WingWhiz"
+    link: "https://drive.google.com/file/d/197kdvCZYMbBKaBQ0a4SsJ4YkpmOqk0Df/view?usp=sharing"
+    image: "/images/plane.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
