@@ -34,22 +34,22 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Astitva Roy"
-    photo: ""   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=19cUvD-L51G33QPc9-iPurVizRhosafe0&sz=w1000   #NO NEED TO CHANGE
     linkedin: ""
     facebook: https://www.facebook.com/100094067273667/
     insta: "https://www.instagram.com/astitva5530/"
   - name: "Ayush Bokad"
-    photo: ""   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1uFVBx4FVqZ786PDDq4TzVsMgIRbKNZP2&sz=w1000   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/ayush-bokad-476764262/"
     facebook: "https://www.facebook.com/100086503962733/"
     insta: "https://www.instagram.com/ayushbokad/"
   - name: "Sohel Saini"
-    photo: ""   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1FnzzKCIjknJsSRQLe9Ik2Jw0OhUwnD9S&sz=w1000   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/sohel-saini-ab731624b/"
     facebook: "https://www.facebook.com/100086464184830/"
     insta: "https://www.instagram.com/sainisohel112/"
   - name: "Tanish Singla"
-    photo: ""   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1w2kKVZcrTSv8bw9dGnc-b7ETbqqbFNef&sz=w1000  #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/tanish-singla-496446258/"
     facebook: "https://www.facebook.com/tanish.singla.73/"
     insta: "https://www.instagram.com/m.tanishsingla/"
