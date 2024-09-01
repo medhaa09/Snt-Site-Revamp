@@ -107,9 +107,9 @@ low_prep:
       Peshwas: 0
       Shauryas: 0
 
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
+  - title: "SculptVerse"
+    link: "https://drive.google.com/file/d/1YWQpdvBwURBBn-hY3nDIUQcpJ1QAtbzZ/view?usp=sharing"
+    image: "/images/build.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
