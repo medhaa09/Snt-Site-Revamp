@@ -132,9 +132,9 @@
                 </div>
 
                 <!-- On-Spot Section -->
-                <h2 class="text-2xl font-bold mt-8">ONSPOTS</h2>
+                <h2 class="text-2xl font-bold mt-8">ON SPOTS</h2>
                 <div class="grid gap-4 mt-4 mb-4 lg:max-w-none grid-cols-1 sm:grid-cols-2 md:grid-cols-5 lg:grid-cols-5">
-                    {{ with .Params.onspot }}
+                    {{ with .Params.on_spot }}
                         {{ range . }}
                             <a href="{{ .link }}" class="flex flex-col sm:w-64 lg:w-48 overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900 hover:shadow-xl transition-shadow duration-300">
                                 <img src="{{ .image }}" class="object-cover overflow-hidden w-32 sm:w-64" loading="lazy" alt="{{ .title }}" />
