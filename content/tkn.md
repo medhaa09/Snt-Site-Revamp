@@ -89,7 +89,7 @@ mid_prep:
       Shauryas: 0
 low_prep:
   - title: "WingWhiz"
-    link: "https://drive.google.com/file/d/197kdvCZYMbBKaBQ0a4SsJ4YkpmOqk0Df/view?usp=sharing"
+    link: "https://drive.google.com/file/d/1vmBK0qhp-YwidP64z0I-32EHm5UEDlj-/view?usp=sharing"
     image: "/images/plane.jpeg"
     scores:
       Aryans: 0
