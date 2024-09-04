@@ -119,186 +119,196 @@ low_prep:
 
 
 on_spot:
-  - title: "TBD..."
+  - title: "Let's Fly !!"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspot1.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Simulation Flying
+  - title: "AstroBlits"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspot3.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: "AstroTrivia | AstroPhysics"
+  - title: "Celestial Detective"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspot2.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: "Observational Astronomy"
+  - title: "Communicator's Connundrum"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotb.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Human Computer Interaction
+  - title: "Sculpting Space"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotd.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Blender | Fusion
+  - title: "ElectroBeat"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspote.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Arduino | Sensors
+  - title: "Volatility Voyage"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotf1.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Options Trading
+  - title: "Luck or Logic"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotf2.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Probability Trading
+  - title: "ShaderCraft"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotg2.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Shaders
+  - title: "PhotoMotion"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotg1.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Photogrammetry | Animation
+  - title: "Consumer Connect"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotc.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Consult domain
+  - title: "Mindful pick"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspoti2.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: "Image Recognition | NLP"
+  - title: "grep the Onspot"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotp2.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: CLi Tools
+  - title: "Cryptic Madness"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotp1.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Cryptography
+  - title: "Yranib"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotp3.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Infosec
+  - title: "CADastrophe"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotr2.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: CAD
+  - title: "ROSCam"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspotr.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: Computer Vision | ROS
+  - title: "Published !!"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/onspots.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
+    summary: "Research Paper Analysis"
+  - title: "Physics Bowl"
     link: ""
-    image: "/images/que.jpeg"
+    image: "/images/onspots/bowl.jpeg"
     scores:
       Aryans: 0
       Nawabs: 0
       Kshatriyas: 0
       Peshwas: 0
       Shauryas: 0
-  - title: "TBD..."
-    link: ""
-    image: "/images/que.jpeg"
-    scores:
-      Aryans: 0
-      Nawabs: 0
-      Kshatriyas: 0
-      Peshwas: 0
-      Shauryas: 0
+    summary: Physics
 
 
 

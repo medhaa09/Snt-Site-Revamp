@@ -35,5 +35,4 @@ tags:
 # Write a brief summary of the project
 summary: The acrobatic plane, constructed from lightweight balsa wood, offers the capability for complex maneuvers such as loops, inverted flight, and vertical stands. It features a symmetric airfoil with S8035 profile wings, while the elevator and rudder utilize the NACA0012 profile. Laser cutting creates precise shapes for the components. The wings span 1.5 meters with a chord length of 31 cm, divided into two symmetrical sections, each fabricated separately. Ailerons, each 6 cm wide, are cut from the wings. The propulsion system comprises a 580kV Propdrive brushless DC motor, four servos, a 14.8 V 4S 4200 mAh LiPo battery, a 100 Amp electronic speed controller (ESC), and a six-channel receiver.
 
-
 ---
