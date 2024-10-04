@@ -263,16 +263,16 @@
 }
 
 function openTab(evt, tabName) {
-    // Hide all tab content
+    
     var tabcontents = document.querySelectorAll('.tabcontent');
     tabcontents.forEach(content => {
         content.style.display = 'none';
     });
 
-    // Show the current tab
+
     document.getElementById(tabName).style.display = 'block';
 
-    // Optionally, add active class to the button (if needed)
+    
     var tablinks = document.querySelectorAll('.tablinks');
     tablinks.forEach(link => {
         link.classList.remove('active');
