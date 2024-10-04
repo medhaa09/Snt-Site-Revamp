@@ -21,74 +21,145 @@
                 
                 <!-- Leaderboard Table -->
                 <div id="leaderboard" class="overflow-x-auto" style="display: none;">
-                    <table class="min-w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg">
-                        <thead>
-                            <tr>
-                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Problem Statement</th>
-                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Aryans</th>
-                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Nawabs</th>
-                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Kshatriyas</th>
-                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Peshwas</th>
-                                <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Shauryas</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {{ range .Params.high_prep }}
-                            <tr>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
-                            </tr>
-                            {{ end }}
+                    <div class="tabs flex space-x-2 gap-7">
+                        <button class="tablinks bg-blue-500 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-600 transition duration-200" onclick="openTab(event, 'Prep')">Problem Statements</button>
+                        <button class="tablinks bg-blue-500 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-600 transition duration-200" onclick="openTab(event, 'OnSpot')">On Spots</button>
+                        <button class="tablinks bg-blue-500 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-600 transition duration-200" onclick="openTab(event, 'SNTCode')">SNT Code</button>
+                    </div>
+                    
+                    <div id="Prep" class="tabcontent" style="display: none;">
+                        <h3 class="text-xl font-bold mt-4">High-Prep</h3>
+                        <table class="min-w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg mb-6">
+                            <thead>
+                                <tr>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Problem Statement</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Aryans</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Nawabs</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Kshatriyas</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Peshwas</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Shauryas</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {{ range .Params.high_prep }}
+                                <tr>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
+                                </tr>
+                                {{ end }}
+                            </tbody>
+                        </table>
 
-                            {{ range .Params.mid_prep }}
-                            <tr>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
-                            </tr>
-                            {{ end }}
+                        <h3 class="text-xl font-bold mt-4">Mid-Prep</h3>
+                        <table class="min-w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg mb-6">
+                            <thead>
+                                <tr>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Problem Statement</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Aryans</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Nawabs</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Kshatriyas</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Peshwas</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Shauryas</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {{ range .Params.mid_prep }}
+                                <tr>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
+                                </tr>
+                                {{ end }}
+                            </tbody>
+                        </table>
 
-                            {{ range .Params.low_prep }}
-                            <tr>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
-                            </tr>
-                            {{ end }}
+                        <h3 class="text-xl font-bold mt-4">Low-Prep</h3>
+                        <table class="min-w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg mb-6">
+                            <thead>
+                                <tr>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Problem Statement</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Aryans</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Nawabs</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Kshatriyas</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Peshwas</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Shauryas</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {{ range .Params.low_prep }}
+                                <tr>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
+                                </tr>
+                                {{ end }}
+                            </tbody>
+                        </table>
+                    </div>
 
-                            {{ range .Params.on_spot }}
-                            <tr>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
-                            </tr>
-                            {{ end }}
+                    <div id="OnSpot" class="tabcontent" style="display: none;">
+                        <table class="min-w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg">
+                            <thead>
+                                <tr>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">On Spot Title</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Aryans</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Nawabs</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Kshatriyas</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Peshwas</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Shauryas</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {{ range .Params.on_spot }}
+                                <tr>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
+                                </tr>
+                                {{ end }}
+                            </tbody>
+                        </table>
+                    </div>
 
-                            {{ range .Params.snt_code }}
-                            <tr>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
-                                <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
-                            </tr>
-                            {{ end }}
-                        </tbody>
-                    </table>
+                    <div id="SNTCode" class="tabcontent" style="display: none;">
+                        <table class="min-w-full bg-white dark:bg-gray-800 rounded-lg shadow-lg">
+                            <thead>
+                                <tr>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">SNT Code Title</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Aryans</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Nawabs</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Kshatriyas</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Peshwas</th>
+                                    <th class="px-6 py-3 border-b-2 border-gray-300 text-left leading-4 text-gray-600 dark:text-gray-300 tracking-wider">Shauryas</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {{ range .Params.snt_code }}
+                                <tr>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Aryans }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Nawabs }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Kshatriyas }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
+                                    <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
+                                </tr>
+                                {{ end }}
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
 
                 <!-- High-Prep Section -->
@@ -184,13 +255,32 @@
 
 <script>
     function toggleLeaderboard() {
-        var leaderboard = document.getElementById("leaderboard");
-        if (leaderboard.style.display === "none") {
-            leaderboard.style.display = "block";
-        } else {
-            leaderboard.style.display = "none";
-        }
+    var leaderboard = document.getElementById("leaderboard");
+    leaderboard.style.display = leaderboard.style.display === "none" ? "block" : "none";
+    if (leaderboard.style.display === "block") {
+        openTab(null, 'Prep'); // Open the default tab when showing the leaderboard
     }
+}
+
+function openTab(evt, tabName) {
+    // Hide all tab content
+    var tabcontents = document.querySelectorAll('.tabcontent');
+    tabcontents.forEach(content => {
+        content.style.display = 'none';
+    });
+
+    // Show the current tab
+    document.getElementById(tabName).style.display = 'block';
+
+    // Optionally, add active class to the button (if needed)
+    var tablinks = document.querySelectorAll('.tablinks');
+    tablinks.forEach(link => {
+        link.classList.remove('active');
+    });
+    if (evt) {
+        evt.currentTarget.classList.add('active');
+    }
+}
 </script>
 
 {{ end }}
