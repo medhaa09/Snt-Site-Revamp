@@ -41,6 +41,11 @@
                                 </tr>
                             </thead>
                             <tbody>
+                                {{ $totalAryans := 0 }}
+                                {{ $totalNawabs := 0 }}
+                                {{ $totalKshatriyas := 0 }}
+                                {{ $totalPeshwas := 0 }}
+                                {{ $totalShauryas := 0 }}
                                 {{ range .Params.high_prep }}
                                 <tr>
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
@@ -50,7 +55,20 @@
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
                                 </tr>
+                                {{ $totalAryans = add $totalAryans .scores.Aryans }}
+                                {{ $totalNawabs = add $totalNawabs .scores.Nawabs }}
+                                {{ $totalKshatriyas = add $totalKshatriyas .scores.Kshatriyas }}
+                                {{ $totalPeshwas = add $totalPeshwas .scores.Peshwas }}
+                                {{ $totalShauryas = add $totalShauryas .scores.Shauryas }}
                                 {{ end }}
+                                <tr>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">Total</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalAryans }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalNawabs }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalKshatriyas }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalPeshwas }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalShauryas }}</td>
+                                </tr>
                             </tbody>
                         </table>
 
@@ -67,6 +85,11 @@
                                 </tr>
                             </thead>
                             <tbody>
+                                {{ $totalAryans := 0 }}
+                                {{ $totalNawabs := 0 }}
+                                {{ $totalKshatriyas := 0 }}
+                                {{ $totalPeshwas := 0 }}
+                                {{ $totalShauryas := 0 }}
                                 {{ range .Params.mid_prep }}
                                 <tr>
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
@@ -76,7 +99,20 @@
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
                                 </tr>
+                                {{ $totalAryans = add $totalAryans .scores.Aryans }}
+                                {{ $totalNawabs = add $totalNawabs .scores.Nawabs }}
+                                {{ $totalKshatriyas = add $totalKshatriyas .scores.Kshatriyas }}
+                                {{ $totalPeshwas = add $totalPeshwas .scores.Peshwas }}
+                                {{ $totalShauryas = add $totalShauryas .scores.Shauryas }}
                                 {{ end }}
+                                <tr>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">Total</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalAryans }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalNawabs }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalKshatriyas }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalPeshwas }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalShauryas }}</td>
+                                </tr>
                             </tbody>
                         </table>
 
@@ -93,6 +129,11 @@
                                 </tr>
                             </thead>
                             <tbody>
+                                {{ $totalAryans := 0 }}
+                                {{ $totalNawabs := 0 }}
+                                {{ $totalKshatriyas := 0 }}
+                                {{ $totalPeshwas := 0 }}
+                                {{ $totalShauryas := 0 }}
                                 {{ range .Params.low_prep }}
                                 <tr>
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
@@ -102,7 +143,20 @@
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
                                 </tr>
+                                {{ $totalAryans = add $totalAryans .scores.Aryans }}
+                                {{ $totalNawabs = add $totalNawabs .scores.Nawabs }}
+                                {{ $totalKshatriyas = add $totalKshatriyas .scores.Kshatriyas }}
+                                {{ $totalPeshwas = add $totalPeshwas .scores.Peshwas }}
+                                {{ $totalShauryas = add $totalShauryas .scores.Shauryas }}
                                 {{ end }}
+                                <tr>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">Total</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalAryans }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalNawabs }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalKshatriyas }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalPeshwas }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalShauryas }}</td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
@@ -120,6 +174,11 @@
                                 </tr>
                             </thead>
                             <tbody>
+                                {{ $totalAryans := 0 }}
+                                {{ $totalNawabs := 0 }}
+                                {{ $totalKshatriyas := 0 }}
+                                {{ $totalPeshwas := 0 }}
+                                {{ $totalShauryas := 0 }}
                                 {{ range .Params.on_spot }}
                                 <tr>
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
@@ -129,7 +188,20 @@
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
                                 </tr>
+                                {{ $totalAryans = add $totalAryans .scores.Aryans }}
+                                {{ $totalNawabs = add $totalNawabs .scores.Nawabs }}
+                                {{ $totalKshatriyas = add $totalKshatriyas .scores.Kshatriyas }}
+                                {{ $totalPeshwas = add $totalPeshwas .scores.Peshwas }}
+                                {{ $totalShauryas = add $totalShauryas .scores.Shauryas }}
                                 {{ end }}
+                                <tr>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">Total</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalAryans }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalNawabs }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalKshatriyas }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalPeshwas }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalShauryas }}</td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
@@ -147,6 +219,11 @@
                                 </tr>
                             </thead>
                             <tbody>
+                                {{ $totalAryans := 0 }}
+                                {{ $totalNawabs := 0 }}
+                                {{ $totalKshatriyas := 0 }}
+                                {{ $totalPeshwas := 0 }}
+                                {{ $totalShauryas := 0 }}
                                 {{ range .Params.snt_code }}
                                 <tr>
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .title }}</td>
@@ -156,7 +233,20 @@
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Peshwas }}</td>
                                     <td class="px-6 py-4 border-b border-gray-300 text-sm leading-5 text-gray-900 dark:text-gray-200">{{ .scores.Shauryas }}</td>
                                 </tr>
+                                {{ $totalAryans = add $totalAryans .scores.Aryans }}
+                                {{ $totalNawabs = add $totalNawabs .scores.Nawabs }}
+                                {{ $totalKshatriyas = add $totalKshatriyas .scores.Kshatriyas }}
+                                {{ $totalPeshwas = add $totalPeshwas .scores.Peshwas }}
+                                {{ $totalShauryas = add $totalShauryas .scores.Shauryas }}
                                 {{ end }}
+                                <tr>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">Total</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalAryans }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalNawabs }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalKshatriyas }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalPeshwas }}</td>
+                                    <td class="px-6 py-4 font-bold text-gray-900 dark:text-gray-200">{{ $totalShauryas }}</td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
