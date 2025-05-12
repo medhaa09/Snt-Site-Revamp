@@ -57,4 +57,15 @@ cordies:
 
 <!-- Write about us section -->
 ## About us
-Brain and Cognitive Science Club is dedicated to exploring the intersection of neuroscience and artificial intelligence .Our mission is to delve deep into the complexities of Brain Sciences with the ultimate goal of reverse-engineering human intelligence. By doing so, we aim to contribute to the development of more advanced and general AI systems that can shape the future. BCS Club fosters a collaborative environment where students engage in cutting-edge research, practical applications, and hands-on projects. With activities ranging from workshops and journal clubs to large-scale projects and our flagship event, Neural Net November.
+The Brain & Cognitive Science Club (BCS IITK) is a student led community dedicated to explore the intersection of machine learning and neuroscience. Our work spans over a vast range of domains - from Computer Vision and Natural Language Processing to Neuroimaging, Brain mapping, Spiking Neural Networks and Brain-computer interfaces (BCIs). We also have an EEG device and an eye tracker using which we have built various interesting projects.
+
+We have previously worked with the Uttar Pradesh Police to make a chatbot which retrieves information from all their notices and circulars. We have also collaborated with institutions such as TimeFlux, Spheron Network, and the SAWiN (South Asian Women in Neuroscience) Collective for various talks and workshops.
+
+We organise various lectures and talks for the campus community. Further, we also offer summer and winter projects for freshers, for which over 350+ people apply. 
+
+We have an annual flagship event, Neural Net November, a 3 day celebration of ML and Neuroscience, consisting of:-
+1. Invited Talks by AI researchers, industry professionals, and domain experts
+2. Workshops & Hackathons focused on practical applications and innovations
+3. Freshers Amateur Projects to bring onboard new students into AI-focused projects
+
+Above all of this, we are a group of ML and Neuro enthusiasts who love exploring all the newest developments in these fields.

@@ -59,9 +59,8 @@ cordies:
 
 <!-- Write about us section -->
 ## About us
-Since the dawn of civilization, humans have gazed at the stars with wonder and curiosity. The mysteries of the cosmos have driven countless innovations and discoveries, and this thirst for knowledge continues to grow with each passing generation.
+Since the dawn of civilisation, humanity has looked up to the stars with awe, seeking meaning in the vastness above. The Astronomy Club of IIT Kanpur, established in 1975, carries forward that timeless curiosity, serving as a vibrant community for all who are captivated by the cosmos. With no requirement for prior expertise - just a spark of interest - the club welcomes anyone willing to journey beyond the skies.
 
-The Astronomy Club of IIT Kanpur, established in 1975, has been at the forefront of exploring the wonders of our cosmos to the campus community. The club's mission is to inspire an interest in astronomy and nurture the curiosity of those already enthralled by it. 
-Our annual flagship event is Astroventure, which marks one of the largest Astronomy fest across all IITs. Our signature events include night sky observation sessions, planetarium shows, workshops, competitions, talks, etc.. Major club assets include an Observatory, planetarium, range of telescopes, and a lot more. 
+We conduct a wide range of activities throughout the year, including night sky observation sessions, astrophotography, planetarium shows, hands-on workshops and projects, competitions and engaging lectures. Our club houses its own student-built planetarium as well as a research grade observatory with a 14-inch Celestron EdgeHD telescope. Through our annual flagship events like Astroventure and Hyperion, we celebrate the spirit of exploration, drawing participation from across the country.
 
-The Astronomy Club is more than just a platform for exploring the cosmos; it’s a community where imagination, curiosity, and science come together to unlock the secrets of the universe. We invite all students to join us on this journey beyond the stars.
+We invite all to come join us and gather beneath the stars, surrounded by the club’s telescopes, cameras and interesting student-made technical instruments. Because when you realise you’re made of stardust, it’s only natural to want to know your ancestors in the sky!
