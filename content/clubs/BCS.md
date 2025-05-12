@@ -58,7 +58,7 @@ cordies:
 <!-- Write about us section -->
 ## About us
 The Brain & Cognitive Science Club (BCS IITK) is a student led community dedicated to explore the intersection of machine learning and neuroscience. Our work spans over a vast range of domains - from Computer Vision and Natural Language Processing to Neuroimaging, Brain mapping, Spiking Neural Networks and Brain-computer interfaces (BCIs). We also have an EEG device and an eye tracker using which we have built various interesting projects.
-
+ 
 We have previously worked with the Uttar Pradesh Police to make a chatbot which retrieves information from all their notices and circulars. We have also collaborated with institutions such as TimeFlux, Spheron Network, and the SAWiN (South Asian Women in Neuroscience) Collective for various talks and workshops.
 
 We organise various lectures and talks for the campus community. Further, we also offer summer and winter projects for freshers, for which over 350+ people apply. 
@@ -68,4 +68,4 @@ We have an annual flagship event, Neural Net November, a 3 day celebration of ML
 2. Workshops & Hackathons focused on practical applications and innovations
 3. Freshers Amateur Projects to bring onboard new students into AI-focused projects
 
-Above all of this, we are a group of ML and Neuro enthusiasts who love exploring all the newest developments in these fields.
+Above all of this, we are a group of ML and Neuro enthusiasts who love exploring all the newest developments in these fields. 
