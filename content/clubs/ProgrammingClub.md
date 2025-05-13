@@ -69,12 +69,13 @@ cordies:
 
 <!-- Write about us section -->
 ## About us
-Programming Club (or PClub) is a community of students highly enthusiastic about coding, ethical hacking, Web Designing and all other aspects of programming. We are a team currently of 4 coordinators (pre-final year) and 24 secretaries (sophomores).
+Programming Club (or PClub) is a community of highly enthusiastic coders, ethical hackers, web developers, machine learning enthusiasts, and tech explorers of all kinds. We are currently a team of 4 coordinators (pre-final year) and 24 secretaries (sophomores).
 
-Our Instagram page boasts around 1.7K followers and is a hub for programming-related posts and information. We use it to share exciting updates, promote events, engage with our community, and put out informative posts that keep our followers up-to-date on the latest in the programming world.
+Our Instagram page boasts around 3.4K followers and is a hub for programming-related posts and information. We use it to share exciting updates, promote events, engage with our community, and put out informative posts that keep our followers up-to-date on the latest in the programming world.
 
-We organize activities related to Development (Web Development, Open Source, Game/App Development), programming contests, hackathons, Capture The Flag contests, et all. Lecture series are regularly taken on algorithms, web hijacking, development, among other things.
+We organize activities related to Development (Web Development, Open Source, Game/App Development), programming contests, hackathons, Capture The Flag contests, etc. Lecture series are regularly taken on algorithms, web hijacking, development, Machine Learning and other interesting topics.
 
-Programming Club is also dedicated to developing various applications that are beneficial for the campus junta, such as Puppy Love (during Valentine’s week), Student Search, Linux Install fest, and promoting open-source software.
+Programming Club is also dedicated to developing various applications that are beneficial for the campus junta, such as Puppy Love (during Valentine’s week), Student Search, Mail Client, Linux Install fest, and promoting open-source software.We are dedicated to campus upliftment through a variety of initiatives. One of our flagship programs is the Spring Camp, where we introduce freshmen to the fundamentals of various domains in programming, including Web Development, Competitive Programming, Cybersecurity, Computer Systems, Machine Learning, and Web 3.0.
 
-During summers, we offer a large number of projects to the first year students through our Summer Camp. The 2022 Summer Camp saw close to 300 applicants.
+
+During summers, we offer a large number of projects to the first year students through our Summer Camp. The 2025 Summer Camp saw close to 800 applicants.
