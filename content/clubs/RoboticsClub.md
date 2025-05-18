@@ -42,26 +42,26 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Abhishek Srivastava"
-    photo: https://drive.google.com/thumbnail?id=1j2bRQY3p7Ssh50va8efa36bbu6mjPKna&sz=w1000
-    linkedin: "https://www.linkedin.com/in/abhishek-srivastava-286150262/"
-    insta: "https://www.instagram.com/srivabhi2004/"
+  - name: "Chinar Ratnesh Mhatre"
+    photo: https://drive.google.com/open?id=1-ZOIdbBeySTnbzUiWjnsQdcFr_3ixNd8
+    linkedin: "https://www.linkedin.com/in/chinar-mhatre-a03b03244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    insta: "https://www.instagram.com/_pallav.946?igsh=cDg4Y3F3b2YzbzRs"
     
-  - name: "Yuval Bansal"
-    photo: https://drive.google.com/thumbnail?id=1dERz2k27qXJDtzpGVDJEZdAfhDpk91pj&sz=w1000
-    linkedin: "https://www.linkedin.com/in/yuval-bansal-01465b212/"
+  - name: "Shivansh Gupta"
+    photo: https://drive.google.com/file/d/1oxHTUJZ8GxCXqo3K6PWpxKouFsOtCShH/view?usp=sharing
+    linkedin: "https://www.linkedin.com/in/shivansh-gupta-5a4870285/"
     facebook: ""
-    insta: "https://www.instagram.com/yuval_bansal"
+    insta: "https://www.instagram.com/shivanshgupta406/"
 
-  - name: "Aayush Jaiswal"
-    photo: https://drive.google.com/thumbnail?id=1jPahL_57DC9iYMNeadZxBgQk2WTPWxCN&sz=w1000
-    linkedin: "https://www.linkedin.com/in/aayush-jaiswal-431b34223/"
-    insta: "https://www.instagram.com/aayush_jaiswal101"
+  - name: ""
+    photo: 
+    linkedin: ""
+    insta: ""
 
-  - name: "Manvi Bengani"
-    photo: https://drive.google.com/thumbnail?id=1ZsilWTlOxzqbqLWsHD2f4-Oqa8KmwyVg&sz=w1000
-    linkedin: "https://www.linkedin.com/in/manvi-bengani-7397641b0/"
-    insta: "https://www.instagram.com/justkeepswimming2305"
+  - name: ""
+    photo: 
+    linkedin: ""
+    insta: ""
 
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
 
