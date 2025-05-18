@@ -38,6 +38,11 @@ cordies:
     linkedin: "https://www.linkedin.com/in/chhavi-tanwar-b03197286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/chhavitanwar_/profilecard/?igsh=OXR5ZGFhOGs5NmZl"
+  - name: "Devansh Kartik"
+    photo: https://drive.google.com/open?id=1Kzr9yLy4urDV_IUowAep0ERbwRQPNDRh  #NO NEED TO CHANGE
+    linkedin: "https://www.linkedin.com/in/devansh-kartik-b98343293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=a"
+    facebook: ""
+    insta: "https://www.instagram.com/mohit_____parihar/"
   - name: "Pearl Narang"
     photo: https://drive.google.com/file/d/1lQSweEHXUbCWgMdhxchacsyc-oOiPal7/view?usp=drive_link   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/pearl-narang-441519318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -48,11 +53,7 @@ cordies:
     linkedin: "https://www.linkedin.com/in/tarushi-srivastava-86409b298"
     facebook: ""
     insta: "https://www.instagram.com/srivastavatarushi07?igsh=NzA0NG5uajdxZXF6"
-  - name: ""
-    photo:   #NO NEED TO CHANGE
-    linkedin: ""
-    facebook: ""
-    insta: ""
+  
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---

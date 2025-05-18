@@ -59,26 +59,26 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Harshita Chaudhary"
-    photo: https://drive.google.com/thumbnail?id=1hewN7HGRuNWwAEPMWFPYWCCNMaVkUz-A&sz=w1000
-    linkedin: "https://www.linkedin.com/in/harshita-chaudhary-254536258/"
+  - name: "Ananya Naryani"
+    photo: https://drive.google.com/open?id=14y-eT0AHxM3pgGuQPrZ1wNBwu6XgUrqw
+    linkedin: "http://www.linkedin.com/in/ananya-narayani-532210332"
     facebook: 
-    insta: "https://www.instagram.com/harshi.ta_07/"
-  - name: "Pranay Chaudhari"
-    photo: https://drive.google.com/thumbnail?id=1gExEo3Kx5-O8UCewkg-TwMY_hI6gLqcV&sz=w1000
-    linkedin: "https://www.linkedin.com/in/pranay-chaudhari-645019250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    insta: "https://www.instagram.com/ananyaa__0820?igsh=cXF3MjF2Ym1zdnJo"
+  - name: "Anshika Agrawal"
+    photo: https://drive.google.com/open?id=17NMbwhVPTjlqsTcnaNaQasLajzHngDJg
+    linkedin: "https://www.linkedin.com/in/anshika-agrawal-11b1b82a4/"
     facebook: ""
     insta: "https://www.instagram.com/pranayc_04/"
-  - name: "Bharat Kumar Jangid"
+  - name: "Karan Gupta"
     photo: https://drive.google.com/thumbnail?id=1gjyugj0trOtp7uVUfeN0dGcZ4rVjbTVT&sz=w1000
-    linkedin: "https://www.linkedin.com/in/bharat-kumar-jangid-42782b281/?originalSubdomain=in"
-    facebook: "https://www.facebook.com/profile.php?id=100087339133342&mibextid=ZbWKwL"
-    insta: "https://www.instagram.com/bharatkj22/"
-  - name: "Ayush Agarwal"
-    photo: https://drive.google.com/thumbnail?id=1ffzS0ubWaAwd1G-OZFNbwENR0qcT4D9W&sz=w1000
-    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
+    linkedin: "https://www.linkedin.com/in/karan-gupta-41a21332b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
-    insta: "https://www.instagram.com/ayush_agarwal_4081/"
+    insta: "https://www.instagram.com/currentgupta?igsh=aGJoMHJpcWpoejVn"
+  - name: "Kirpa Singh"
+    photo: https://drive.google.com/open?id=1ePnxDzIXYAPU-xXn4WLhuYF4MwYajSJU
+    linkedin: "https://www.linkedin.com/in/kirpa-singh-584354329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+    facebook: ""
+    insta: "https://www.instagram.com/i_kirpasingh?igsh=eTJhZndhNmVoMjZy"
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
 
 
