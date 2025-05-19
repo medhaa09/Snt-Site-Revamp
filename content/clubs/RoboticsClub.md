@@ -43,12 +43,12 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Chinar Ratnesh Mhatre"
-    photo: https://drive.google.com/open?id=1-ZOIdbBeySTnbzUiWjnsQdcFr_3ixNd8
+    photo: https://drive.google.com/thumbnail?id=1-ZOIdbBeySTnbzUiWjnsQdcFr_3ixNd8&sz=w1000
     linkedin: "https://www.linkedin.com/in/chinar-mhatre-a03b03244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     insta: "https://www.instagram.com/_pallav.946?igsh=cDg4Y3F3b2YzbzRs"
     
   - name: "Shivansh Gupta"
-    photo: https://drive.google.com/file/d/1oxHTUJZ8GxCXqo3K6PWpxKouFsOtCShH/view?usp=sharing
+    photo: https://drive.google.com/thumbnail?id=1oxHTUJZ8GxCXqo3K6PWpxKouFsOtCShH&sz=w1000
     linkedin: "https://www.linkedin.com/in/shivansh-gupta-5a4870285/"
     facebook: ""
     insta: "https://www.instagram.com/shivanshgupta406/"

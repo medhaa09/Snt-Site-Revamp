@@ -10,7 +10,7 @@ categories: societies
 layout: "clubs_page"
 cordies:
   # - name: "Pushpender"
-  #   photo: "https://drive.google.com/file/d/1gzXGpPfI7RFxUp-1dXUirKWWkeswV4iH/view?usp=drive_link"
+  #   photo: "https://drive.google.com/thumbnail?id=1gzXGpPfI7RFxUp-1dXUirKWWkeswV4iH&sz=w1000"
   #   linkedin: "https://www.linkedin.com/in/pushpender-371176287"
   #   facebook: ""
   #   insta: "https://www.instagram.com/pushpender.9257?igsh=OWo0NW5pOGpjNTEz"

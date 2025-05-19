@@ -21,12 +21,12 @@ layout: "clubs_page"    #NO NEED TO CHANGE
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Mohit Parihar"
-    photo: https://drive.google.com/open?id=19RSjnp8UmjM9a0TasYEFRpzOyvtsAw4V
+    photo: "https://drive.google.com/thumbnail?id=19RSjnp8UmjM9a0TasYEFRpzOyvtsAw4V&sz=w1000"
     linkedin: "https://www.linkedin.com/in/mohit-parihar-4a6659312/"
     facebook: 
     insta: "https://www.instagram.com/mohit_____parihar/"
   - name: "Ravi Kumar"
-    photo: https://drive.google.com/open?id=1FGmImgg15mzE1L5Xdaq3FHkKiGRNrZpt
+    photo: https://drive.google.com/thumbnail?id=1FGmImgg15mzE1L5Xdaq3FHkKiGRNrZpt&sz=w1000
     linkedin: "https://www.linkedin.com/in/rvi-kumar/"
     facebook: ""
     insta: "https://www.instagram.com/rvi_arya/"

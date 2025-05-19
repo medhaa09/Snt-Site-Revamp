@@ -60,22 +60,22 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Ananya Naryani"
-    photo: https://drive.google.com/open?id=14y-eT0AHxM3pgGuQPrZ1wNBwu6XgUrqw
+    photo: https://drive.google.com/thumbnail?id=14y-eT0AHxM3pgGuQPrZ1wNBwu6XgUrqw&sz=w1000
     linkedin: "http://www.linkedin.com/in/ananya-narayani-532210332"
     facebook: 
     insta: "https://www.instagram.com/ananyaa__0820?igsh=cXF3MjF2Ym1zdnJo"
   - name: "Anshika Agrawal"
-    photo: https://drive.google.com/open?id=17NMbwhVPTjlqsTcnaNaQasLajzHngDJg
+    photo: https://drive.google.com/thumbnail?id=17NMbwhVPTjlqsTcnaNaQasLajzHngDJg&sz=w1000
     linkedin: "https://www.linkedin.com/in/anshika-agrawal-11b1b82a4/"
     facebook: ""
     insta: "https://www.instagram.com/pranayc_04/"
   - name: "Karan Gupta"
-    photo: https://drive.google.com/thumbnail?id=1gjyugj0trOtp7uVUfeN0dGcZ4rVjbTVT&sz=w1000
+    photo: https://drive.google.com/thumbnail?id=1yaj-Cs85leQCNmia8wxJnOPr_MEHf9_J&sz=w1000
     linkedin: "https://www.linkedin.com/in/karan-gupta-41a21332b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/currentgupta?igsh=aGJoMHJpcWpoejVn"
   - name: "Kirpa Singh"
-    photo: https://drive.google.com/open?id=1ePnxDzIXYAPU-xXn4WLhuYF4MwYajSJU
+    photo: https://drive.google.com/thumbnail?id=1ePnxDzIXYAPU-xXn4WLhuYF4MwYajSJU&sz=w1000
     linkedin: "https://www.linkedin.com/in/kirpa-singh-584354329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     facebook: ""
     insta: "https://www.instagram.com/i_kirpasingh?igsh=eTJhZndhNmVoMjZy"

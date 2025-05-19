@@ -11,7 +11,7 @@ categories: teams
 layout: "clubs_page"
 cordies:
   # - name: "Aayush Jhawar"
-  #   photo: "https://drive.google.com/file/d/1OCbVcArE1CMOZzFsK555vEgRmu6Rta06/view?usp=sharing"
+  #   photo: "https://drive.google.com/thumbnail?id=1OCbVcArE1CMOZzFsK555vEgRmu6Rta06&sz=w1000"
   #   linkedin: "https://www.linkedin.com/in/aayushjhawar05"
   #   facebook: ""
   #   insta: "https://www.instagram.com/_silentcipher?igsh=MWI4ZmR5cTJjbDN1Zw=="

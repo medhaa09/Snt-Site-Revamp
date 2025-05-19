@@ -34,22 +34,22 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Chhavi Tanwar"
-    photo: https://drive.google.com/file/d/14L81FXXc4O6xthkv92TRGnUgE7wXtIC3/view?usp=drive_link  #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=14L81FXXc4O6xthkv92TRGnUgE7wXtIC3&sz=w1000  #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/chhavi-tanwar-b03197286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/chhavitanwar_/profilecard/?igsh=OXR5ZGFhOGs5NmZl"
   - name: "Devansh Kartik"
-    photo: https://drive.google.com/open?id=1Kzr9yLy4urDV_IUowAep0ERbwRQPNDRh  #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1Kzr9yLy4urDV_IUowAep0ERbwRQPNDRh&sz=w1000  #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/devansh-kartik-b98343293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=a"
     facebook: ""
     insta: "https://www.instagram.com/mohit_____parihar/"
   - name: "Pearl Narang"
-    photo: https://drive.google.com/file/d/1lQSweEHXUbCWgMdhxchacsyc-oOiPal7/view?usp=drive_link   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1lQSweEHXUbCWgMdhxchacsyc-oOiPal7&sz=w1000   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/pearl-narang-441519318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/pearl_narang?igsh=NnQxNXBhcHUzaTM1"
   - name: "Tarushi Srivastava"
-    photo: https://drive.google.com/file/d/19twBMq9zuqmXIVYxrrGYIVZ65nQOsApF/view?usp=drive_link   #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=19twBMq9zuqmXIVYxrrGYIVZ65nQOsApF&sz=w1000   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/tarushi-srivastava-86409b298"
     facebook: ""
     insta: "https://www.instagram.com/srivastavatarushi07?igsh=NzA0NG5uajdxZXF6"

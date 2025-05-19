@@ -37,17 +37,17 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Keshav Bansal"
-    photo: https://drive.google.com/open?id=1SvSRr-qTvouwfKkV6zRXA2b-CHEHlxCd  #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=1SvSRr-qTvouwfKkV6zRXA2b-CHEHlxCd&sz=w1000  #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/keshav-bansal-076628284/"
     facebook:
     insta: "https://www.instagram.com/keshav_bansal_5/"
   - name: "Harshvardhann Gaur"
-    photo: "https://drive.google.com/open?id=1FS0bijjF_06BYhtAAriyLlGeiUeMOFNR"   #NO NEED TO CHANGE
+    photo: "https://drive.google.com/thumbnail?id=1FS0bijjF_06BYhtAAriyLlGeiUeMOFNR&sz=w1000"   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/harshvardhan-gaur-2aa136309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/harshvardhan_gaur_/"
   - name: "Pallav Rastogi"
-    photo: "https://drive.google.com/open?id=1jygD1dpvLPjL0Pu-1t2oU_fP1d0VCtk5"   #NO NEED TO CHANGE
+    photo: "https://drive.google.com/thumbnail?id=1jygD1dpvLPjL0Pu-1t2oU_fP1d0VCtk5&sz=w1000"   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/pallav-rastogi-390862293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/_pallav.946?igsh=cDg4Y3F3b2YzbzRs"
