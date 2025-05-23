@@ -41,6 +41,11 @@ cordies:
     linkedin: "https://www.linkedin.com/in/shubh-jain007/"
     facebook: ""
     insta: "https://www.instagram.com/ayush_agarwal_4081/"
+  - name: "Shravan Agrawal"
+    photo: https://drive.google.com/thumbnail?id=16-YzsJ467AHMcjp_u7_JZnTI-wzQkNTJ&sz=w1000
+    linkedin: "https://www.linkedin.com/in/shravan-agrawal-539646296"
+    facebook: ""
+    insta: "https://www.instagram.com/shravanagrawal47/"
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
 
 

@@ -43,26 +43,26 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Burhanuddin Merchant"
-    photo: https://drive.google.com/thumbnail?id=1pA2kjUEw3Czwh9u6dZuCVcJtUT4v1mB6&sz=w1000
-    linkedin: "https://www.linkedin.com/in/burhanuddin-merchant-23622a254/"
+  - name: "Himanshu Sharma"
+    photo: https://drive.google.com/thumbnail?id=15pjLSo8iDYc5_eINbXh5-AQfIeZbRn0I&sz=w1000
+    linkedin: "https://www.linkedin.com/in/himanshu-sharma-152282217/"
     facebook: 
-    insta: "https://www.instagram.com/merchant_burhanuddin53/"
-  - name: "Divyansh Garg"
-    photo: https://drive.google.com/thumbnail?id=1PSDjQbgP_UAYQ-77gmXl-FB34yLKCtXp&sz=w1000
-    linkedin: "https://www.linkedin.com/in/divyansh-garg-780a94252/"
+    insta: "https://www.instagram.com/sh_hi.man.shu/"
+  - name: "Manas Jain Kuniya"
+    photo: https://drive.google.com/thumbnail?id=1st1l17TGdOcvasW57SAIyhPgJNAkekTF&sz=w1000
+    linkedin: "http://www.linkedin.com/in/manas-jain-kuniya"
     facebook: ""
-    insta: "https://www.instagram.com/_divyansh._.garg/"
-  - name: "Hardik Jindal"
-    photo: https://drive.google.com/thumbnail?id=1sqPadYQoQ5iR8AgiZjN1eqRjdjzu6nOm&sz=w1000
-    linkedin: "https://www.linkedin.com/in/hardik-jindal-1a2176250/"
+    insta: "http://www.linkedin.com/in/manas-jain-kuniya"
+  - name: ""
+    photo: 
+    linkedin: ""
     facebook: ""
-    insta: "https://www.instagram.com/hardikj_1408/"
-  - name: "Yash Pratap Singh"
-    photo: https://drive.google.com/thumbnail?id=1f14U9OeQ-jtkuMS5sLufXnudlAWSitoo&sz=w1000
-    linkedin: "https://www.linkedin.com/in/its-me-yps/"
+    insta: ""
+  - name: ""
+    photo: 
+    linkedin: ""
     facebook: ""
-    insta: "https://www.instagram.com/yps_8181/"
+    insta: ""
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---
