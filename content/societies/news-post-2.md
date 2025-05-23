@@ -14,11 +14,11 @@ cordies:
   #   linkedin: "https://www.linkedin.com/in/pushpender-371176287"
   #   facebook: ""
   #   insta: "https://www.instagram.com/pushpender.9257?igsh=OWo0NW5pOGpjNTEz"
-  # - name: ""
-  #   photo: ""
-  #   linkedin: ""
+  # - name: "Vikash Sunda "
+  #   photo: "https://drive.google.com/thumbnail?id=1Eqe1JLPmlWaOVrSUCCEk7yhGe9rppnK7&sz=w1000"
+  #   linkedin: "http://www.linkedin.com/in/vikash-sunda-34245a2b4"
   #   facebook: ""
-  #   insta: ""
+  #   insta: "https://www.instagram.com/vikash_sunda__06?igsh=ODJyYmQxbTZ0YnJ5"
   
 ---
 ## About Us

@@ -53,7 +53,7 @@ cordies:
     linkedin: "https://www.linkedin.com/in/tarushi-srivastava-86409b298"
     facebook: ""
     insta: "https://www.instagram.com/srivastavatarushi07?igsh=NzA0NG5uajdxZXF6"
-  
+  - 
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---

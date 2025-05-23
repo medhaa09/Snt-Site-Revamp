@@ -53,15 +53,15 @@ cordies:
     facebook: ""
     insta: "https://www.instagram.com/shivanshgupta406/"
 
-  - name: ""
-    photo: 
-    linkedin: ""
-    insta: ""
+  - name: "Soumyajit Halder"
+    photo: https://drive.google.com/thumbnail?id=1Sk3EoOvr8Wf0UJSjG-0Jtc_trTGSNTpf&sz=w1000
+    linkedin: "https://www.linkedin.com/in/soumyajit-halder-92ba00287/"
+    insta: "https://www.instagram.com/soumyajit._.halder/"
 
-  - name: ""
-    photo: 
-    linkedin: ""
-    insta: ""
+  - name: "Ridhima Sharma "
+    photo: https://drive.google.com/thumbnail?id=1yl7Ud2wkrHyLt-Fzp-QCOkQgU8ihw-d2&sz=w1000
+    linkedin: "https://www.linkedin.com/in/ridhima-sharma-4125972b5"
+    insta: "https://www.instagram.com/ridhima_1185"
 
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
 
