@@ -38,31 +38,31 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Kshitij Bhardwaj"
-    photo: https://drive.google.com/thumbnail?id=1b-Ux_J-V6nrGHoRHa1As-nfybJZthY5X&sz=w1000
-    linkedin: "https://www.linkedin.com/in/kshitijbhardwaj1729"
+  - name: "Devansh Bansal"
+    photo: https://drive.google.com/thumbnail?id=1dXH_B2zDeIOlKopt1C0Lp8vO7bn2_0_e&sz=w1000
+    linkedin: "https://www.linkedin.com/in/devansh-bansal-923588255/"
     facebook: 
-    insta: "https://www.instagram.com/tensor.1729?igsh=bGp0cXpwNjE1c2xk"
-  - name: "Rachit Agrawal"
-    photo: https://drive.google.com/thumbnail?id=1q5Z0NwKc-wzhMa721XnwO1VRLWUjZ4vM&sz=w1000
-    linkedin: "https://www.linkedin.com/in/rachit-agarwal-980100287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    insta: "https://www.instagram.com/devansh.b83/"
+  - name: "Likith Sai Jonna"
+    photo: https://drive.google.com/thumbnail?id=1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS&sz=w1000
+    linkedin: "https://www.linkedin.com/in/likith-sai-jonna-6102b7257/"
     facebook: ""
-    insta: ""
-  - name: ""
-    photo: 
-    linkedin: ""
+    insta: "https://www.instagram.com/likith.sai_1303/"
+  - name: "Rohit Verma"
+    photo: https://drive.google.com/thumbnail?id=1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS&sz=w1000
+    linkedin: "https://www.linkedin.com/in/rohit-verma-8a38b225b/"
     facebook: ""
-    insta: ""
-  - name: ""
-    photo: 
-    linkedin: ""
+    insta: "https://www.instagram.com/rohiiit_26/"
+  - name: "Shivang Agarwal"
+    photo: https://drive.google.com/thumbnail?id=16Di9CJa-BjXTWdhIEoWfrz6trOxQBYE9&sz=w1000
+    linkedin: "https://www.linkedin.com/in/shivang-agarwal-443635256/"
     facebook: ""
-    insta: ""
-  - name: ""
-    photo: 
-    linkedin: ""
+    insta: "https://www.instagram.com/shivangagarwal6/"
+  - name: "Vaneesha S Kumar"
+    photo: https://drive.google.com/thumbnail?id=1nGxHeP1WW_Enl9u0zoLvH2ADvb6tbvkQ&sz=w1000
+    linkedin: "https://www.linkedin.com/in/vaneesha-s-kumar-253166279/"
     facebook: ""
-    insta: ""
+    insta: "https://www.instagram.com/vaneesha_0410/"
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---
