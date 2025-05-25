@@ -33,26 +33,27 @@ roadmaps :
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Astitva Roy"
-    photo: https://drive.google.com/thumbnail?id=19cUvD-L51G33QPc9-iPurVizRhosafe0&sz=w1000   #NO NEED TO CHANGE
-    linkedin: ""
-    facebook: https://www.facebook.com/100094067273667/
-    insta: "https://www.instagram.com/astitva5530/"
-  - name: "Ayush Bokad"
-    photo: https://drive.google.com/thumbnail?id=1uFVBx4FVqZ786PDDq4TzVsMgIRbKNZP2&sz=w1000   #NO NEED TO CHANGE
-    linkedin: "https://www.linkedin.com/in/ayush-bokad-476764262/"
-    facebook: "https://www.facebook.com/100086503962733/"
-    insta: "https://www.instagram.com/ayushbokad/"
-  - name: "Sohel Saini"
-    photo: https://drive.google.com/thumbnail?id=1FnzzKCIjknJsSRQLe9Ik2Jw0OhUwnD9S&sz=w1000   #NO NEED TO CHANGE
-    linkedin: "https://www.linkedin.com/in/sohel-saini-ab731624b/"
-    facebook: "https://www.facebook.com/100086464184830/"
-    insta: "https://www.instagram.com/sainisohel112/"
-  - name: "Tanish Singla"
-    photo: https://drive.google.com/thumbnail?id=1w2kKVZcrTSv8bw9dGnc-b7ETbqqbFNef&sz=w1000  #NO NEED TO CHANGE
-    linkedin: "https://www.linkedin.com/in/tanish-singla-496446258/"
-    facebook: "https://www.facebook.com/tanish.singla.73/"
-    insta: "https://www.instagram.com/m.tanishsingla/"
+  - name: "Chhavi Tanwar"
+    photo: https://drive.google.com/thumbnail?id=14L81FXXc4O6xthkv92TRGnUgE7wXtIC3&sz=w1000  #NO NEED TO CHANGE
+    linkedin: "https://www.linkedin.com/in/chhavi-tanwar-b03197286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    facebook: ""
+    insta: "https://www.instagram.com/chhavitanwar_/profilecard/?igsh=OXR5ZGFhOGs5NmZl"
+  - name: "Devansh Kartik"
+    photo: https://drive.google.com/thumbnail?id=1Kzr9yLy4urDV_IUowAep0ERbwRQPNDRh&sz=w1000  #NO NEED TO CHANGE
+    linkedin: "https://www.linkedin.com/in/devansh-kartik-b98343293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=a"
+    facebook: ""
+    insta: "https://www.instagram.com/mohit_____parihar/"
+  - name: "Pearl Narang"
+    photo: https://drive.google.com/thumbnail?id=1lQSweEHXUbCWgMdhxchacsyc-oOiPal7&sz=w1000   #NO NEED TO CHANGE
+    linkedin: "https://www.linkedin.com/in/pearl-narang-441519318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    facebook: ""
+    insta: "https://www.instagram.com/pearl_narang?igsh=NnQxNXBhcHUzaTM1"
+  - name: "Tarushi Srivastava"
+    photo: https://drive.google.com/thumbnail?id=19twBMq9zuqmXIVYxrrGYIVZ65nQOsApF&sz=w1000   #NO NEED TO CHANGE
+    linkedin: "https://www.linkedin.com/in/tarushi-srivastava-86409b298"
+    facebook: ""
+    insta: "https://www.instagram.com/srivastavatarushi07?igsh=NzA0NG5uajdxZXF6"
+  - 
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---

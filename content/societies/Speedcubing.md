@@ -20,26 +20,26 @@ layout: "clubs_page"    #NO NEED TO CHANGE
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Arush Upadhyaya"
-    photo: https://drive.google.com/thumbnail?id=167ro2Teuz9jUNpMWhZzOpBmN82sdJ3B8&sz=w1000
-    linkedin: "https://www.linkedin.com/in/arush-upadhyaya-5a2604281/"
+  - name: "Mohit Parihar"
+    photo: "https://drive.google.com/thumbnail?id=19RSjnp8UmjM9a0TasYEFRpzOyvtsAw4V&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/mohit-parihar-4a6659312/"
     facebook: 
-    insta: "https://www.instagram.com/a.rush.up/"
-  - name: "Ishan Prakhar"
-    photo: https://drive.google.com/thumbnail?id=16RLVNTDiBnAHM4nBUZBWjrAQlFjuVNh8&sz=w1000
-    linkedin: "https://www.linkedin.com/in/ishan-prakhar/"
+    insta: "https://www.instagram.com/mohit_____parihar/"
+  - name: "Ravi Kumar"
+    photo: https://drive.google.com/thumbnail?id=1FGmImgg15mzE1L5Xdaq3FHkKiGRNrZpt&sz=w1000
+    linkedin: "https://www.linkedin.com/in/rvi-kumar/"
     facebook: ""
-    insta: "https://www.instagram.com/prakharishan?igsh=Y2xsaGJ6aHhncjZ5&utm_source=qr"
-  - name: "Sharah P S"
-    photo: https://drive.google.com/thumbnail?id=16-J80jWzOJsZXC2EQbdZBw6B3uZqdHyl&sz=w1000
-    linkedin: "https://www.linkedin.com/in/sharah-p-s-256065258/"
+    insta: "https://www.instagram.com/rvi_arya/"
+  - name: ""
+    photo:
+    linkedin: ""
     facebook: ""
-    insta: "https://www.instagram.com/_sha_ra.h?igsh=c3g5YTZhdGEwd2V6"
-  - name: "Trijal Srivastava"
-    photo: https://drive.google.com/thumbnail?id=167T4-tDWyfYJVSgzSq7tgWLeaSo3D4io&sz=w1000
-    linkedin: "https://www.linkedin.com/in/trijal-srivastava-944056228/"
+    insta: ""
+  - name: ""
+    photo: 
+    linkedin: ""
     facebook: ""
-    insta: "https://www.instagram.com/trijal_xo?igsh=ODFqYnB3b2ZxNTBm"
+    insta: ""
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---
