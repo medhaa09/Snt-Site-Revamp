@@ -1,6 +1,5 @@
 ---
-title: "AUV
-"
+title: "AUV"
 date: 2022-05-18T11:10:36+08:00
 draft: false
 language: en
@@ -10,26 +9,26 @@ description: Concern for man and his fate must always form the chief interest of
 categories: teams
 layout: "clubs_page"
 cordies:
-  # - name: "Ridin Datta"
-  #   photo: "/teams/ridin.jpg"
-  #   linkedin: "https://www.linkedin.com/in/ridin-datta-932697226/"
-  #   facebook: ""
-  #   insta: "https://www.instagram.com/rhydburgerr/"
-  # - name: "Shubh Jain"
-  #   photo: "/teams/shubh.png"
-  #   linkedin: "https://www.linkedin.com/in/shubh-jain007/"
-  #   facebook: ""
-  #   insta: "https://www.instagram.com/shubhjain__007/"
-  # - name: "Shubh Jain"
-  #   photo: "/teams/shubh.png"
-  #   linkedin: "https://www.linkedin.com/in/shubh-jain007/"
-  #   facebook: ""
-  #   insta: "https://www.instagram.com/shubhjain__007/"
-  # - name: "Shubh Jain"
-  #   photo: "/teams/shubh.png"
-  #   linkedin: "https://www.linkedin.com/in/shubh-jain007/"
-  #   facebook: ""
-  #   insta: "https://www.instagram.com/shubhjain__007/"
+  - name: "Ashish Upadhyay"
+    photo:
+    linkedin: 
+    facebook: 
+    insta:
+  - name: "Dakshith Sureshkumar"
+    photo: "https://drive.google.com/thumbnail?id=15ifAhzL1lXIbrbnrqC4l0V888nl4lfpV&sz=w1000"
+    linkedin: "http://www.linkedin.com/in/dhakshith-sureshkumar"
+    facebook: ""
+    insta: "https://www.instagram.com/dhakshiithh?igsh=MTJkNDJkaDVhYTk0Yg=="
+  - name: "Suyash Kumar"
+    photo: "https://drive.google.com/thumbnail?id=1lCa2zxuDxkhy_5EAOweJXTyqmCwXiXw2&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/suyash-kumar-b062491bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    facebook: ""
+    insta: "https://www.instagram.com/safebet5705?igsh=YmJoeTRucGJrMXI1"
+  - name: "Saket Nandedkar"
+    photo: "https://drive.google.com/thumbnail?id=1yC4HHGzUsX3IWSSWo6jUXlBZVQGJZwr5&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/saket-nandedkar-20bb8b29a"
+    facebook: ""
+    insta: "https://www.instagram.com/saket_nandedkar?igsh=MWpuM2JnZXhwd2U0aQ=="
 ---
 ## About Us
 AUV-IITK is a team of undergraduate students researching in the field of marine robotics. The team started off in 2014, as the brainchild of a group of enthusiastic engineers. We have successfully designed and manufactured 3 robust autonomous underwater vehicles (AUV), namely Varun, Anahita and ATAL. These machines are capable of navigating in unknown environments, performing acoustic localisation and identifying using computer vision.

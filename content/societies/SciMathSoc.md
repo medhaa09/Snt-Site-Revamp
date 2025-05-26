@@ -16,31 +16,36 @@ featured_image: "../assets/images/featured/SciMathSoc.jpeg"  #NO NEED TO CHANGE
 summary: Welcome to SciMathSoc – a dynamic, student-driven initiative that unites science and mathematics through thought-provoking discussions, exciting competitions, and hands-on projects.
 
 
-categories: clubs   #NO NEED TO CHANGE
+categories: societies  #NO NEED TO CHANGE
 layout: "clubs_page"    #NO NEED TO CHANGE
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Harshita Chaudhary"
-    photo: https://drive.google.com/thumbnail?id=1hewN7HGRuNWwAEPMWFPYWCCNMaVkUz-A&sz=w1000
-    linkedin: "https://www.linkedin.com/in/harshita-chaudhary-254536258/"
+  - name: "Shaurya Johari"
+    photo:
+    linkedin:
     facebook: 
-    insta: "https://www.instagram.com/harshi.ta_07/"
-  - name: "Pranay Chaudhari"
-    photo: https://drive.google.com/thumbnail?id=1gExEo3Kx5-O8UCewkg-TwMY_hI6gLqcV&sz=w1000
-    linkedin: "https://www.linkedin.com/in/pranay-chaudhari-645019250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    insta:
+  - name: "Shravan Agrawal"
+    photo: https://drive.google.com/thumbnail?id=16-YzsJ467AHMcjp_u7_JZnTI-wzQkNTJ&sz=w1000
+    linkedin: "https://www.linkedin.com/in/shravan-agrawal-539646296"
     facebook: ""
-    insta: "https://www.instagram.com/pranayc_04/"
-  - name: "Bharat Kumar Jangid"
-    photo: https://drive.google.com/thumbnail?id=1gjyugj0trOtp7uVUfeN0dGcZ4rVjbTVT&sz=w1000
-    linkedin: "https://www.linkedin.com/in/bharat-kumar-jangid-42782b281/?originalSubdomain=in"
-    facebook: "https://www.facebook.com/profile.php?id=100087339133342&mibextid=ZbWKwL"
-    insta: "https://www.instagram.com/bharatkj22/"
-  - name: "Ayush Agarwal"
-    photo: https://drive.google.com/thumbnail?id=1ffzS0ubWaAwd1G-OZFNbwENR0qcT4D9W&sz=w1000
-    linkedin: "https://www.linkedin.com/in/shubh-jain007/"
-    facebook: ""
-    insta: "https://www.instagram.com/ayush_agarwal_4081/"
+    insta: "https://www.instagram.com/shravanagrawal47/"
+  - name: "Shrey Solanki"
+    photo:
+    linkedin:
+    facebook: 
+    insta:
+  - name: "Soumyadittya Chandra"
+    photo:
+    linkedin:
+    facebook: 
+    insta:
+  - name: "Pranjal Gupta"
+    photo:
+    linkedin:
+    facebook: 
+    insta:
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
 
 

@@ -6,8 +6,8 @@ title: "Brain and Cognitive Science Club"   #Write name of the club
 draft: false  #NO NEED TO CHANGE
 language: en  #NO NEED TO CHANGE
 
-featured_image: "../assets/images/featured/bcs.jpeg"  #NO NEED TO CHANGE
-website: "https://bcs-iitk.github.io/blog-post/"   #Write url of the club
+featured_image: "../assets/images/featured/bcs.jpg"  #NO NEED TO CHANGE
+website: "https://bcs-iitk.tech/"   #Write url of the club
 instagramUrl : "https://www.instagram.com/bcs.iitk/"
 linkedIn : "https://www.linkedin.com/in/bcs-iitk-266473301/"
 facebook : ""
@@ -24,33 +24,37 @@ roadmaps :
     #Write title of the document
     #Paste google drive link (link should be accessible to all)
   - title: ML Roadmap
-    url: https://docs.google.com/document/d/1Nbo05cdQcP-vYY14t-xjEQ8rrL8iFT1Shdk4T_6XaRM/edit#heading=h.8w60o8retwqn
+    url: https://docs.google.com/document/d/1Nbo05cdQcP-vYY14t-xjEQ8rrL8iFT1Shdk4T_6XaRM/edit?usp=sharing
+  - title: NLP Roadmap
+    url: https://docs.google.com/document/d/1dFZqENUxkpRq4E2J4MWhR8vI5ieNLzz4y2KfoUczbp4/edit?usp=sharing
   - title: Neuro Roadmap
-    url: https://docs.google.com/document/d/1MhET6FYxfvVaS5eU4B59mRG2X0A2YGL322WVF7CMBvY/edit#heading=h.8w60o8retwqn
+    url: https://docs.google.com/document/d/1y-TprXNxiCuY9nEjCH152YRAM2-6T7dp2SUrnuY1lCI/edit?usp=sharing
+  - title: CV Roadmap
+    url: https://docs.google.com/document/d/1xG-njub1rJ4B-BPJf6izEBcXdBuOl-be/edit?usp=sharing&ouid=116978841689364835830&rtpof=true&sd=true
     #To add more doucuments, copy/paste title and url in same format as above.
 
 cordies:
     # Add name of cordies or heads and paste their social media links.
-  - name: "Debarpita Dash"
-    photo: https://drive.google.com/thumbnail?id=1_EChmSdaj7qac7X1rciaEESicyEkexNr&sz=w1000
-    linkedin: "https://www.linkedin.com/in/debarpitad/"
+  - name: "Akshay Reddy Kamatam"
+    photo: "https://drive.google.com/thumbnail?id=1QuGTEjsWSboQ9GfwvqQBv_khCKSU8bu2&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/akshay-reddy-kamatam-1baa14292/"
     facebook: 
-    insta: ""
-  - name: "Manasvi Nidugala"
-    photo: https://drive.google.com/thumbnail?id=1MYqSW1rXpbmcUo-71o65f3Ulp0lC_Q5a&sz=w1000
-    linkedin: "https://www.linkedin.com/in/manasvi-nidugala/"
+    insta: "https://www.instagram.com/_me_akshayy/?hl=en"
+  - name: "Gaurav Rampuria"
+    photo: "https://drive.google.com/thumbnail?id=1-Ye9yaHVdCWjUBTE7j9SbgCAcRTZi8Py&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/gaurav-kumar-rampuria-2246a916b/"
     facebook: ""
-    insta: ""
-  - name: "Sagar Arora"
-    photo: https://drive.google.com/thumbnail?id=1KoVIpZ4Y3QIAmcjvZY29gVsSkkUdflEb&sz=w1000
-    linkedin: "https://www.linkedin.com/in/arora-sagar163"
+    insta: "https://www.instagram.com/gaurav_rampuria_/"
+  - name: "Siddhant Shekhar"
+    photo: "https://drive.google.com/thumbnail?id=15dCdN4QTP9Dw-irKlb9Xw3dm1MtPuVZR&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/siddhant-shekhar-848b88284/"
     facebook: ""
-    insta: ""
-  - name: "Udbhav Agarwal"
-    photo: https://drive.google.com/thumbnail?id=1yIkzTYHj3RbYYcnPF17tVeXAk-q-5GKS&sz=w1000
-    linkedin: "https://www.linkedin.com/in/udbhav-agarwal44/"
+    insta: "https://www.instagram.com/siddhantshekhar_/"
+  - name: "Sunraj Patel"
+    photo: "https://drive.google.com/thumbnail?id=18ZGOIXGagu-gwNrgkmiTQVFSz8mXpXvh&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/sunraj-patel-b55a80196/"
     facebook: ""
-    insta: ""
+    insta: "https://www.instagram.com/sunraj_pat"
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---
