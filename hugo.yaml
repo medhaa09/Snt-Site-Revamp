@@ -9,7 +9,7 @@ canonifyURLs: true
 
 
 pagination:
-  pagerSize: "6"
+  pagerSize: "9"
 
 darkmode_js:
   - assets/js/darkmode.js
@@ -158,14 +158,19 @@ menu:
       name: Teams
       url: /categories/teams/
       weight: 30
-    - identifier: outreach
-      name: Outreach
-      url: /categories/outreach/
+    - identifier: hobbygroup
+      name: Hobby Group
+      url: /categories/hobbygroup/
       weight: 40
-    - identifier: web-division
-      name: Web Division
-      url: /categories/web-division/
+    # - identifier: outreach
+    #   name: Outreach
+    #   url: /categories/outreach/
+    #   weight: 40
+    - identifier: council-coordinators
+      name: Council Coordinators
+      url: /categories/council-coordinators/
       weight: 50
+
   competitions:
     - identifier: takneek
       name: Takneek
@@ -201,9 +206,9 @@ menu:
       name: Teams
       url: /categories/teams/
       weight: 40
-    - identifier: web-division
-      name: Web Division
-      url: /categories/web-division/
+    - identifier: council-coordinators
+      name: Council Coordinators
+      url: /categories/council-coordinators/
       weight: 50
 
 markup:

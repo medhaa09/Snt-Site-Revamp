@@ -39,7 +39,7 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Ashish Upadhyay"
-    photo: 
+    photo: "https://drive.google.com/thumbnail?id=1oWEQb7gVoxAuhSR8qrcQyQo33m8_FkU8&sz=w1000"
     linkedin: 
     facebook: 
     insta:
@@ -49,10 +49,10 @@ cordies:
     facebook: 
     insta: "https://www.instagram.com/tensor.1729?igsh=bGp0cXpwNjE1c2xk"
   - name: "Mrigesh Ashwin"
-    photo:
-    linkedin:
+    photo: "https://drive.google.com/thumbnail?id=1Q-4ReGujEaPmpG-tnpEFDABcqNHVO4UE&sz=w1000"
+    linkedin: "http://www.linkedin.com/in/mrigeesh-ashwin-8b2683286"
     facebook: 
-    insta:
+    insta: "https://www.instagram.com/mrigeesh_ashwin/"
   - name: "Rachit Agrawal"
     photo: "https://drive.google.com/thumbnail?id=1q5Z0NwKc-wzhMa721XnwO1VRLWUjZ4vM&sz=w1000"
     linkedin: "https://www.linkedin.com/in/rachit-agarwal-980100287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"

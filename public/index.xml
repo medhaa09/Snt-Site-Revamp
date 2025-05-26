@@ -6,7 +6,7 @@
     <description>Recent content on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 03:35:51 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 11:56:21 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Overview</title>
@@ -163,6 +163,13 @@
       <description>In this project, we participated in various Capture The Flag (CTF) competitions, focusing primarily on binary exploitation challenges. Through hands-on experience in these contests, we developed skills in identifying and exploiting vulnerabilities in binaries. These challenges ranged from buffer overflows to format string attacks, requiring a deep understanding of system internals, memory management, and reverse engineering techniques. By solving numerous challenges, we gained valuable knowledge in binary exploitation, enhancing our proficiency in security analysis and vulnerability research.</description>
     </item>
     <item>
+      <title>Council Coordinators</title>
+      <link>//localhost:1313/council_coordinator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/council_coordinator/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>CREATING VIRTUAL REALITY  WORLD  USING  BLENDER</title>
       <link>//localhost:1313/summer-projects/descon_creating_virtual_reality_world_using_blender---kd-gone-crazy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -290,9 +297,9 @@
     </item>
     <item>
       <title>Speedcubing</title>
-      <link>//localhost:1313/societies/speedcubing/</link>
+      <link>//localhost:1313/hobbygroup/speedcubing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/societies/speedcubing/</guid>
+      <guid>//localhost:1313/hobbygroup/speedcubing/</guid>
       <description>a vibrant community of puzzle enthusiasts dedicated to the art and science of solving twisty puzzles like the Rubik’s Cube. We are one of the dynamic clubs under the Science and Technology (SnT) Council of the Students&amp;rsquo; Gymkhana, fostering curiosity, logic, and hands-on learning.</description>
     </item>
     <item>
@@ -329,13 +336,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/summer-projects/pclub_vcs---yash-pratap-singh/</guid>
       <description>The project covered foundational concepts of version control, providing a solid understanding of Git and its inner workings. It explored Git objects, HEAD, branching, merging, and commands such as git diff, git status, git log, git add, git commit, git branch, git merge, git remote, git fetch, and git push. The internal workings of these commands were studied, and a custom version control system was implemented in Go, incorporating these commands to enhance understanding of development and project structuring.</description>
-    </item>
-    <item>
-      <title>Web_heads</title>
-      <link>//localhost:1313/web_division/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/web_division/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
