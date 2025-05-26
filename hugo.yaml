@@ -6,11 +6,7 @@ enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
-
-
-pagination:
-  pagerSize: "9"
-
+paginate: 9
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
@@ -158,19 +154,14 @@ menu:
       name: Teams
       url: /categories/teams/
       weight: 30
-    - identifier: hobbygroup
-      name: Hobby Group
-      url: /categories/hobbygroup/
-      weight: 40
     # - identifier: outreach
     #   name: Outreach
     #   url: /categories/outreach/
     #   weight: 40
-    - identifier: council-coordinators
+    - identifier: Council Coordinators
       name: Council Coordinators
       url: /categories/council-coordinators/
       weight: 50
-
   competitions:
     - identifier: takneek
       name: Takneek

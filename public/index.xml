@@ -6,7 +6,7 @@
     <description>Recent content on Science And Technology Council</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 11:56:21 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 13:52:12 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Overview</title>
@@ -163,10 +163,10 @@
       <description>In this project, we participated in various Capture The Flag (CTF) competitions, focusing primarily on binary exploitation challenges. Through hands-on experience in these contests, we developed skills in identifying and exploiting vulnerabilities in binaries. These challenges ranged from buffer overflows to format string attacks, requiring a deep understanding of system internals, memory management, and reverse engineering techniques. By solving numerous challenges, we gained valuable knowledge in binary exploitation, enhancing our proficiency in security analysis and vulnerability research.</description>
     </item>
     <item>
-      <title>Council Coordinators</title>
-      <link>//localhost:1313/council_coordinator/</link>
+      <title>Council-Coordinators</title>
+      <link>//localhost:1313/council_coordinators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/council_coordinator/</guid>
+      <guid>//localhost:1313/council_coordinators/</guid>
       <description></description>
     </item>
     <item>
