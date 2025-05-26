@@ -23,35 +23,35 @@ layout: "clubs_page"    #NO NEED TO CHANGE
 roadmaps :
     #Write title of the document
     #Paste google drive link (link should be accessible to all)
-  - title: Basic Fabrication
+  - title: "Basic Fabrication"
     url: "https://onedrive.live.com/edit?id=2C1225AC1B9E25FF!209&resid=2C1225AC1B9E25FF!209&ithint=file%2cdocx&authkey=!ABjXVPARmCRqWfA&wdo=2&cid=2c1225ac1b9e25ff"
-  - title: Lift Generation
+  - title: "Lift Generation"
     url: "https://docs.google.com/document/d/1VnP7CXGbpaesdiw7Ac_d9ma8FgRkv6Zx/edit"
-  - title: RC Electronics for beginners
+  - title: "RC Electronics for beginners"
     url: "https://www.youtube.com/watch?v=j61Q3e8AFR4"
-  - title: LiPo Battery Pack C-rating
+  - title: "LiPo Battery Pack C-rating"
     url: "https://acrobat.adobe.com/id/urn:aaid:sc:AP:70aa1ebc-4a5d-4024-835d-ef855c712162"
-  - title: Propeller Effects
+  - title: "Propeller Effects"
     url: "https://www.youtube.com/shorts/nXvR7Ct0eGE"
-  - title: Multi-engine ESC Wiring
+  - title: "Multi-engine ESC Wiring"
     url: "https://www.youtube.com/watch?v=aADN7iCx9E4"
-  - title: Balsa wood RC Plane Kit assembly
+  - title: "Balsa wood RC Plane Kit assembly"
     url: "https://www.youtube.com/watch?v=zTzveEYqf1c"
-  - title: Drone theory 101
+  - title: "Drone theory 101"
     url: "https://youtube.com/playlist?list=PLwQuIH2CxvuNwSc9hrZjqlJOshi5iXb3l&si=hXo31KUzF5LyqfGI"
-  - title: Quadcopter Material-1
+  - title: "Quadcopter Material-1"
     url: "https://devopedia.org/quadcopter" 
-  - title: Quadcopter Material-2
+  - title: "Quadcopter Material-2"
     url: "https://www.dronetechplanet.com/physics-behind-how-drones-fly/" 
-  - title: Tricopter Material
+  - title: "Tricopter Material"
     url: "https://drive.google.com/drive/folders/1vSE8WIZ9NwJGMXl_J75hcvEnkTJ4oDmV"
-  - title: Software-Fusion360  Installation
+  - title: "Software-Fusion360  Installation"
     url: "https://youtu.be/rthZcJ1AW_Q?si=zkb9oVasWOQNQTeS"
-  - title: Software-Fusion360- Playlist    
+  - title: "Software-Fusion360- Playlist"
     url: "https://youtube.com/playlist?list=PLjGKAi--ZCoZntY2C0JwUjp-FZvqQUgOl&si=Y4pMWfC6kE1hh-AZ" 
-  - title: Software-xflr5 Installation
+  - title: "Software-xflr5 Installation"
     url: "https://youtu.be/8s7RFeJA2Kc?si=QVavhL27o5k159jA" 
-  - title: Software-xflr5 - Playlist    
+  - title: "Software-xflr5 - Playlist"
     url: "https://www.youtube.com/playlist?list=PLtl5ylS6jdP6uOxzSJKPnUsvMbkmalfKg"  
 
  
@@ -60,22 +60,22 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Ananya Naryani"
-    photo: https://drive.google.com/thumbnail?id=14y-eT0AHxM3pgGuQPrZ1wNBwu6XgUrqw&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=14y-eT0AHxM3pgGuQPrZ1wNBwu6XgUrqw&sz=w1000"
     linkedin: "http://www.linkedin.com/in/ananya-narayani-532210332"
     facebook: 
     insta: "https://www.instagram.com/ananyaa__0820?igsh=cXF3MjF2Ym1zdnJo"
   - name: "Anshika Agrawal"
-    photo: https://drive.google.com/thumbnail?id=17NMbwhVPTjlqsTcnaNaQasLajzHngDJg&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=17NMbwhVPTjlqsTcnaNaQasLajzHngDJg&sz=w1000"
     linkedin: "https://www.linkedin.com/in/anshika-agrawal-11b1b82a4/"
     facebook: ""
     insta: "https://www.instagram.com/pranayc_04/"
   - name: "Karan Gupta"
-    photo: https://drive.google.com/thumbnail?id=1yaj-Cs85leQCNmia8wxJnOPr_MEHf9_J&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1yaj-Cs85leQCNmia8wxJnOPr_MEHf9_J&sz=w1000"
     linkedin: "https://www.linkedin.com/in/karan-gupta-41a21332b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/currentgupta?igsh=aGJoMHJpcWpoejVn"
   - name: "Kirpa Singh"
-    photo: https://drive.google.com/thumbnail?id=1ePnxDzIXYAPU-xXn4WLhuYF4MwYajSJU&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1ePnxDzIXYAPU-xXn4WLhuYF4MwYajSJU&sz=w1000"
     linkedin: "https://www.linkedin.com/in/kirpa-singh-584354329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     facebook: ""
     insta: "https://www.instagram.com/i_kirpasingh?igsh=eTJhZndhNmVoMjZy"

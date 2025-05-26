@@ -23,8 +23,8 @@ layout: "clubs_page"    #NO NEED TO CHANGE
 roadmaps :
     #Write title of the document
     #Paste google drive link (link should be accessible to all)
-  - title: Astronomy Club Wiki
-    url: https://wiki.astroclubiitk.in/
+  - title: "Astronomy Club Wiki"
+    url: "https://wiki.astroclubiitk.in/"
   # - title: Title of the file2
   #   url: https://drive.google.com/file/d/1V5apAf-EsmiMbQTSnDcC-4fUxNZbrXw4/view?usp=sharing
   # - title: Title of the file3
@@ -34,26 +34,25 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Chhavi Tanwar"
-    photo: https://drive.google.com/thumbnail?id=14L81FXXc4O6xthkv92TRGnUgE7wXtIC3&sz=w1000  #NO NEED TO CHANGE
+    photo: https://drive.google.com/thumbnail?id=14L81FXXc4O6xthkv92TRGnUgE7wXtIC3&sz=w1000s #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/chhavi-tanwar-b03197286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/chhavitanwar_/profilecard/?igsh=OXR5ZGFhOGs5NmZl"
   - name: "Devansh Kartik"
-    photo: https://drive.google.com/thumbnail?id=1Kzr9yLy4urDV_IUowAep0ERbwRQPNDRh&sz=w1000  #NO NEED TO CHANGE
+    photo: "https://drive.google.com/thumbnail?id=1Kzr9yLy4urDV_IUowAep0ERbwRQPNDRh&sz=w1000"  #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/devansh-kartik-b98343293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=a"
     facebook: ""
     insta: "https://www.instagram.com/mohit_____parihar/"
   - name: "Pearl Narang"
-    photo: https://drive.google.com/thumbnail?id=1lQSweEHXUbCWgMdhxchacsyc-oOiPal7&sz=w1000   #NO NEED TO CHANGE
+    photo: "https://drive.google.com/thumbnail?id=1lQSweEHXUbCWgMdhxchacsyc-oOiPal7&sz=w1000"   #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/pearl-narang-441519318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/pearl_narang?igsh=NnQxNXBhcHUzaTM1"
   - name: "Tarushi Srivastava"
-    photo: https://drive.google.com/thumbnail?id=19twBMq9zuqmXIVYxrrGYIVZ65nQOsApF&sz=w1000   #NO NEED TO CHANGE
+    photo: "https://drive.google.com/thumbnail?id=19twBMq9zuqmXIVYxrrGYIVZ65nQOsApF&sz=w1000"  #NO NEED TO CHANGE
     linkedin: "https://www.linkedin.com/in/tarushi-srivastava-86409b298"
     facebook: ""
     insta: "https://www.instagram.com/srivastavatarushi07?igsh=NzA0NG5uajdxZXF6"
-  - 
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---
