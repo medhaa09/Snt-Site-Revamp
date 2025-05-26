@@ -53,6 +53,7 @@ cordies:
     linkedin: "http://www.linkedin.com/in/manas-jain-kuniya"
     facebook: ""
     insta: "http://www.linkedin.com/in/manas-jain-kuniya"
+    
   
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
