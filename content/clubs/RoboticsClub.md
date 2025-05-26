@@ -43,23 +43,23 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Chinar Ratnesh Mhatre"
-    photo: https://drive.google.com/thumbnail?id=1-ZOIdbBeySTnbzUiWjnsQdcFr_3ixNd8&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1-ZOIdbBeySTnbzUiWjnsQdcFr_3ixNd8&sz=w1000"
     linkedin: "https://www.linkedin.com/in/chinar-mhatre-a03b03244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     insta: "https://www.instagram.com/_pallav.946?igsh=cDg4Y3F3b2YzbzRs"
     
   - name: "Shivansh Gupta"
-    photo: https://drive.google.com/thumbnail?id=1oxHTUJZ8GxCXqo3K6PWpxKouFsOtCShH&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1oxHTUJZ8GxCXqo3K6PWpxKouFsOtCShH&sz=w1000"
     linkedin: "https://www.linkedin.com/in/shivansh-gupta-5a4870285/"
     facebook: ""
     insta: "https://www.instagram.com/shivanshgupta406/"
 
   - name: "Soumyajit Halder"
-    photo: https://drive.google.com/thumbnail?id=1Sk3EoOvr8Wf0UJSjG-0Jtc_trTGSNTpf&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1Sk3EoOvr8Wf0UJSjG-0Jtc_trTGSNTpf&sz=w1000"
     linkedin: "https://www.linkedin.com/in/soumyajit-halder-92ba00287/"
     insta: "https://www.instagram.com/soumyajit._.halder/"
 
   - name: "Ridhima Sharma "
-    photo: https://drive.google.com/thumbnail?id=1yl7Ud2wkrHyLt-Fzp-QCOkQgU8ihw-d2&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1yl7Ud2wkrHyLt-Fzp-QCOkQgU8ihw-d2&sz=w1000"
     linkedin: "https://www.linkedin.com/in/ridhima-sharma-4125972b5"
     insta: "https://www.instagram.com/ridhima_1185"
 

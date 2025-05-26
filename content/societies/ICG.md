@@ -31,25 +31,21 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Ameer Zaman"
-    photo: https://drive.google.com/thumbnail?id=16OzfEnSvh9I9c8Itt1V7uUax9PhxKXHb&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=16OzfEnSvh9I9c8Itt1V7uUax9PhxKXHb&sz=w1000"
     linkedin: "https://www.linkedin.com/in/ameer1803/"
     facebook: ""
     insta: "https://www.instagram.com/psyko.ae/"
   - name: "Kumar Shubham"
-    photo: https://drive.google.com/thumbnail?id=1vV-mlLwRj2d-3G5OyX9PCqvt4pNawvZa&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1vV-mlLwRj2d-3G5OyX9PCqvt4pNawvZa&sz=w1000"
     linkedin: "https://www.linkedin.com/in/kumar-shubham-28875b280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: 
     insta: "https://www.instagram.com/shubh_._am_._i?igsh=NHgybTE2cGQ3OTlj"
   - name: "Shlok Jain"
-    photo: https://drive.google.com/thumbnail?id=1W7_v3dYohClV_unhldGK9EgOwXA0yJ2k&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1W7_v3dYohClV_unhldGK9EgOwXA0yJ2k&sz=w1000"
     linkedin: "https://www.linkedin.com/in/shlok-jain-26a982285"
     facebook: ""
     insta: "https://www.instagram.com/shlokjain0177/"
-  - name: ""
-    photo: 
-    linkedin: ""
-    facebook: ""
-    insta: ""
+  
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---

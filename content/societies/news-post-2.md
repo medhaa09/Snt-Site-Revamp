@@ -9,16 +9,16 @@ description: The Design and Construction group organizes different activities in
 categories: societies
 layout: "clubs_page"
 cordies:
-  # - name: "Pushpender"
-  #   photo: "https://drive.google.com/thumbnail?id=1gzXGpPfI7RFxUp-1dXUirKWWkeswV4iH&sz=w1000"
-  #   linkedin: "https://www.linkedin.com/in/pushpender-371176287"
-  #   facebook: ""
-  #   insta: "https://www.instagram.com/pushpender.9257?igsh=OWo0NW5pOGpjNTEz"
-  # - name: "Vikash Sunda "
-  #   photo: "https://drive.google.com/thumbnail?id=1Eqe1JLPmlWaOVrSUCCEk7yhGe9rppnK7&sz=w1000"
-  #   linkedin: "http://www.linkedin.com/in/vikash-sunda-34245a2b4"
-  #   facebook: ""
-  #   insta: "https://www.instagram.com/vikash_sunda__06?igsh=ODJyYmQxbTZ0YnJ5"
+  - name: "Pushpender"
+    photo: "https://drive.google.com/thumbnail?id=1gzXGpPfI7RFxUp-1dXUirKWWkeswV4iH&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/pushpender-371176287"
+    facebook: ""
+    insta: "https://www.instagram.com/pushpender.9257?igsh=OWo0NW5pOGpjNTEz"
+  - name: "Vikash Sunda "
+    photo: "https://drive.google.com/thumbnail?id=1Eqe1JLPmlWaOVrSUCCEk7yhGe9rppnK7&sz=w1000"
+    linkedin: "http://www.linkedin.com/in/vikash-sunda-34245a2b4"
+    facebook: ""
+    insta: "https://www.instagram.com/vikash_sunda__06?igsh=ODJyYmQxbTZ0YnJ5"
   
 ---
 ## About Us

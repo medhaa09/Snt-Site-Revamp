@@ -44,25 +44,16 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Himanshu Sharma"
-    photo: https://drive.google.com/thumbnail?id=15pjLSo8iDYc5_eINbXh5-AQfIeZbRn0I&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=15pjLSo8iDYc5_eINbXh5-AQfIeZbRn0I&sz=w1000"
     linkedin: "https://www.linkedin.com/in/himanshu-sharma-152282217/"
     facebook: 
     insta: "https://www.instagram.com/sh_hi.man.shu/"
   - name: "Manas Jain Kuniya"
-    photo: https://drive.google.com/thumbnail?id=1st1l17TGdOcvasW57SAIyhPgJNAkekTF&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1st1l17TGdOcvasW57SAIyhPgJNAkekTF&sz=w1000"
     linkedin: "http://www.linkedin.com/in/manas-jain-kuniya"
     facebook: ""
     insta: "http://www.linkedin.com/in/manas-jain-kuniya"
-  - name: ""
-    photo: 
-    linkedin: ""
-    facebook: ""
-    insta: ""
-  - name: ""
-    photo: 
-    linkedin: ""
-    facebook: ""
-    insta: ""
+  
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---

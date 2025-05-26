@@ -26,20 +26,20 @@ cordies:
     facebook: 
     insta: "https://www.instagram.com/mohit_____parihar/"
   - name: "Ravi Kumar"
-    photo: https://drive.google.com/thumbnail?id=1FGmImgg15mzE1L5Xdaq3FHkKiGRNrZpt&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1FGmImgg15mzE1L5Xdaq3FHkKiGRNrZpt&sz=w1000"
     linkedin: "https://www.linkedin.com/in/rvi-kumar/"
     facebook: ""
     insta: "https://www.instagram.com/rvi_arya/"
-  - name: ""
-    photo:
-    linkedin: ""
-    facebook: ""
-    insta: ""
-  - name: ""
-    photo: 
-    linkedin: ""
-    facebook: ""
-    insta: ""
+  # - name: ""
+  #   photo:
+  #   linkedin: ""
+  #   facebook: ""
+  #   insta: ""
+  # - name: ""
+  #   photo: 
+  #   linkedin: ""
+  #   facebook: ""
+  #   insta: ""
     # To add more cordies, copy/paste name,photo,linkedin, facebook and insta in same format as above.
     
 ---

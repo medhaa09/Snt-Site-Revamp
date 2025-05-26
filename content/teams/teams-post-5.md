@@ -9,11 +9,11 @@ description: We are a team of undergraduates actively working with faculty and a
 categories: teams
 layout: "clubs_page"
 cordies:
-  # - name: "Ridin Datta"
-  #   photo: "/teams/ridin.jpg"
-  #   linkedin: "https://www.linkedin.com/in/ridin-datta-932697226/"
-  #   facebook: ""
-  #   insta: "https://www.instagram.com/rhydburgerr/"
+  - name: "Arbaaz Tanveer"
+    photo: "https://drive.google.com/thumbnail?id=1gzbTLOGFs-S3SdeFofIkthdMwukpRUSQ&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/arbaaz-tanveer-1320a7288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    facebook: ""
+    insta: "https://www.instagram.com/arbaaz_tanveer?igsh=MXVwZWx4emYzaHBkdA=="
   # - name: "Shubh Jain"
   #   photo: "/teams/shubh.png"
   #   linkedin: "https://www.linkedin.com/in/shubh-jain007/"

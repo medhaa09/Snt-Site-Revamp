@@ -34,22 +34,22 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Ishan Kamboj"
-    photo: https://drive.google.com/thumbnail?id=1eMG-F51NCp0NWBMvbBsggv4PnKYv7JAC&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1eMG-F51NCp0NWBMvbBsggv4PnKYv7JAC&sz=w1000"
     linkedin: "https://www.linkedin.com/in/cy9her"
     facebook: ""
     insta: "https://www.instagram.com/_ishan_kamboj?igsh=NmFkZXQwbjRvbWEz"
   - name: "Jaykant Nayak"
-    photo: https://drive.google.com/thumbnail?id=1c1Uad4joW0SPiWFQTfZrG0evvLQm86Dr&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1c1Uad4joW0SPiWFQTfZrG0evvLQm86Dr&sz=w1000"
     linkedin: "http://www.linkedin.com/in/jaykant-nayak-0946352a7"
     facebook: ""
     insta: "https://www.instagram.com/jaykant_29n?igsh=M25lY3YxNDV4MTQz"
   - name: "Priyanka"
-    photo: https://drive.google.com/thumbnail?id=15HkPHkj0Mut3VCY3Bvm6k10VyxrMZMgL&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=15HkPHkj0Mut3VCY3Bvm6k10VyxrMZMgL&sz=w1000"
     linkedin: "https://www.linkedin.com/in/priyanka-paliwal-77522928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/priyankapaliwal973?igsh=eW95NmVxdTJzeGtr"
   - name: "Priyank Agnihotri"
-    photo: https://drive.google.com/thumbnail?id=1Ab6a22aNz6z_nXNNC4-tAf39b23eR3cC&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1Ab6a22aNz6z_nXNNC4-tAf39b23eR3cC&sz=w1000"
     linkedin: "https://www.linkedin.com/in/priyank-agnihotri-61081228b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     facebook: ""
     insta: "https://www.instagram.com/prixyank?igsh=MWc1d2dweTB6cHdqaQ%3D%3D&utm_source=qr"

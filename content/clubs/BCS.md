@@ -32,22 +32,22 @@ roadmaps :
 cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Akshay Reddy Kamatam"
-    photo: https://drive.google.com/thumbnail?id=1QuGTEjsWSboQ9GfwvqQBv_khCKSU8bu2&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1QuGTEjsWSboQ9GfwvqQBv_khCKSU8bu2&sz=w1000"
     linkedin: "https://www.linkedin.com/in/akshay-reddy-kamatam-1baa14292/"
     facebook: 
     insta: "https://www.instagram.com/_me_akshayy/?hl=en"
   - name: "Gaurav Rampuria"
-    photo: https://drive.google.com/thumbnail?id=1-Ye9yaHVdCWjUBTE7j9SbgCAcRTZi8Py&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=1-Ye9yaHVdCWjUBTE7j9SbgCAcRTZi8Py&sz=w1000"
     linkedin: "https://www.linkedin.com/in/gaurav-kumar-rampuria-2246a916b/"
     facebook: ""
     insta: "https://www.instagram.com/gaurav_rampuria_/"
   - name: "Siddhant Shekhar"
-    photo: https://drive.google.com/thumbnail?id=15dCdN4QTP9Dw-irKlb9Xw3dm1MtPuVZR&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=15dCdN4QTP9Dw-irKlb9Xw3dm1MtPuVZR&sz=w1000"
     linkedin: "https://www.linkedin.com/in/siddhant-shekhar-848b88284/"
     facebook: ""
     insta: "https://www.instagram.com/siddhantshekhar_/"
   - name: "Sunraj Patel"
-    photo: https://drive.google.com/thumbnail?id=18ZGOIXGagu-gwNrgkmiTQVFSz8mXpXvh&sz=w1000
+    photo: "https://drive.google.com/thumbnail?id=18ZGOIXGagu-gwNrgkmiTQVFSz8mXpXvh&sz=w1000"
     linkedin: "https://www.linkedin.com/in/sunraj-patel-b55a80196/"
     facebook: ""
     insta: "https://www.instagram.com/sunraj_pat"
