@@ -44,7 +44,7 @@ cordies:
     facebook: ""
     insta: "https://www.instagram.com/jaykant_29n?igsh=M25lY3YxNDV4MTQz"
   - name: "Priyanka"
-    photo: "https://drive.google.com/thumbnail?id=15HkPHkj0Mut3VCY3Bvm6k10VyxrMZMgL&sz=w1000"
+    photo: "https://drive.google.com/thumbnail?id=14niiGue0OFADUyZ1osENjoYvP6PJElHY&sz=w1000"
     linkedin: "https://www.linkedin.com/in/priyanka-paliwal-77522928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/priyankapaliwal973?igsh=eW95NmVxdTJzeGtr"

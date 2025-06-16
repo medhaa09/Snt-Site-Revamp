@@ -1,9 +1,10 @@
 ---
+#using posts-template.html
 title: "Council-Coordinators"
 categories: council-coordinators
 headsList: 
   - name: "Atishay Jain"
-    photo: "1F1yQjY-CBcyYvCCeDn-5aRdqESuIECgw"
+    photo: "1Rg6uTAX2_3W6wx0OZ27Af-lkVUWytPZL"
     linkedin: "https://www.linkedin.com/in/atishay-jain-b90268296/"
     vertical: "Makerspace"
     facebook: 
@@ -13,6 +14,12 @@ headsList:
     linkedin: "https://www.linkedin.com/in/deeparyan-singh-259059285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     vertical: "Finance"
     facebook: 
+  - name: "Duruseti Srija"
+    photo: "1QjEwW6rA2nqK8oA5mIGI6KP-dqOJ-sCY"
+    linkedin: "https://www.linkedin.com/in/duruseti-srija-a42b00287/"
+    vertical: "Design and Outreach"
+    facebook: 
+    insta: 
     insta: "https://www.instagram.com/deep_aryan6.28?igsh=dHVocmgxbGR4bzg2"
   - name: "Ishani"
     photo: "13ckfdwc0bqXD8J7DJsJ9S8nP5-ZkgnUg"
@@ -38,10 +45,5 @@ headsList:
     vertical: "Events"
     facebook: 
     insta: "https://www.instagram.com/_.shubhtandon?igsh=MTh2YzY4NXg2ZzZ3NQ=="
-  - name: "Srija"
-    photo: 
-    linkedin:
-    vertical: "Design and Outreach"
-    facebook: 
-    insta: 
+
 ---

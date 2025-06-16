@@ -40,9 +40,9 @@ cordies:
     # Add name of cordies or heads and paste their social media links.
   - name: "Ashish Upadhyay"
     photo: "https://drive.google.com/thumbnail?id=1oWEQb7gVoxAuhSR8qrcQyQo33m8_FkU8&sz=w1000"
-    linkedin: 
+    linkedin: "https://www.linkedin.com/in/ashish-upadhyay-b2044b338"
     facebook: 
-    insta:
+    insta: "https://www.instagram.com/ashish_upadhyay_01/"
   - name: "Kshitij Bhardwaj"
     photo: "https://drive.google.com/thumbnail?id=1b-Ux_J-V6nrGHoRHa1As-nfybJZthY5X&sz=w1000"
     linkedin: "https://www.linkedin.com/in/kshitijbhardwaj1729"

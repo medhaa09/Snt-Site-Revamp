@@ -20,7 +20,7 @@ cordies:
     facebook: ""
     insta: "https://www.instagram.com/lipika_bagai?igsh=MTE4ZWxjNXY4eXBiZA=="
   - name: "Pradyumna Deshmukh"
-    photo: "https://drive.google.com/thumbnail?id=1FcbO2Nhsti-jD1p0hDJT_oufZq32a1G4&sz=w1000"
+    photo: "https://drive.google.com/thumbnail?id=1mfjpTa6rPzP_YK7pxT2YdgYwlh5_jxfI&sz=w1000"
     linkedin: "https://www.linkedin.com/in/pradyumna-deshmukh-b52190320/"
     facebook: ""
     insta: "https://www.instagram.com/pradyumna_deshmukh963/"

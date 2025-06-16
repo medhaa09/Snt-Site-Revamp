@@ -44,7 +44,7 @@ cordies:
     facebook: ""
     insta: ""
   - name: "Pearl Narang"
-    photo: "https://drive.google.com/thumbnail?id=1lQSweEHXUbCWgMdhxchacsyc-oOiPal7&sz=w1000" 
+    photo: "https://drive.google.com/thumbnail?id=1IdoDL6GfwYJ15Nj7KaJPqy3ZQAvJcOt8&sz=w1000" 
     linkedin: "https://www.linkedin.com/in/pearl-narang-441519318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/pearl_narang?igsh=NnQxNXBhcHUzaTM1"

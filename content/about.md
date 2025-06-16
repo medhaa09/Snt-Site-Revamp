@@ -6,7 +6,7 @@ language: en
 featured_image: "/images/snt_core_team_cover.png"
 layout: "about"
 gensec: "Tanush Goel"
-gensecPhoto: ""
+gensecPhoto: "/teams/Tanush.jpg"
 insta: "https://www.instagram.com/tanush.goel247?igsh=djY4czJqNHMxMGk1"
 linkedin: "https://www.linkedin.com/in/tanush-goel-a622a5289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
 
@@ -17,7 +17,7 @@ isec:
     facebook: ""
     insta: "https://www.instagram.com/attenuator2004?igsh=MXkxcnVzZHFyY3BnMA=="
   - name: "Yash Pratap Singh"
-    photo: ""
+    photo: "/teams/Yash.jpg"
     linkedin: "https://www.linkedin.com/in/its-me-yps?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     facebook: ""
     insta: "https://www.instagram.com/yps_8181?igsh=c2FxOHlzYnpmcHJt"

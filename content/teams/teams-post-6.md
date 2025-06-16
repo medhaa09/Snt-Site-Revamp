@@ -10,10 +10,10 @@ categories: teams
 layout: "clubs_page"
 cordies:
   - name: "Ashish Upadhyay"
-    photo:
-    linkedin: 
+    photo: "https://drive.google.com/thumbnail?id=1oWEQb7gVoxAuhSR8qrcQyQo33m8_FkU8&sz=w1000"
+    linkedin: "https://www.linkedin.com/in/ashish-upadhyay-b2044b338"
     facebook: 
-    insta:
+    insta: "https://www.instagram.com/ashish_upadhyay_01/"
   - name: "Dakshith Sureshkumar"
     photo: "https://drive.google.com/thumbnail?id=15ifAhzL1lXIbrbnrqC4l0V888nl4lfpV&sz=w1000"
     linkedin: "http://www.linkedin.com/in/dhakshith-sureshkumar"
